@@ -1,6 +1,6 @@
 {
-  "tmobile": {
-    "brand": {
+  "global": {
+    "magenta": {
       "100": {
         "value": "#ffebf2",
         "type": "color",
@@ -50,92 +50,146 @@
         "value": "#1d0c12",
         "type": "color",
         "description": "#1d0c12"
-      },
+      }
+    },
+    "brand": {
       "primary": {
         "default": {
-          "value": "{brand.600}",
+          "value": "{magenta.600}",
           "type": "color",
           "description": "Brand Primary Default"
         },
         "hover": {
-          "value": "{brand.700}",
+          "value": "{magenta.700}",
           "type": "color",
           "description": "Brand Primary Hover"
         },
         "active": {
-          "value": "{brand.800}",
+          "value": "{magenta.800}",
           "type": "color",
           "description": "Brand Primary Active"
         },
         "inverse": {
           "default": {
-            "value": "{brand.700}",
+            "value": "{magenta.700}",
             "type": "color",
             "description": "Brand Primary Inverse Default"
           },
           "hover": {
-            "value": "{brand.800}",
+            "value": "{magenta.800}",
             "type": "color",
             "description": "Brand Primary Inverse Hover"
           },
           "active": {
-            "value": "{brand.900}",
+            "value": "{magenta.900}",
             "type": "color",
             "description": "Brand Primary Inverse Active"
           }
         }
       }
     },
-    "secondary": {
+    "purple": {
       "100": {
-        "value": "#000000",
+        "value": "#F6E6FF",
         "type": "color",
-        "description": "#000000"
+        "description": "#F6E6FF"
       },
       "200": {
-        "value": "#000000",
+        "value": "#E4C6F7",
         "type": "color",
-        "description": "#000000"
+        "description": "#E4C6F7"
       },
       "300": {
-        "value": "#000000",
+        "value": "#CC98E8",
         "type": "color",
-        "description": "#000000"
+        "description": "#CC98E8"
       },
       "400": {
-        "value": "#000000",
+        "value": "#BC78E2",
         "type": "color",
-        "description": "#000000"
+        "description": "#BC78E2"
       },
       "500": {
-        "value": "#000000",
+        "value": "#9646C3",
         "type": "color",
-        "description": "#000000"
+        "description": "#9646C3"
       },
       "600": {
-        "value": "#000000",
+        "value": "#6E32A0",
         "type": "color",
-        "description": "#000000"
+        "description": "#6E32A0"
       },
       "700": {
-        "value": "#000000",
+        "value": "#5B2A85",
         "type": "color",
-        "description": "#000000"
+        "description": "#5B2A85"
       },
       "800": {
-        "value": "#000000",
+        "value": "#46196E",
         "type": "color",
-        "description": "#000000"
+        "description": "#46196E"
       },
       "900": {
-        "value": "#000000",
+        "value": "#311647",
         "type": "color",
-        "description": "#000000"
+        "description": "#311647"
       },
       "1000": {
-        "value": "#000000",
+        "value": "#231033",
         "type": "color",
-        "description": "#000000"
+        "description": "#231033"
+      }
+    },
+    "gold": {
+      "100": {
+        "value": "#FBEAD9",
+        "type": "color",
+        "description": "#FBEAD9"
+      },
+      "200": {
+        "value": "#FAD2A8",
+        "type": "color",
+        "description": "#FAD2A8"
+      },
+      "300": {
+        "value": "#F2BA81",
+        "type": "color",
+        "description": "#F2BA81"
+      },
+      "400": {
+        "value": "#F5A755",
+        "type": "color",
+        "description": "#F5A755"
+      },
+      "500": {
+        "value": "#FB9B35",
+        "type": "color",
+        "description": "#FB9B35"
+      },
+      "600": {
+        "value": "#E37501",
+        "type": "color",
+        "description": "#E37501"
+      },
+      "700": {
+        "value": "#D77311",
+        "type": "color",
+        "description": "#D77311"
+      },
+      "800": {
+        "value": "#B45C00",
+        "type": "color",
+        "description": "#B45C00"
+      },
+      "900": {
+        "value": "#904D07",
+        "type": "color",
+        "description": "#904D07"
+      },
+      "1000": {
+        "value": "#6F3A04",
+        "type": "color",
+        "description": "#6F3A04"
       }
     },
     "grayscale": {
@@ -511,33 +565,33 @@
       },
       "interactive": {
         "default": {
-          "value": "{brand.600}",
+          "value": "{magenta.600}",
           "type": "color",
           "description": "Text Interactive Default"
         },
         "hover": {
-          "value": "{brand.700}",
+          "value": "{magenta.700}",
           "type": "color",
           "description": "Text Interactive Hover"
         },
         "active": {
-          "value": "{brand.800}",
+          "value": "{magenta.800}",
           "type": "color",
           "description": "Text Interactive Active"
         },
         "inverse": {
           "default": {
-            "value": "{brand.700}",
+            "value": "{magenta.700}",
             "type": "color",
             "description": "Text Interactive Inverse Default"
           },
           "hover": {
-            "value": "{brand.800}",
+            "value": "{magenta.800}",
             "type": "color",
             "description": "Text Interactive Inverse Hover"
           },
           "active": {
-            "value": "{brand.900}",
+            "value": "{magenta.900}",
             "type": "color",
             "description": "Text Interactive Inverse Active"
           }
@@ -822,21 +876,7 @@
       }
     }
   },
-  "test": {
-    "brand": {
-      "primary": {
-        "default": {
-          "value": "{brand.100}",
-          "type": "color"
-        },
-        "inverse": {
-          "default": {
-            "value": "{brand.800}",
-            "type": "color"
-          }
-        }
-      }
-    }
-  },
+  "tmobile": {},
+  "metro": {},
   "$themes": []
 }
