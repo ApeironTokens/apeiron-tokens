@@ -918,5 +918,301 @@
       }
     }
   },
+  "metro": {
+    "brand": {
+      "primary": {
+        "onLight": {
+          "default": {
+            "value": "{purple.600}",
+            "type": "color",
+            "description": "Brand Primary onLight Default"
+          },
+          "hover": {
+            "value": "{purple.700}",
+            "type": "color",
+            "description": "Brand Primary onLight Hover"
+          },
+          "active": {
+            "value": "{purple.800}",
+            "type": "color",
+            "description": "Brand Primary onLight Active"
+          }
+        },
+        "onDark": {
+          "default": {
+            "value": "{purple.700}",
+            "type": "color",
+            "description": "Brand Primary onDark Default"
+          },
+          "hover": {
+            "value": "{purple.800}",
+            "type": "color",
+            "description": "Brand Primary onDark Hover"
+          },
+          "active": {
+            "value": "{purple.900}",
+            "type": "color",
+            "description": "Brand Primary onDark Active"
+          }
+        }
+      },
+      "secondary": {
+        "onLight": {
+          "default": {
+            "value": "{gold.600}",
+            "type": "color",
+            "description": "Brand Secondary onLight Default"
+          },
+          "hover": {
+            "value": "{gold.700}",
+            "type": "color",
+            "description": "Brand Secondary onLight Hover"
+          },
+          "active": {
+            "value": "{gold.800}",
+            "type": "color",
+            "description": "Brand Secondary onLight Active"
+          }
+        },
+        "onDark": {
+          "default": {
+            "value": "{gold.700}",
+            "type": "color",
+            "description": "Brand Secondary onDark Default"
+          },
+          "hover": {
+            "value": "{gold.800}",
+            "type": "color",
+            "description": "Brand Secondary onDark Hover"
+          },
+          "active": {
+            "value": "{gold.900}",
+            "type": "color",
+            "description": "Brand Secondary onDark Active"
+          }
+        }
+      }
+    },
+    "background": {
+      "primary": {
+        "onLight": {
+          "value": "{grayscale.100}",
+          "type": "color",
+          "description": "Background Primary onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.1000}",
+          "type": "color",
+          "description": "Background Primary onDark"
+        }
+      },
+      "secondary": {
+        "onLight": {
+          "value": "{grayscale.200}",
+          "type": "color",
+          "description": "Background Secondary onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.900}",
+          "type": "color",
+          "description": "Background Secondary onDark"
+        }
+      },
+      "disabled": {
+        "onLight": {
+          "value": "{grayscale.800}",
+          "type": "color",
+          "description": "Background Disabled onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.700}",
+          "type": "color",
+          "description": "Background Disabled onDark"
+        }
+      },
+      "critical": {
+        "onLight": {
+          "value": "{critical.600}",
+          "type": "color",
+          "description": "Background Critical onLight"
+        },
+        "onDark": {
+          "value": "{critical.500}",
+          "type": "color",
+          "description": "Background Critical onDark"
+        }
+      },
+      "positive": {
+        "onLight": {
+          "value": "{positive.700}",
+          "type": "color",
+          "description": "Background Positive onLight"
+        },
+        "onDark": {
+          "value": "{positive.500}",
+          "type": "color",
+          "description": "Background Positive onDark"
+        }
+      },
+      "caution": {
+        "onLight": {
+          "value": "{caution.900}",
+          "type": "color",
+          "description": "Background Caution onLight"
+        },
+        "onDark": {
+          "value": "{caution.700}",
+          "type": "color",
+          "description": "Background Caution onDark"
+        }
+      },
+      "information": {
+        "onLight": {
+          "value": "{info.700}",
+          "type": "color",
+          "description": "Background Information onLight"
+        },
+        "onDark": {
+          "value": "{info.600}",
+          "type": "color",
+          "description": "Background Information onDark"
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "onLight": {
+          "value": "{grayscale.900}",
+          "type": "color",
+          "description": "Text Primary onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.200}",
+          "type": "color",
+          "description": "Text Primary onDark"
+        }
+      },
+      "secondary": {
+        "onLight": {
+          "value": "{grayscale.800}",
+          "type": "color",
+          "description": "Text Secondary onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.300}",
+          "type": "color",
+          "description": "Text Secondary onDark"
+        }
+      },
+      "interactive": {
+        "onLight": {
+          "default": {
+            "value": "{purple.600}",
+            "type": "color",
+            "description": "Text Interactive onLight Default"
+          },
+          "hover": {
+            "value": "{purple.700}",
+            "type": "color",
+            "description": "Text Interactive onLight Hover"
+          },
+          "active": {
+            "value": "{purple.800}",
+            "type": "color",
+            "description": "Text Interactive onLight Active"
+          }
+        },
+        "onDark": {
+          "default": {
+            "value": "{purple.700}",
+            "type": "color",
+            "description": "Text Interactive onDark Default"
+          },
+          "hover": {
+            "value": "{purple.800}",
+            "type": "color",
+            "description": "Text Interactive onDark Hover"
+          },
+          "active": {
+            "value": "{purple.900}",
+            "type": "color",
+            "description": "Text Interactive onDark Active"
+          }
+        }
+      },
+      "helper": {
+        "onLight": {
+          "value": "{grayscale.800}",
+          "type": "color",
+          "description": "Text Helper onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.200}",
+          "type": "color",
+          "description": "Text Helper onDark"
+        }
+      },
+      "disabled": {
+        "onLight": {
+          "value": "{grayscale.800}",
+          "type": "color",
+          "description": "Text Disabled onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.700}",
+          "type": "color",
+          "description": "Text Disabled onDark"
+        }
+      },
+      "critical": {
+        "onLight": {
+          "value": "{critical.600}",
+          "type": "color",
+          "description": "Text Critical onLight"
+        },
+        "onDark": {
+          "value": "{critical.500}",
+          "type": "color",
+          "description": "Text Critical onDark"
+        }
+      },
+      "positive": {
+        "onLight": {
+          "value": "{positive.700}",
+          "type": "color",
+          "description": "Text Positive onLight"
+        },
+        "onDark": {
+          "value": "{positive.500}",
+          "type": "color",
+          "description": "Text Positive onDark"
+        }
+      },
+      "caution": {
+        "onLight": {
+          "value": "{caution.900}",
+          "type": "color",
+          "description": "Text Caution onLight"
+        },
+        "onDark": {
+          "value": "{caution.700}",
+          "type": "color",
+          "description": "Text Caution onDark"
+        }
+      },
+      "information": {
+        "onLight": {
+          "value": "{info.700}",
+          "type": "color",
+          "description": "Text Information onLight"
+        },
+        "onDark": {
+          "value": "{info.600}",
+          "type": "color",
+          "description": "Text Information onDark"
+        }
+      }
+    }
+  },
   "$themes": []
 }
