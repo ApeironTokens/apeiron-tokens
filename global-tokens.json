@@ -52,42 +52,6 @@
         "description": "#1d0c12"
       }
     },
-    "brand": {
-      "primary": {
-        "default": {
-          "value": "{magenta.600}",
-          "type": "color",
-          "description": "Brand Primary Default"
-        },
-        "hover": {
-          "value": "{magenta.700}",
-          "type": "color",
-          "description": "Brand Primary Hover"
-        },
-        "active": {
-          "value": "{magenta.800}",
-          "type": "color",
-          "description": "Brand Primary Active"
-        },
-        "inverse": {
-          "default": {
-            "value": "{magenta.700}",
-            "type": "color",
-            "description": "Brand Primary Inverse Default"
-          },
-          "hover": {
-            "value": "{magenta.800}",
-            "type": "color",
-            "description": "Brand Primary Inverse Hover"
-          },
-          "active": {
-            "value": "{magenta.900}",
-            "type": "color",
-            "description": "Brand Primary Inverse Active"
-          }
-        }
-      }
-    },
     "purple": {
       "100": {
         "value": "#F6E6FF",
@@ -876,7 +840,45 @@
       }
     }
   },
-  "tmobile": {},
-  "metro": {},
+  "tmobile": {
+    "brand": {
+      "primary": {
+        "onLight": {
+          "default": {
+            "value": "{magenta.600}",
+            "type": "color",
+            "description": "Brand Primary onLight Default"
+          },
+          "hover": {
+            "value": "{magenta.700}",
+            "type": "color",
+            "description": "Brand Primary onLight Hover"
+          },
+          "active": {
+            "value": "{magenta.800}",
+            "type": "color",
+            "description": "Brand Primary onLight Active"
+          }
+        },
+        "onDark": {
+          "default": {
+            "value": "{magenta.700}",
+            "type": "color",
+            "description": "Brand Primary onDark Default"
+          },
+          "hover": {
+            "value": "{magenta.800}",
+            "type": "color",
+            "description": "Brand Primary onDark Hover"
+          },
+          "active": {
+            "value": "{magenta.900}",
+            "type": "color",
+            "description": "Brand Primary onDark Active"
+          }
+        }
+      }
+    }
+  },
   "$themes": []
 }
