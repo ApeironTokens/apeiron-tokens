@@ -416,224 +416,6 @@
         "description": "#0f151c"
       }
     },
-    "background": {
-      "primary": {
-        "default": {
-          "value": "{grayscale.100}",
-          "type": "color",
-          "description": "Background Primary Default"
-        },
-        "inverse": {
-          "value": "{grayscale.1000}",
-          "type": "color",
-          "description": "Background Primary Inverse"
-        }
-      },
-      "secondary": {
-        "default": {
-          "value": "{grayscale.200}",
-          "type": "color",
-          "description": "Background Secondary Default"
-        },
-        "inverse": {
-          "value": "{grayscale.900}",
-          "type": "color",
-          "description": "Background Secondary Inverse"
-        }
-      },
-      "disabled": {
-        "default": {
-          "value": "{grayscale.800}",
-          "type": "color",
-          "description": "Background Disabled Default"
-        },
-        "inverse": {
-          "value": "{grayscale.700}",
-          "type": "color",
-          "description": "Background Disabled Inverse"
-        }
-      },
-      "critical": {
-        "default": {
-          "value": "{critical.600}",
-          "type": "color",
-          "description": "Background Critical Default"
-        },
-        "inverse": {
-          "value": "{critical.500}",
-          "type": "color",
-          "description": "Background Critical Inverse"
-        }
-      },
-      "positive": {
-        "default": {
-          "value": "{positive.700}",
-          "type": "color",
-          "description": "Background Positive Default"
-        },
-        "inverse": {
-          "value": "{positive.500}",
-          "type": "color",
-          "description": "Background Positive Inverse"
-        }
-      },
-      "caution": {
-        "default": {
-          "value": "{caution.900}",
-          "type": "color",
-          "description": "Background Caution Default"
-        },
-        "inverse": {
-          "value": "{caution.700}",
-          "type": "color",
-          "description": "Background Caution Inverse"
-        }
-      },
-      "information": {
-        "default": {
-          "value": "{info.700}",
-          "type": "color",
-          "description": "Background Information Default"
-        },
-        "inverse": {
-          "value": "{info.600}",
-          "type": "color",
-          "description": "Background Information Inverse"
-        }
-      }
-    },
-    "text": {
-      "primary": {
-        "default": {
-          "value": "{grayscale.900}",
-          "type": "color",
-          "description": "Text Primary Default"
-        },
-        "inverse": {
-          "value": "{grayscale.200}",
-          "type": "color",
-          "description": "Text Primary Inverse"
-        }
-      },
-      "secondary": {
-        "default": {
-          "value": "{grayscale.800}",
-          "type": "color",
-          "description": "Text Secondary Default"
-        },
-        "inverse": {
-          "value": "{grayscale.300}",
-          "type": "color",
-          "description": "Text Secondary Inverse"
-        }
-      },
-      "interactive": {
-        "default": {
-          "value": "{magenta.600}",
-          "type": "color",
-          "description": "Text Interactive Default"
-        },
-        "hover": {
-          "value": "{magenta.700}",
-          "type": "color",
-          "description": "Text Interactive Hover"
-        },
-        "active": {
-          "value": "{magenta.800}",
-          "type": "color",
-          "description": "Text Interactive Active"
-        },
-        "inverse": {
-          "default": {
-            "value": "{magenta.700}",
-            "type": "color",
-            "description": "Text Interactive Inverse Default"
-          },
-          "hover": {
-            "value": "{magenta.800}",
-            "type": "color",
-            "description": "Text Interactive Inverse Hover"
-          },
-          "active": {
-            "value": "{magenta.900}",
-            "type": "color",
-            "description": "Text Interactive Inverse Active"
-          }
-        }
-      },
-      "helper": {
-        "default": {
-          "value": "{grayscale.800}",
-          "type": "color",
-          "description": "Text Helper Default"
-        },
-        "inverse": {
-          "value": "{grayscale.200}",
-          "type": "color",
-          "description": "Text Helper Inverse"
-        }
-      },
-      "disabled": {
-        "default": {
-          "value": "{grayscale.800}",
-          "type": "color",
-          "description": "Text Disabled Default"
-        },
-        "inverse": {
-          "value": "{grayscale.700}",
-          "type": "color",
-          "description": "Text Disabled Inverse"
-        }
-      },
-      "critical": {
-        "default": {
-          "value": "{critical.600}",
-          "type": "color",
-          "description": "Text Critical Default"
-        },
-        "inverse": {
-          "value": "{critical.500}",
-          "type": "color",
-          "description": "Text Critical Inverse"
-        }
-      },
-      "positive": {
-        "default": {
-          "value": "{positive.700}",
-          "type": "color",
-          "description": "Text Positive Default"
-        },
-        "inverse": {
-          "value": "{positive.500}",
-          "type": "color",
-          "description": "Text Positive Inverse"
-        }
-      },
-      "caution": {
-        "default": {
-          "value": "{caution.900}",
-          "type": "color",
-          "description": "Text Caution Default"
-        },
-        "inverse": {
-          "value": "{caution.700}",
-          "type": "color",
-          "description": "Text Caution Inverse"
-        }
-      },
-      "information": {
-        "default": {
-          "value": "{info.700}",
-          "type": "color",
-          "description": "Text Information Default"
-        },
-        "inverse": {
-          "value": "{info.600}",
-          "type": "color",
-          "description": "Text Information Inverse"
-        }
-      }
-    },
     "spacing": {
       "1": {
         "value": "8px",
@@ -876,6 +658,262 @@
             "type": "color",
             "description": "Brand Primary onDark Active"
           }
+        }
+      },
+      "secondary": {
+        "onLight": {
+          "default": {
+            "value": "#000",
+            "type": "color",
+            "description": "Brand Secondary onLight Default"
+          },
+          "hover": {
+            "value": "#000",
+            "type": "color",
+            "description": "Brand Secondary onLight Hover"
+          },
+          "active": {
+            "value": "#000",
+            "type": "color",
+            "description": "Brand Secondary onLight Active"
+          }
+        },
+        "onDark": {
+          "default": {
+            "value": "#000",
+            "type": "color",
+            "description": "Brand Secondary onDark Default"
+          },
+          "hover": {
+            "value": "#000",
+            "type": "color",
+            "description": "Brand Secondary onDark Hover"
+          },
+          "active": {
+            "value": "#000",
+            "type": "color",
+            "description": "Brand Secondary onDark Active"
+          }
+        }
+      }
+    },
+    "background": {
+      "primary": {
+        "onLight": {
+          "value": "{grayscale.100}",
+          "type": "color",
+          "description": "Background Primary onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.1000}",
+          "type": "color",
+          "description": "Background Primary onDark"
+        }
+      },
+      "secondary": {
+        "onLight": {
+          "value": "{grayscale.200}",
+          "type": "color",
+          "description": "Background Secondary onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.900}",
+          "type": "color",
+          "description": "Background Secondary onDark"
+        }
+      },
+      "disabled": {
+        "onLight": {
+          "value": "{grayscale.800}",
+          "type": "color",
+          "description": "Background Disabled onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.700}",
+          "type": "color",
+          "description": "Background Disabled onDark"
+        }
+      },
+      "critical": {
+        "onLight": {
+          "value": "{critical.600}",
+          "type": "color",
+          "description": "Background Critical onLight"
+        },
+        "onDark": {
+          "value": "{critical.500}",
+          "type": "color",
+          "description": "Background Critical onDark"
+        }
+      },
+      "positive": {
+        "onLight": {
+          "value": "{positive.700}",
+          "type": "color",
+          "description": "Background Positive onLight"
+        },
+        "onDark": {
+          "value": "{positive.500}",
+          "type": "color",
+          "description": "Background Positive onDark"
+        }
+      },
+      "caution": {
+        "onLight": {
+          "value": "{caution.900}",
+          "type": "color",
+          "description": "Background Caution onLight"
+        },
+        "onDark": {
+          "value": "{caution.700}",
+          "type": "color",
+          "description": "Background Caution onDark"
+        }
+      },
+      "information": {
+        "onLight": {
+          "value": "{info.700}",
+          "type": "color",
+          "description": "Background Information onLight"
+        },
+        "onDark": {
+          "value": "{info.600}",
+          "type": "color",
+          "description": "Background Information onDark"
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "onLight": {
+          "value": "{grayscale.900}",
+          "type": "color",
+          "description": "Text Primary onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.200}",
+          "type": "color",
+          "description": "Text Primary onDark"
+        }
+      },
+      "secondary": {
+        "onLight": {
+          "value": "{grayscale.800}",
+          "type": "color",
+          "description": "Text Secondary onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.300}",
+          "type": "color",
+          "description": "Text Secondary onDark"
+        }
+      },
+      "interactive": {
+        "onLight": {
+          "default": {
+            "value": "{magenta.600}",
+            "type": "color",
+            "description": "Text Interactive onLight Default"
+          },
+          "hover": {
+            "value": "{magenta.700}",
+            "type": "color",
+            "description": "Text Interactive onLight Hover"
+          },
+          "active": {
+            "value": "{magenta.800}",
+            "type": "color",
+            "description": "Text Interactive onLight Active"
+          }
+        },
+        "onDark": {
+          "default": {
+            "value": "{magenta.700}",
+            "type": "color",
+            "description": "Text Interactive onDark Default"
+          },
+          "hover": {
+            "value": "{magenta.800}",
+            "type": "color",
+            "description": "Text Interactive onDark Hover"
+          },
+          "active": {
+            "value": "{magenta.900}",
+            "type": "color",
+            "description": "Text Interactive onDark Active"
+          }
+        }
+      },
+      "helper": {
+        "onLight": {
+          "value": "{grayscale.800}",
+          "type": "color",
+          "description": "Text Helper onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.200}",
+          "type": "color",
+          "description": "Text Helper onDark"
+        }
+      },
+      "disabled": {
+        "onLight": {
+          "value": "{grayscale.800}",
+          "type": "color",
+          "description": "Text Disabled onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.700}",
+          "type": "color",
+          "description": "Text Disabled onDark"
+        }
+      },
+      "critical": {
+        "onLight": {
+          "value": "{critical.600}",
+          "type": "color",
+          "description": "Text Critical onLight"
+        },
+        "onDark": {
+          "value": "{critical.500}",
+          "type": "color",
+          "description": "Text Critical onDark"
+        }
+      },
+      "positive": {
+        "onLight": {
+          "value": "{positive.700}",
+          "type": "color",
+          "description": "Text Positive onLight"
+        },
+        "onDark": {
+          "value": "{positive.500}",
+          "type": "color",
+          "description": "Text Positive onDark"
+        }
+      },
+      "caution": {
+        "onLight": {
+          "value": "{caution.900}",
+          "type": "color",
+          "description": "Text Caution onLight"
+        },
+        "onDark": {
+          "value": "{caution.700}",
+          "type": "color",
+          "description": "Text Caution onDark"
+        }
+      },
+      "information": {
+        "onLight": {
+          "value": "{info.700}",
+          "type": "color",
+          "description": "Text Information onLight"
+        },
+        "onDark": {
+          "value": "{info.600}",
+          "type": "color",
+          "description": "Text Information onDark"
         }
       }
     }
