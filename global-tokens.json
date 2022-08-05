@@ -417,55 +417,55 @@
       }
     },
     "spacing": {
-      "1": {
+      "4": {
+        "value": "4px",
+        "type": "spacing",
+        "description": "4px"
+      },
+      "8": {
         "value": "8px",
         "type": "spacing",
         "description": "8px"
       },
-      "2": {
+      "16": {
         "value": "16px",
         "type": "spacing",
         "description": "16px"
       },
-      "3": {
+      "24": {
         "value": "24px",
         "type": "spacing",
         "description": "24px"
       },
-      "4": {
+      "32": {
         "value": "32px",
         "type": "spacing",
         "description": "32px"
       },
-      "5": {
+      "40": {
         "value": "40px",
         "type": "spacing",
         "description": "40px"
       },
-      "6": {
+      "48": {
         "value": "48px",
         "type": "spacing",
         "description": "48px"
       },
-      "7": {
+      "56": {
         "value": "56px",
         "type": "spacing",
         "description": "56px"
       },
-      "8": {
+      "80": {
         "value": "80px",
         "type": "spacing",
         "description": "80px"
       },
-      "9": {
+      "96": {
         "value": "96px",
         "type": "spacing",
         "description": "96px"
-      },
-      "half": {
-        "value": "4px",
-        "type": "spacing",
-        "description": "4px"
       }
     },
     "fontSize": {
@@ -625,113 +625,123 @@
   "tmobile": {
     "brand": {
       "primary": {
-        "onLight": {
-          "default": {
+        "default": {
+          "onLight": {
             "value": "{magenta.600}",
             "type": "color",
-            "description": "Brand Primary onLight Default"
+            "description": "Brand Primary Default onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "{magenta.700}",
             "type": "color",
-            "description": "Brand Primary onLight Hover"
-          },
-          "active": {
-            "value": "{magenta.800}",
-            "type": "color",
-            "description": "Brand Primary onLight Active"
+            "description": "Brand Primary Default onDark"
           }
         },
-        "onDark": {
-          "default": {
+        "hover": {
+          "onLight": {
             "value": "{magenta.700}",
             "type": "color",
-            "description": "Brand Primary onDark Default"
+            "description": "Brand Primary Hover onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "{magenta.800}",
             "type": "color",
-            "description": "Brand Primary onDark Hover"
+            "description": "Brand Primary Hover onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "{magenta.800}",
+            "type": "color",
+            "description": "Brand Primary Active onLight"
           },
-          "active": {
+          "onDark": {
             "value": "{magenta.900}",
             "type": "color",
-            "description": "Brand Primary onDark Active"
+            "description": "Brand Primary Active onDark"
           }
         }
       },
       "secondary": {
-        "onLight": {
-          "default": {
+        "default": {
+          "onLight": {
             "value": "#000",
             "type": "color",
-            "description": "Brand Secondary onLight Default"
+            "description": "Brand Secondary Default onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "#000",
             "type": "color",
-            "description": "Brand Secondary onLight Hover"
-          },
-          "active": {
-            "value": "#000",
-            "type": "color",
-            "description": "Brand Secondary onLight Active"
+            "description": "Brand Secondary Default onDark"
           }
         },
-        "onDark": {
-          "default": {
+        "hover": {
+          "onLight": {
             "value": "#000",
             "type": "color",
-            "description": "Brand Secondary onDark Default"
+            "description": "Brand Secondary Hover onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "#000",
             "type": "color",
-            "description": "Brand Secondary onDark Hover"
+            "description": "Brand Secondary Hover onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "#000",
+            "type": "color",
+            "description": "Brand Secondary Active onLight"
           },
-          "active": {
+          "onDark": {
             "value": "#000",
             "type": "color",
-            "description": "Brand Secondary onDark Active"
+            "description": "Brand Secondary Active onDark"
           }
         }
       }
     },
     "background": {
       "primary": {
-        "onLight": {
-          "value": "{grayscale.100}",
-          "type": "color",
-          "description": "Background Primary onLight"
-        },
-        "onDark": {
-          "value": "{grayscale.1000}",
-          "type": "color",
-          "description": "Background Primary onDark"
+        "default": {
+          "onLight": {
+            "value": "{grayscale.100}",
+            "type": "color",
+            "description": "Background Primary Default onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.1000}",
+            "type": "color",
+            "description": "Background Primary Default onDark"
+          }
         }
       },
       "secondary": {
-        "onLight": {
-          "value": "{grayscale.200}",
-          "type": "color",
-          "description": "Background Secondary onLight"
-        },
-        "onDark": {
-          "value": "{grayscale.900}",
-          "type": "color",
-          "description": "Background Secondary onDark"
+        "default": {
+          "onLight": {
+            "value": "{grayscale.200}",
+            "type": "color",
+            "description": "Background Secondary Default onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.900}",
+            "type": "color",
+            "description": "Background Secondary Default onDark"
+          }
         }
       },
       "disabled": {
-        "onLight": {
-          "value": "{grayscale.800}",
-          "type": "color",
-          "description": "Background Disabled onLight"
-        },
-        "onDark": {
-          "value": "{grayscale.700}",
-          "type": "color",
-          "description": "Background Disabled onDark"
+        "default": {
+          "onLight": {
+            "value": "{grayscale.800}",
+            "type": "color",
+            "description": "Background Disabled Default onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.700}",
+            "type": "color",
+            "description": "Background Disabled Default onDark"
+          }
         }
       },
       "critical": {
@@ -809,38 +819,40 @@
         }
       },
       "interactive": {
-        "onLight": {
-          "default": {
+        "default": {
+          "onLight": {
             "value": "{magenta.600}",
             "type": "color",
-            "description": "Text Interactive onLight Default"
+            "description": "Text Interactive Default onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "{magenta.700}",
             "type": "color",
-            "description": "Text Interactive onLight Hover"
-          },
-          "active": {
-            "value": "{magenta.800}",
-            "type": "color",
-            "description": "Text Interactive onLight Active"
+            "description": "Text Interactive Default onDark"
           }
         },
-        "onDark": {
-          "default": {
+        "hover": {
+          "onLight": {
             "value": "{magenta.700}",
             "type": "color",
-            "description": "Text Interactive onDark Default"
+            "description": "Text Interactive Hover onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "{magenta.800}",
             "type": "color",
-            "description": "Text Interactive onDark Hover"
+            "description": "Text Interactive Hover onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "{magenta.800}",
+            "type": "color",
+            "description": "Text Interactive Active onLight"
           },
-          "active": {
+          "onDark": {
             "value": "{magenta.900}",
             "type": "color",
-            "description": "Text Interactive onDark Active"
+            "description": "Text Interactive Active onDark"
           }
         }
       },
@@ -921,113 +933,123 @@
   "metro": {
     "brand": {
       "primary": {
-        "onLight": {
-          "default": {
+        "default": {
+          "onLight": {
             "value": "{purple.600}",
             "type": "color",
-            "description": "Brand Primary onLight Default"
+            "description": "Brand Primary Default onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "{purple.700}",
             "type": "color",
-            "description": "Brand Primary onLight Hover"
-          },
-          "active": {
-            "value": "{purple.800}",
-            "type": "color",
-            "description": "Brand Primary onLight Active"
+            "description": "Brand Primary Default onDark"
           }
         },
-        "onDark": {
-          "default": {
+        "hover": {
+          "onLight": {
             "value": "{purple.700}",
             "type": "color",
-            "description": "Brand Primary onDark Default"
+            "description": "Brand Primary Hover onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "{purple.800}",
             "type": "color",
-            "description": "Brand Primary onDark Hover"
+            "description": "Brand Primary Hover onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "{purple.800}",
+            "type": "color",
+            "description": "Brand Primary Active onLight"
           },
-          "active": {
+          "onDark": {
             "value": "{purple.900}",
             "type": "color",
-            "description": "Brand Primary onDark Active"
+            "description": "Brand Primary Active onDark"
           }
         }
       },
       "secondary": {
-        "onLight": {
-          "default": {
+        "default": {
+          "onLight": {
             "value": "{gold.600}",
             "type": "color",
-            "description": "Brand Secondary onLight Default"
+            "description": "Brand Secondary Default onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "{gold.700}",
             "type": "color",
-            "description": "Brand Secondary onLight Hover"
-          },
-          "active": {
-            "value": "{gold.800}",
-            "type": "color",
-            "description": "Brand Secondary onLight Active"
+            "description": "Brand Secondary Default onDark"
           }
         },
-        "onDark": {
-          "default": {
+        "hover": {
+          "onLight": {
             "value": "{gold.700}",
             "type": "color",
-            "description": "Brand Secondary onDark Default"
+            "description": "Brand Secondary Hover onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "{gold.800}",
             "type": "color",
-            "description": "Brand Secondary onDark Hover"
+            "description": "Brand Secondary Hover onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "{gold.800}",
+            "type": "color",
+            "description": "Brand Secondary Active onLight"
           },
-          "active": {
+          "onDark": {
             "value": "{gold.900}",
             "type": "color",
-            "description": "Brand Secondary onDark Active"
+            "description": "Brand Secondary Active onDark"
           }
         }
       }
     },
     "background": {
       "primary": {
-        "onLight": {
-          "value": "{grayscale.100}",
-          "type": "color",
-          "description": "Background Primary onLight"
-        },
-        "onDark": {
-          "value": "{grayscale.1000}",
-          "type": "color",
-          "description": "Background Primary onDark"
+        "default": {
+          "onLight": {
+            "value": "{grayscale.100}",
+            "type": "color",
+            "description": "Background Primary Default onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.1000}",
+            "type": "color",
+            "description": "Background Primary Default onDark"
+          }
         }
       },
       "secondary": {
-        "onLight": {
-          "value": "{grayscale.200}",
-          "type": "color",
-          "description": "Background Secondary onLight"
-        },
-        "onDark": {
-          "value": "{grayscale.900}",
-          "type": "color",
-          "description": "Background Secondary onDark"
+        "default": {
+          "onLight": {
+            "value": "{grayscale.200}",
+            "type": "color",
+            "description": "Background Secondary Default onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.900}",
+            "type": "color",
+            "description": "Background Secondary Default onDark"
+          }
         }
       },
       "disabled": {
-        "onLight": {
-          "value": "{grayscale.800}",
-          "type": "color",
-          "description": "Background Disabled onLight"
-        },
-        "onDark": {
-          "value": "{grayscale.700}",
-          "type": "color",
-          "description": "Background Disabled onDark"
+        "default": {
+          "onLight": {
+            "value": "{grayscale.800}",
+            "type": "color",
+            "description": "Background Disabled Default onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.700}",
+            "type": "color",
+            "description": "Background Disabled Default onDark"
+          }
         }
       },
       "critical": {
@@ -1105,38 +1127,40 @@
         }
       },
       "interactive": {
-        "onLight": {
-          "default": {
+        "default": {
+          "onLight": {
             "value": "{purple.600}",
             "type": "color",
-            "description": "Text Interactive onLight Default"
+            "description": "Text Interactive Default onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "{purple.700}",
             "type": "color",
-            "description": "Text Interactive onLight Hover"
-          },
-          "active": {
-            "value": "{purple.800}",
-            "type": "color",
-            "description": "Text Interactive onLight Active"
+            "description": "Text Interactive Default onDark"
           }
         },
-        "onDark": {
-          "default": {
+        "hover": {
+          "onLight": {
             "value": "{purple.700}",
             "type": "color",
-            "description": "Text Interactive onDark Default"
+            "description": "Text Interactive Hover onLight"
           },
-          "hover": {
+          "onDark": {
             "value": "{purple.800}",
             "type": "color",
-            "description": "Text Interactive onDark Hover"
+            "description": "Text Interactive Hover onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "{purple.800}",
+            "type": "color",
+            "description": "Text Interactive Active onLight"
           },
-          "active": {
+          "onDark": {
             "value": "{purple.900}",
             "type": "color",
-            "description": "Text Interactive onDark Active"
+            "description": "Text Interactive Active onDark"
           }
         }
       },
