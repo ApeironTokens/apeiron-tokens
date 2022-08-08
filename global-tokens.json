@@ -468,157 +468,138 @@
         "description": "96px"
       }
     },
-    "fontSize": {
-      "xxsm": {
-        "value": "11px",
-        "type": "fontSizes",
-        "description": "Font Size, 11px"
-      },
-      "xs": {
-        "value": "12px",
-        "type": "fontSizes",
-        "description": "Font Size, 12px"
-      },
-      "sm": {
-        "value": "14px",
-        "type": "fontSizes",
-        "description": "Font Size, 14px"
-      },
-      "base": {
-        "value": "16px",
-        "type": "fontSizes",
-        "description": "Font Size, 16px"
-      },
-      "lg": {
-        "value": "18px",
-        "type": "fontSizes",
-        "description": "Font Size, 18px"
-      },
-      "xl": {
-        "value": "20px",
-        "type": "fontSizes",
-        "description": "Font Size, 20px"
-      },
-      "2xl": {
-        "value": "22px",
-        "type": "fontSizes",
-        "description": "Font Size, 22px"
-      },
-      "3xl": {
-        "value": "25px",
-        "type": "fontSizes",
-        "description": "Font Size, 25px"
-      },
-      "4xl": {
-        "value": "28px",
-        "type": "fontSizes",
-        "description": "Font Size, 28px"
-      },
-      "5xl": {
-        "value": "32px",
-        "type": "fontSizes",
-        "description": "Font Size, 32px"
-      },
-      "6xl": {
-        "value": "36px",
-        "type": "fontSizes",
-        "description": "Font Size, 36px"
-      },
-      "7xl": {
-        "value": "41px",
-        "type": "fontSizes",
-        "description": "Font Size, 41px"
-      },
-      "8xl": {
-        "value": "46px",
-        "type": "fontSizes",
-        "description": "Font Size, 46px"
-      },
-      "9xl": {
-        "value": "51px",
-        "type": "fontSizes",
-        "description": "Font Size, 51px"
-      },
-      "10xl": {
-        "value": "58px",
-        "type": "fontSizes",
-        "description": "Font Size, 58px"
-      }
-    },
-    "lineHeights": {
-      "1": {
+    "lineHeight": {
+      "16": {
         "value": "16",
         "type": "lineHeights",
         "description": "16px"
       },
-      "2": {
+      "24": {
         "value": "24",
         "type": "lineHeights",
         "description": "24px"
       },
-      "3": {
+      "32": {
         "value": "32",
         "type": "lineHeights",
         "description": "32px"
       },
-      "4": {
+      "40": {
         "value": "40",
         "type": "lineHeights",
         "description": "40px"
       },
-      "5": {
+      "48": {
         "value": "48",
         "type": "lineHeights",
         "description": "48px"
       },
-      "6": {
+      "56": {
         "value": "56",
         "type": "lineHeights",
         "description": "56px"
       },
-      "7": {
+      "64": {
         "value": "64",
         "type": "lineHeights",
         "description": "64px"
       },
-      "8": {
+      "72": {
         "value": "72",
         "type": "lineHeights",
         "description": "72px"
-      },
-      "body": {
-        "default": {
-          "value": "150%",
-          "type": "lineHeights"
-        }
-      },
-      "headlines": {
-        "default": {
-          "value": "150%",
-          "type": "lineHeights"
-        }
       }
     },
     "fontWeights": {
       "headlines": {
-        "bold": {
-          "value": "Bold",
-          "type": "fontWeights"
-        },
-        "regular": {
-          "value": "Regular",
-          "type": "fontWeights"
+        "extrabold": {
+          "value": "ExtraBold",
+          "type": "fontWeights",
+          "description": "ExtraBold"
         }
       },
       "body": {
-        "bold": {
-          "value": "Bold",
-          "type": "fontWeights"
-        },
         "regular": {
           "value": "Regular",
           "type": "fontWeights"
         }
+      }
+    },
+    "fontSize": {
+      "11": {
+        "value": "11px",
+        "type": "fontSizes",
+        "description": "11px"
+      },
+      "12": {
+        "value": "12px",
+        "type": "fontSizes",
+        "description": "12px"
+      },
+      "14": {
+        "value": "14px",
+        "type": "fontSizes",
+        "description": "14px"
+      },
+      "16": {
+        "value": "16px",
+        "type": "fontSizes",
+        "description": "16px"
+      },
+      "18": {
+        "value": "18px",
+        "type": "fontSizes",
+        "description": "18px"
+      },
+      "20": {
+        "value": "20px",
+        "type": "fontSizes",
+        "description": "20px"
+      },
+      "22": {
+        "value": "22px",
+        "type": "fontSizes",
+        "description": "22px"
+      },
+      "25": {
+        "value": "25px",
+        "type": "fontSizes",
+        "description": "25px"
+      },
+      "28": {
+        "value": "28px",
+        "type": "fontSizes",
+        "description": "28px"
+      },
+      "32": {
+        "value": "32px",
+        "type": "fontSizes",
+        "description": "32px"
+      },
+      "36": {
+        "value": "36px",
+        "type": "fontSizes",
+        "description": "36px"
+      },
+      "41": {
+        "value": "41px",
+        "type": "fontSizes",
+        "description": "41px"
+      },
+      "46": {
+        "value": "46px",
+        "type": "fontSizes",
+        "description": "46px"
+      },
+      "51": {
+        "value": "51px",
+        "type": "fontSizes",
+        "description": "51px"
+      },
+      "58": {
+        "value": "58px",
+        "type": "fontSizes",
+        "description": "58px"
       }
     }
   },
