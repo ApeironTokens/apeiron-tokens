@@ -631,7 +631,7 @@
       }
     },
     "fontFamily": {
-      "tmobile": {
+      "TeleNeo": {
         "headlines": {
           "value": "TeleNeoWeb, Arial, Helvetica, 'Helvetica Neue', sans-serif;",
           "type": "fontFamilies"
@@ -641,7 +641,7 @@
           "type": "fontFamilies"
         }
       },
-      "metro": {
+      "TT-Norms": {
         "headlines": {
           "value": "TTNormsWeb, TT-Norms, BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;",
           "type": "fontFamilies"
@@ -964,7 +964,7 @@
       "caption": {
         "small": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.body}",
+            "fontFamily": "{fontFamily.TeleNeo.body}",
             "fontWeight": "{fontWeights.body.regular}",
             "lineHeight": "{lineHeight.16}",
             "fontSize": "{fontSize.11}",
@@ -978,7 +978,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.body}",
+            "fontFamily": "{fontFamily.TeleNeo.body}",
             "fontWeight": "{fontWeights.body.regular}",
             "lineHeight": "{lineHeight.16}",
             "fontSize": "{fontSize.12}",
@@ -992,7 +992,7 @@
         },
         "large": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.body}",
+            "fontFamily": "{fontFamily.TeleNeo.body}",
             "fontWeight": "{fontWeights.body.regular}",
             "lineHeight": "{lineHeight.16}",
             "fontSize": "{fontSize.14}",
@@ -1008,7 +1008,7 @@
       "body": {
         "regular": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.body}",
+            "fontFamily": "{fontFamily.TeleNeo.body}",
             "fontWeight": "{fontWeights.body.regular}",
             "lineHeight": "{lineHeight.24}",
             "fontSize": "{fontSize.16}",
@@ -1024,7 +1024,7 @@
       "title": {
         "small": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TeleNeo.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.24}",
             "fontSize": "{fontSize.18}",
@@ -1038,7 +1038,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TeleNeo.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.24}",
             "fontSize": "{fontSize.20}",
@@ -1052,7 +1052,7 @@
         },
         "large": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TeleNeo.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.24}",
             "fontSize": "{fontSize.22}",
@@ -1066,7 +1066,7 @@
         },
         "xlarge": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TeleNeo.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.32}",
             "fontSize": "{fontSize.25}",
@@ -1082,7 +1082,7 @@
       "display": {
         "small": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TeleNeo.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.32}",
             "fontSize": "{fontSize.28}",
@@ -1096,7 +1096,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TeleNeo.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.40}",
             "fontSize": "{fontSize.32}",
@@ -1110,7 +1110,7 @@
         },
         "large": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TeleNeo.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.40}",
             "fontSize": "{fontSize.36}",
@@ -1124,7 +1124,7 @@
         },
         "xlarge": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TeleNeo.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.48}",
             "fontSize": "{fontSize.41}",
@@ -1140,7 +1140,7 @@
       "mega": {
         "small": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TeleNeo.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.56}",
             "fontSize": "{fontSize.46}",
@@ -1154,7 +1154,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TeleNeo.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.56}",
             "fontSize": "{fontSize.51}",
@@ -1168,7 +1168,7 @@
         },
         "large": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TeleNeo.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.64}",
             "fontSize": "{fontSize.58}",
@@ -1494,7 +1494,7 @@
       "caption": {
         "small": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.body}",
+            "fontFamily": "{fontFamily.TT-Norms.body}",
             "fontWeight": "{fontWeights.body.regular}",
             "lineHeight": "{lineHeight.16}",
             "fontSize": "{fontSize.11}",
@@ -1508,7 +1508,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.body}",
+            "fontFamily": "{fontFamily.TT-Norms.body}",
             "fontWeight": "{fontWeights.body.regular}",
             "lineHeight": "{lineHeight.16}",
             "fontSize": "{fontSize.12}",
@@ -1522,7 +1522,7 @@
         },
         "large": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.body}",
+            "fontFamily": "{fontFamily.TT-Norms.body}",
             "fontWeight": "{fontWeights.body.regular}",
             "lineHeight": "{lineHeight.16}",
             "fontSize": "{fontSize.14}",
@@ -1538,7 +1538,7 @@
       "body": {
         "regular": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.body}",
+            "fontFamily": "{fontFamily.TT-Norms.body}",
             "fontWeight": "{fontWeights.body.regular}",
             "lineHeight": "{lineHeight.24}",
             "fontSize": "{fontSize.16}",
@@ -1554,7 +1554,7 @@
       "title": {
         "small": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TT-Norms.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.24}",
             "fontSize": "{fontSize.18}",
@@ -1568,7 +1568,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TT-Norms.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.24}",
             "fontSize": "{fontSize.20}",
@@ -1582,7 +1582,7 @@
         },
         "large": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TT-Norms.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.24}",
             "fontSize": "{fontSize.22}",
@@ -1596,7 +1596,7 @@
         },
         "xlarge": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TT-Norms.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.32}",
             "fontSize": "{fontSize.25}",
@@ -1612,7 +1612,7 @@
       "display": {
         "small": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TT-Norms.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.32}",
             "fontSize": "{fontSize.28}",
@@ -1626,7 +1626,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TT-Norms.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.40}",
             "fontSize": "{fontSize.32}",
@@ -1640,7 +1640,7 @@
         },
         "large": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TT-Norms.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.40}",
             "fontSize": "{fontSize.36}",
@@ -1654,7 +1654,7 @@
         },
         "xlarge": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TT-Norms.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.48}",
             "fontSize": "{fontSize.41}",
@@ -1670,7 +1670,7 @@
       "mega": {
         "small": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TT-Norms.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.56}",
             "fontSize": "{fontSize.46}",
@@ -1684,7 +1684,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TT-Norms.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.56}",
             "fontSize": "{fontSize.51}",
@@ -1698,7 +1698,7 @@
         },
         "large": {
           "value": {
-            "fontFamily": "{fontFamily.tmobile.headlines}",
+            "fontFamily": "{fontFamily.TT-Norms.headlines}",
             "fontWeight": "{fontWeights.headlines.extrabold}",
             "lineHeight": "{lineHeight.64}",
             "fontSize": "{fontSize.58}",
