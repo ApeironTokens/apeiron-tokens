@@ -651,7 +651,7 @@
             "description": "Brand Primary Default onLight"
           },
           "onDark": {
-            "value": "{magenta.700}",
+            "value": "{magenta.600}",
             "type": "color",
             "description": "Brand Primary Default onDark"
           }
@@ -663,7 +663,7 @@
             "description": "Brand Primary Hover onLight"
           },
           "onDark": {
-            "value": "{magenta.800}",
+            "value": "{magenta.700}",
             "type": "color",
             "description": "Brand Primary Hover onDark"
           }
@@ -675,7 +675,7 @@
             "description": "Brand Primary Active onLight"
           },
           "onDark": {
-            "value": "{magenta.900}",
+            "value": "{magenta.800}",
             "type": "color",
             "description": "Brand Primary Active onDark"
           }
@@ -845,7 +845,7 @@
             "description": "Text Interactive Default onLight"
           },
           "onDark": {
-            "value": "{magenta.700}",
+            "value": "{magenta.600}",
             "type": "color",
             "description": "Text Interactive Default onDark"
           }
@@ -857,7 +857,7 @@
             "description": "Text Interactive Hover onLight"
           },
           "onDark": {
-            "value": "{magenta.800}",
+            "value": "{magenta.700}",
             "type": "color",
             "description": "Text Interactive Hover onDark"
           }
@@ -869,7 +869,7 @@
             "description": "Text Interactive Active onLight"
           },
           "onDark": {
-            "value": "{magenta.900}",
+            "value": "{magenta.800}",
             "type": "color",
             "description": "Text Interactive Active onDark"
           }
