@@ -1181,7 +1181,7 @@
             "description": "Brand Primary Default onLight"
           },
           "onDark": {
-            "value": "{purple.700}",
+            "value": "{purple.400}",
             "type": "color",
             "description": "Brand Primary Default onDark"
           }
@@ -1193,7 +1193,7 @@
             "description": "Brand Primary Hover onLight"
           },
           "onDark": {
-            "value": "{purple.800}",
+            "value": "{purple.500}",
             "type": "color",
             "description": "Brand Primary Hover onDark"
           }
@@ -1205,7 +1205,7 @@
             "description": "Brand Primary Active onLight"
           },
           "onDark": {
-            "value": "{purple.900}",
+            "value": "{purple.600}",
             "type": "color",
             "description": "Brand Primary Active onDark"
           }
@@ -1214,7 +1214,7 @@
       "secondary": {
         "default": {
           "onLight": {
-            "value": "{gold.600}",
+            "value": "{gold.800}",
             "type": "color",
             "description": "Brand Secondary Default onLight"
           },
@@ -1226,7 +1226,7 @@
         },
         "hover": {
           "onLight": {
-            "value": "{gold.700}",
+            "value": "{gold.900}",
             "type": "color",
             "description": "Brand Secondary Hover onLight"
           },
@@ -1238,7 +1238,7 @@
         },
         "active": {
           "onLight": {
-            "value": "{gold.800}",
+            "value": "{gold.1000}",
             "type": "color",
             "description": "Brand Secondary Active onLight"
           },
@@ -1375,7 +1375,7 @@
             "description": "Text Interactive Default onLight"
           },
           "onDark": {
-            "value": "{purple.700}",
+            "value": "{purple.400}",
             "type": "color",
             "description": "Text Interactive Default onDark"
           }
@@ -1387,7 +1387,7 @@
             "description": "Text Interactive Hover onLight"
           },
           "onDark": {
-            "value": "{purple.800}",
+            "value": "{purple.500}",
             "type": "color",
             "description": "Text Interactive Hover onDark"
           }
@@ -1399,7 +1399,7 @@
             "description": "Text Interactive Active onLight"
           },
           "onDark": {
-            "value": "{purple.900}",
+            "value": "{purple.600}",
             "type": "color",
             "description": "Text Interactive Active onDark"
           }
