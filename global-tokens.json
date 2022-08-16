@@ -1419,20 +1419,7 @@
           "type": "typography"
         }
       },
-      "smallTitleCustom": {
-        "extraBold": {
-          "value": "{tmobileType.display.medium.extraBold}",
-          "type": "typography",
-          "description": "Custom Style"
-        }
-      },
       "title1": {
-        "extraBold": {
-          "value": "{tmobileType.display.small.extraBold}",
-          "type": "typography"
-        }
-      },
-      "titleCustom": {
         "extraBold": {
           "value": "{tmobileType.display.small.extraBold}",
           "type": "typography"
