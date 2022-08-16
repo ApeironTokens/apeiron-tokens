@@ -1513,22 +1513,6 @@
           }
         }
       },
-      "custom": {
-        "medium": {
-          "extraBold": {
-            "value": "{tmobileType.title.medium.extraBold}",
-            "type": "typography",
-            "description": "Custom Style"
-          }
-        },
-        "small": {
-          "extraBold": {
-            "value": "{tmobileType.title.small.extraBold}",
-            "type": "typography",
-            "description": "Custom Style"
-          }
-        }
-      },
       "body": {
         "large": {
           "regular": {
@@ -2331,20 +2315,7 @@
           "type": "typography"
         }
       },
-      "smallTitleCustom": {
-        "extraBold": {
-          "value": "{metroType.display.medium.extraBold}",
-          "type": "typography",
-          "description": "Custom Style"
-        }
-      },
       "title1": {
-        "extraBold": {
-          "value": "{metroType.display.small.extraBold}",
-          "type": "typography"
-        }
-      },
-      "titleCustom": {
         "extraBold": {
           "value": "{metroType.display.small.extraBold}",
           "type": "typography"
@@ -2435,22 +2406,6 @@
           "extraBold": {
             "value": "{metroType.title.large.extraBold}",
             "type": "typography"
-          }
-        }
-      },
-      "custom": {
-        "medium": {
-          "extraBold": {
-            "value": "{metroType.title.medium.extraBold}",
-            "type": "typography",
-            "description": "Custom Style"
-          }
-        },
-        "small": {
-          "extraBold": {
-            "value": "{metroType.title.small.extraBold}",
-            "type": "typography",
-            "description": "Custom Style"
           }
         }
       },
