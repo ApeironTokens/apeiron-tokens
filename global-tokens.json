@@ -118,302 +118,302 @@
       "300": {
         "value": "#F2BA81",
         "type": "color",
-        "description": "#F2BA81"
+        "description": "gold.300"
       },
       "400": {
         "value": "#F5A755",
         "type": "color",
-        "description": "#F5A755"
+        "description": "gold.400"
       },
       "500": {
         "value": "#FB9B35",
         "type": "color",
-        "description": "#FB9B35"
+        "description": "gold.500"
       },
       "600": {
         "value": "#E37501",
         "type": "color",
-        "description": "#E37501"
+        "description": "gold.600"
       },
       "700": {
         "value": "#D77311",
         "type": "color",
-        "description": "#D77311"
+        "description": "gold.700"
       },
       "800": {
         "value": "#B45C00",
         "type": "color",
-        "description": "#B45C00"
+        "description": "gold.800"
       },
       "900": {
         "value": "#904D07",
         "type": "color",
-        "description": "#904D07"
+        "description": "gold.900"
       },
       "1000": {
         "value": "#6F3A04",
         "type": "color",
-        "description": "#6F3A04"
+        "description": "gold.1000"
       }
     },
     "grayscale": {
       "100": {
         "value": "#ffffff",
         "type": "color",
-        "description": "#ffffff"
+        "description": "grayscale.100"
       },
       "200": {
         "value": "#f8f8f8",
         "type": "color",
-        "description": "#f8f8f8"
+        "description": "grayscale.200"
       },
       "300": {
         "value": "#f0f0f0",
         "type": "color",
-        "description": "#f0f0f0"
+        "description": "grayscale.300"
       },
       "400": {
         "value": "#e6e5e2",
         "type": "color",
-        "description": "#e6e5e2"
+        "description": "grayscale.400"
       },
       "500": {
         "value": "#cccccc",
         "type": "color",
-        "description": "#cccccc"
+        "description": "grayscale.500"
       },
       "600": {
         "value": "#b4b4b4",
         "type": "color",
-        "description": "#b4b4b4"
+        "description": "grayscale.600"
       },
       "700": {
         "value": "#9b9b9b",
         "type": "color",
-        "description": "#9b9b9b"
+        "description": "grayscale.700"
       },
       "800": {
         "value": "#6a6a6a",
         "type": "color",
-        "description": "#6a6a6a"
+        "description": "grayscale.800"
       },
       "900": {
         "value": "#262626",
         "type": "color",
-        "description": "#262626"
+        "description": "grayscale.900"
       },
       "1000": {
         "value": "#121212",
         "type": "color",
-        "description": "#121212"
+        "description": "grayscale.1000"
       }
     },
     "positive": {
       "100": {
         "value": "#ecf8e9",
         "type": "color",
-        "description": "#ecf8e9"
+        "description": "positive.100"
       },
       "200": {
         "value": "#c2edbc",
         "type": "color",
-        "description": "#c2edbc"
+        "description": "positive.200"
       },
       "300": {
         "value": "#95e28e",
         "type": "color",
-        "description": "#95e28e"
+        "description": "positive.300"
       },
       "400": {
         "value": "#64d362",
         "type": "color",
-        "description": "#64d362"
+        "description": "positive.400"
       },
       "500": {
         "value": "#2dbf3b",
         "type": "color",
-        "description": "#2dbf3b"
+        "description": "positive.500"
       },
       "600": {
         "value": "#00a31d",
         "type": "color",
-        "description": "#00a31d"
+        "description": "positive.600"
       },
       "700": {
         "value": "#008110",
         "type": "color",
-        "description": "#008110"
+        "description": "positive.700"
       },
       "800": {
         "value": "#005c10",
         "type": "color",
-        "description": "#005c10"
+        "description": "positive.800"
       },
       "900": {
         "value": "#103811",
         "type": "color",
-        "description": "#103811"
+        "description": "positive.900"
       },
       "1000": {
         "value": "#0c1709",
         "type": "color",
-        "description": "#0c1709"
+        "description": "positive.1000"
       }
     },
     "caution": {
       "100": {
         "value": "#fffcee",
         "type": "color",
-        "description": "#fffcee"
+        "description": "caution.100"
       },
       "200": {
         "value": "#fff8c7",
         "type": "color",
-        "description": "#fff8c7"
+        "description": "caution.200"
       },
       "300": {
         "value": "#fff49f",
         "type": "color",
-        "description": "#fff49f"
+        "description": "caution.300"
       },
       "400": {
         "value": "#fff07a",
         "type": "color",
-        "description": "#fff07a"
+        "description": "caution.400"
       },
       "500": {
         "value": "#ffe95d",
         "type": "color",
-        "description": "#ffe95d"
+        "description": "caution.500"
       },
       "600": {
         "value": "#f3db4f",
         "type": "color",
-        "description": "#f3db4f"
+        "description": "caution.600"
       },
       "700": {
         "value": "#cab642",
         "type": "color",
-        "description": "#cab642"
+        "description": "caution.700"
       },
       "800": {
         "value": "#908232",
         "type": "color",
-        "description": "#908232"
+        "description": "caution.800"
       },
       "900": {
         "value": "#534b22",
         "type": "color",
-        "description": "#534b22"
+        "description": "caution.900"
       },
       "1000": {
         "value": "#1e1b10",
         "type": "color",
-        "description": "#1e1b10"
+        "description": "caution.1000"
       }
     },
     "critical": {
       "100": {
         "value": "#ffebe4",
         "type": "color",
-        "description": "#ffebe4"
+        "description": "critical.100"
       },
       "200": {
         "value": "#ffc2ac",
         "type": "color",
-        "description": "#ffc2ac"
+        "description": "critical.200"
       },
       "300": {
         "value": "#ff9675",
         "type": "color",
-        "description": "#ff9675"
+        "description": "critical.300"
       },
       "400": {
         "value": "#ff6844",
         "type": "color",
-        "description": "#ff6844"
+        "description": "critical.400"
       },
       "500": {
         "value": "#f7391c",
         "type": "color",
-        "description": "#f7391c"
+        "description": "critical.500"
       },
       "600": {
         "value": "#d60400",
         "type": "color",
-        "description": "#d60400"
+        "description": "critical.600"
       },
       "700": {
         "value": "#ab0000",
         "type": "color",
-        "description": "#ab0000"
+        "description": "critical.700"
       },
       "800": {
         "value": "#7a0a00",
         "type": "color",
-        "description": "#7a0a00"
+        "description": "critical.800"
       },
       "900": {
         "value": "#4a1202",
         "type": "color",
-        "description": "#4a1202"
+        "description": "critical.900"
       },
       "1000": {
         "value": "#1f0c02",
         "type": "color",
-        "description": "#1f0c02"
+        "description": "critical.1000"
       }
     },
     "info": {
       "100": {
         "value": "#eff6ff",
         "type": "color",
-        "description": "#eff6ff"
+        "description": "info.100"
       },
       "200": {
         "value": "#cde5ff",
         "type": "color",
-        "description": "#cde5ff"
+        "description": "info.200"
       },
       "300": {
         "value": "#a7d4ff",
         "type": "color",
-        "description": "#a7d4ff"
+        "description": "info.300"
       },
       "400": {
         "value": "#7dc3ff",
         "type": "color",
-        "description": "#7dc3ff"
+        "description": "info.400"
       },
       "500": {
         "value": "#4eaeff",
         "type": "color",
-        "description": "#4eaeff"
+        "description": "info.500"
       },
       "600": {
         "value": "#2193ec",
         "type": "color",
-        "description": "#2193ec"
+        "description": "info.600"
       },
       "700": {
         "value": "#0c74bd",
         "type": "color",
-        "description": "#0c74bd"
+        "description": "info.700"
       },
       "800": {
         "value": "#175386",
         "type": "color",
-        "description": "#175386"
+        "description": "info.800"
       },
       "900": {
         "value": "#19324e",
         "type": "color",
-        "description": "#19324e"
+        "description": "info.900"
       },
       "1000": {
         "value": "#0f151c",
         "type": "color",
-        "description": "#0f151c"
+        "description": "info.1000"
       }
     },
     "spacing": {
@@ -472,184 +472,191 @@
       "16": {
         "value": "16",
         "type": "lineHeights",
-        "description": "16px"
+        "description": "lineHeight.16"
       },
       "24": {
         "value": "24",
         "type": "lineHeights",
-        "description": "24px"
+        "description": "lineHeight.24"
       },
       "32": {
         "value": "32",
         "type": "lineHeights",
-        "description": "32px"
+        "description": "lineHeight.32"
       },
       "40": {
         "value": "40",
         "type": "lineHeights",
-        "description": "40px"
+        "description": "lineHeight.40"
       },
       "48": {
         "value": "48",
         "type": "lineHeights",
-        "description": "48px"
+        "description": "lineHeight.48"
       },
       "56": {
         "value": "56",
         "type": "lineHeights",
-        "description": "56px"
+        "description": "lineHeight.56"
       },
       "64": {
         "value": "64",
         "type": "lineHeights",
-        "description": "64px"
+        "description": "lineHeight.64"
       }
     },
     "fontWeights": {
       "extraBold": {
         "value": "ExtraBold",
         "type": "fontWeights",
-        "description": "ExtraBold 800"
+        "description": "fontWeights.extraBold"
       },
       "regular": {
         "value": "Regular",
         "type": "fontWeights",
-        "description": "Regular 400"
+        "description": "fontWeights.regular"
       }
     },
     "fontSize": {
       "11": {
         "value": "11px",
         "type": "fontSizes",
-        "description": "11px"
+        "description": "fontSize.11"
       },
       "12": {
         "value": "12px",
         "type": "fontSizes",
-        "description": "12px"
+        "description": "fontSize.12"
       },
       "14": {
         "value": "14px",
         "type": "fontSizes",
-        "description": "14px"
+        "description": "fontSize.14"
       },
       "16": {
         "value": "16px",
         "type": "fontSizes",
-        "description": "16px"
+        "description": "fontSize.16"
       },
       "18": {
         "value": "18px",
         "type": "fontSizes",
-        "description": "18px"
+        "description": "fontSize.18"
       },
       "20": {
         "value": "20px",
         "type": "fontSizes",
-        "description": "20px"
+        "description": "fontSize.20"
       },
       "22": {
         "value": "22px",
         "type": "fontSizes",
-        "description": "22px"
+        "description": "fontSize.22"
       },
       "25": {
         "value": "25px",
         "type": "fontSizes",
-        "description": "25px"
+        "description": "fontSize.25"
       },
       "28": {
         "value": "28px",
         "type": "fontSizes",
-        "description": "28px"
+        "description": "fontSize.28"
       },
       "32": {
         "value": "32px",
         "type": "fontSizes",
-        "description": "32px"
+        "description": "fontSize.32"
       },
       "36": {
         "value": "36px",
         "type": "fontSizes",
-        "description": "36px"
+        "description": "fontSize.36"
       },
       "41": {
         "value": "41px",
         "type": "fontSizes",
-        "description": "41px"
+        "description": "fontSize.41"
       },
       "46": {
         "value": "46px",
         "type": "fontSizes",
-        "description": "46px"
+        "description": "fontSize.46"
       },
       "51": {
         "value": "51px",
         "type": "fontSizes",
-        "description": "51px"
+        "description": "fontSize.51"
       },
       "58": {
         "value": "58px",
         "type": "fontSizes",
-        "description": "58px"
+        "description": "fontSize.58"
       }
     },
     "letterSpacing": {
       "default": {
         "value": "0",
         "type": "letterSpacing",
-        "description": "0px"
+        "description": "letterSpacing.default"
       }
     },
     "paragraphSpacing": {
       "default": {
         "value": "0",
         "type": "paragraphSpacing",
-        "description": "0px"
+        "description": "paragraphSpacing.default"
       }
     },
     "textCase": {
       "none": {
         "value": "none",
         "type": "textCase",
-        "description": "none"
+        "description": "textCase.none"
       },
       "uppercase": {
         "value": "uppercase",
         "type": "textCase",
-        "description": "uppercase"
+        "description": "textCase.uppercase"
       }
     },
     "textDecoration": {
       "none": {
         "value": "none",
-        "type": "textDecoration"
+        "type": "textDecoration",
+        "description": "textDecoration.none"
       }
     },
     "fontFamilies": {
       "TeleNeo": {
         "value": "TeleNeo",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "fontFamilies.TeleNeo"
       },
       "TTNorms": {
         "value": "TT Norms",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "fontFamilies.TTNorms"
       },
       "SFPro": {
         "value": "SF Pro",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "fontFamilies.SFPro"
       },
       "Roboto": {
         "value": "Roboto",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "fontFamilies.Roboto"
       },
       "Helvetica": {
         "value": "Helvetica",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "fontFamilies.Helvetica"
       },
       "Arial": {
         "value": "Arial",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "fontFamilies.Arial"
       }
     }
   },
