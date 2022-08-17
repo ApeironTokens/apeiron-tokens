@@ -1212,19 +1212,19 @@
       "mega": {
         "large": {
           "extraBold": {
-            "value": "{tmobileType.mega.large.extraBold}",
+            "value": "{typesets.mega.large.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{tmobileType.mega.medium.extraBold}",
+            "value": "{typesets.mega.medium.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{tmobileType.mega.small.extraBold}",
+            "value": "{typesets.mega.small.extraBold}",
             "type": "typography"
           }
         }
@@ -1232,25 +1232,25 @@
       "display": {
         "xlarge": {
           "extraBold": {
-            "value": "{tmobileType.display.xlarge.extraBold}",
+            "value": "{typesets.display.xlarge.extraBold}",
             "type": "typography"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{tmobileType.display.large.extraBold}",
+            "value": "{typesets.display.large.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{tmobileType.display.medium.extraBold}",
+            "value": "{typesets.display.medium.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{tmobileType.display.small.extraBold}",
+            "value": "{typesets.display.small.extraBold}",
             "type": "typography"
           }
         }
@@ -1258,51 +1258,51 @@
       "title": {
         "xlarge": {
           "extraBold": {
-            "value": "{tmobileType.title.xlarge.extraBold}",
+            "value": "{typesets.title.xlarge.extraBold}",
             "type": "typography"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{tmobileType.title.large.extraBold}",
+            "value": "{typesets.title.large.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{tmobileType.title.medium.extraBold}",
+            "value": "{typesets.title.medium.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{tmobileType.title.small.extraBold}",
+            "value": "{typesets.title.small.extraBold}",
             "type": "typography"
           }
         }
       },
       "body": {
         "regular": {
-          "value": "{tmobileType.body.regular}",
+          "value": "{typesets.body.regular}",
           "type": "typography"
         }
       },
       "caption": {
         "large": {
           "regular": {
-            "value": "{tmobileType.caption.large.regular}",
+            "value": "{typesets.caption.large.regular}",
             "type": "typography"
           }
         },
         "medium": {
           "regular": {
-            "value": "{tmobileType.caption.medium.regular}",
+            "value": "{typesets.caption.medium.regular}",
             "type": "typography"
           }
         },
         "small": {
           "regular": {
-            "value": "{tmobileType.caption.small.regular}",
+            "value": "{typesets.caption.small.regular}",
             "type": "typography"
           }
         }
@@ -1314,19 +1314,19 @@
       "mega": {
         "large": {
           "extraBold": {
-            "value": "{tmobileType.mega.small.extraBold}",
+            "value": "{typesets.mega.small.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{tmobileType.display.xlarge.extraBold}",
+            "value": "{typesets.display.xlarge.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{tmobileType.display.large.extraBold}",
+            "value": "{typesets.display.large.extraBold}",
             "type": "typography"
           }
         }
@@ -1334,25 +1334,25 @@
       "display": {
         "xlarge": {
           "extraBold": {
-            "value": "{tmobileType.display.medium.extraBold}",
+            "value": "{typesets.display.medium.extraBold}",
             "type": "typography"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{tmobileType.display.small.extraBold}",
+            "value": "{typesets.display.small.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{tmobileType.title.xlarge.extraBold}",
+            "value": "{typesets.title.xlarge.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{tmobileType.title.large.extraBold}",
+            "value": "{typesets.title.large.extraBold}",
             "type": "typography"
           }
         }
@@ -1360,51 +1360,51 @@
       "title": {
         "xlarge": {
           "extraBold": {
-            "value": "{tmobileType.title.xlarge.extraBold}",
+            "value": "{typesets.title.xlarge.extraBold}",
             "type": "typography"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{tmobileType.title.large.extraBold}",
+            "value": "{typesets.title.large.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{tmobileType.title.medium.extraBold}",
+            "value": "{typesets.title.medium.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{tmobileType.title.small.extraBold}",
+            "value": "{typesets.title.small.extraBold}",
             "type": "typography"
           }
         }
       },
       "body": {
         "regular": {
-          "value": "{tmobileType.body.regular}",
+          "value": "{typesets.body.regular}",
           "type": "typography"
         }
       },
       "caption": {
         "large": {
           "regular": {
-            "value": "{tmobileType.caption.large.regular}",
+            "value": "{typesets.caption.large.regular}",
             "type": "typography"
           }
         },
         "medium": {
           "regular": {
-            "value": "{tmobileType.caption.medium.regular}",
+            "value": "{typesets.caption.medium.regular}",
             "type": "typography"
           }
         },
         "small": {
           "regular": {
-            "value": "{tmobileType.caption.small.regular}",
+            "value": "{typesets.caption.small.regular}",
             "type": "typography"
           }
         }
@@ -1415,55 +1415,55 @@
     "ios": {
       "largeTitle": {
         "extraBold": {
-          "value": "{tmobileType.display.large.extraBold}",
+          "value": "{typesets.display.large.extraBold}",
           "type": "typography"
         }
       },
       "title1": {
         "extraBold": {
-          "value": "{tmobileType.display.small.extraBold}",
+          "value": "{typesets.display.small.extraBold}",
           "type": "typography"
         }
       },
       "title2": {
         "extraBold": {
-          "value": "{tmobileType.title.large.extraBold}",
+          "value": "{typesets.title.large.extraBold}",
           "type": "typography"
         }
       },
       "title3": {
         "extraBold": {
-          "value": "{tmobileType.title.medium.extraBold}",
+          "value": "{typesets.title.medium.extraBold}",
           "type": "typography"
         }
       },
       "headline": {
         "extraBold": {
-          "value": "{tmobileType.title.small.extraBold}",
+          "value": "{typesets.title.small.extraBold}",
           "type": "typography"
         }
       },
       "body": {
         "regular": {
-          "value": "{tmobileType.body.regular}",
+          "value": "{typesets.body.regular}",
           "type": "typography"
         }
       },
       "subhead": {
         "regular": {
-          "value": "{tmobileType.caption.large.regular}",
+          "value": "{typesets.caption.large.regular}",
           "type": "typography"
         }
       },
       "caption1": {
         "regular": {
-          "value": "{tmobileType.caption.medium.regular}",
+          "value": "{typesets.caption.medium.regular}",
           "type": "typography"
         }
       },
       "caption2": {
         "regular": {
-          "value": "{tmobileType.caption.small.regular}",
+          "value": "{typesets.caption.small.regular}",
           "type": "typography"
         }
       }
@@ -1480,7 +1480,7 @@
       "display": {
         "small": {
           "extraBold": {
-            "value": "{tmobileType.display.large.extraBold}",
+            "value": "{typesets.display.large.extraBold}",
             "type": "typography"
           }
         }
@@ -1488,19 +1488,19 @@
       "headline": {
         "large": {
           "extraBold": {
-            "value": "{tmobileType.display.medium.extraBold}",
+            "value": "{typesets.display.medium.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{tmobileType.display.small.extraBold}",
+            "value": "{typesets.display.small.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{tmobileType.title.xlarge.extraBold}",
+            "value": "{typesets.title.xlarge.extraBold}",
             "type": "typography"
           }
         }
@@ -1508,7 +1508,7 @@
       "title": {
         "large": {
           "extraBold": {
-            "value": "{tmobileType.title.large.extraBold}",
+            "value": "{typesets.title.large.extraBold}",
             "type": "typography"
           }
         }
@@ -1516,19 +1516,19 @@
       "body": {
         "large": {
           "regular": {
-            "value": "{tmobileType.body.regular}",
+            "value": "{typesets.body.regular}",
             "type": "typography"
           }
         },
         "medium": {
           "regular": {
-            "value": "{tmobileType.caption.large.regular}",
+            "value": "{typesets.caption.large.regular}",
             "type": "typography"
           }
         },
         "small": {
           "regular": {
-            "value": "{tmobileType.caption.medium.regular}",
+            "value": "{typesets.caption.medium.regular}",
             "type": "typography"
           }
         }
@@ -1536,7 +1536,7 @@
       "label": {
         "small": {
           "regular": {
-            "value": "{tmobileType.caption.small.regular}",
+            "value": "{typesets.caption.small.regular}",
             "type": "typography"
           }
         }
@@ -2108,19 +2108,19 @@
       "mega": {
         "large": {
           "extraBold": {
-            "value": "{metroType.mega.large.extraBold}",
+            "value": "{typesets.mega.large.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{metroType.mega.medium.extraBold}",
+            "value": "{typesets.mega.medium.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{metroType.mega.small.extraBold}",
+            "value": "{typesets.mega.small.extraBold}",
             "type": "typography"
           }
         }
@@ -2128,25 +2128,25 @@
       "display": {
         "xlarge": {
           "extraBold": {
-            "value": "{metroType.display.xlarge.extraBold}",
+            "value": "{typesets.display.xlarge.extraBold}",
             "type": "typography"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{metroType.display.large.extraBold}",
+            "value": "{typesets.display.large.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{metroType.display.medium.extraBold}",
+            "value": "{typesets.display.medium.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{metroType.display.small.extraBold}",
+            "value": "{typesets.display.small.extraBold}",
             "type": "typography"
           }
         }
@@ -2154,51 +2154,51 @@
       "title": {
         "xlarge": {
           "extraBold": {
-            "value": "{metroType.title.xlarge.extraBold}",
+            "value": "{typesets.title.xlarge.extraBold}",
             "type": "typography"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{metroType.title.large.extraBold}",
+            "value": "{typesets.title.large.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{metroType.title.medium.extraBold}",
+            "value": "{typesets.title.medium.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{metroType.title.small.extraBold}",
+            "value": "{typesets.title.small.extraBold}",
             "type": "typography"
           }
         }
       },
       "body": {
         "regular": {
-          "value": "{metroType.body.regular}",
+          "value": "{typesets.body.regular}",
           "type": "typography"
         }
       },
       "caption": {
         "large": {
           "regular": {
-            "value": "{metroType.caption.large.regular}",
+            "value": "{typesets.caption.large.regular}",
             "type": "typography"
           }
         },
         "medium": {
           "regular": {
-            "value": "{metroType.caption.medium.regular}",
+            "value": "{typesets.caption.medium.regular}",
             "type": "typography"
           }
         },
         "small": {
           "regular": {
-            "value": "{metroType.caption.small.regular}",
+            "value": "{typesets.caption.small.regular}",
             "type": "typography"
           }
         }
@@ -2210,19 +2210,19 @@
       "mega": {
         "large": {
           "extraBold": {
-            "value": "{metroType.mega.small.extraBold}",
+            "value": "{typesets.mega.small.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{metroType.display.xlarge.extraBold}",
+            "value": "{typesets.display.xlarge.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{metroType.display.large.extraBold}",
+            "value": "{typesets.display.large.extraBold}",
             "type": "typography"
           }
         }
@@ -2230,25 +2230,25 @@
       "display": {
         "xlarge": {
           "extraBold": {
-            "value": "{metroType.display.medium.extraBold}",
+            "value": "{typesets.display.medium.extraBold}",
             "type": "typography"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{metroType.display.small.extraBold}",
+            "value": "{typesets.display.small.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{metroType.title.xlarge.extraBold}",
+            "value": "{typesets.title.xlarge.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{metroType.title.large.extraBold}",
+            "value": "{typesets.title.large.extraBold}",
             "type": "typography"
           }
         }
@@ -2256,51 +2256,51 @@
       "title": {
         "xlarge": {
           "extraBold": {
-            "value": "{metroType.title.xlarge.extraBold}",
+            "value": "{typesets.title.xlarge.extraBold}",
             "type": "typography"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{metroType.title.large.extraBold}",
+            "value": "{typesets.title.large.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{metroType.title.medium.extraBold}",
+            "value": "{typesets.title.medium.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{metroType.title.small.extraBold}",
+            "value": "{typesets.title.small.extraBold}",
             "type": "typography"
           }
         }
       },
       "body": {
         "regular": {
-          "value": "{metroType.body.regular}",
+          "value": "{typesets.body.regular}",
           "type": "typography"
         }
       },
       "caption": {
         "large": {
           "regular": {
-            "value": "{metroType.caption.large.regular}",
+            "value": "{typesets.caption.large.regular}",
             "type": "typography"
           }
         },
         "medium": {
           "regular": {
-            "value": "{metroType.caption.medium.regular}",
+            "value": "{typesets.caption.medium.regular}",
             "type": "typography"
           }
         },
         "small": {
           "regular": {
-            "value": "{metroType.caption.small.regular}",
+            "value": "{typesets.caption.small.regular}",
             "type": "typography"
           }
         }
@@ -2311,55 +2311,55 @@
     "ios": {
       "largeTitle": {
         "extraBold": {
-          "value": "{metroType.display.large.extraBold}",
+          "value": "{typesets.display.large.extraBold}",
           "type": "typography"
         }
       },
       "title1": {
         "extraBold": {
-          "value": "{metroType.display.small.extraBold}",
+          "value": "{typesets.display.small.extraBold}",
           "type": "typography"
         }
       },
       "title2": {
         "extraBold": {
-          "value": "{metroType.title.large.extraBold}",
+          "value": "{typesets.title.large.extraBold}",
           "type": "typography"
         }
       },
       "title3": {
         "extraBold": {
-          "value": "{metroType.title.medium.extraBold}",
+          "value": "{typesets.title.medium.extraBold}",
           "type": "typography"
         }
       },
       "headline": {
         "extraBold": {
-          "value": "{metroType.title.small.extraBold}",
+          "value": "{typesets.title.small.extraBold}",
           "type": "typography"
         }
       },
       "body": {
         "regular": {
-          "value": "{metroType.body.regular}",
+          "value": "{typesets.body.regular}",
           "type": "typography"
         }
       },
       "subhead": {
         "regular": {
-          "value": "{metroType.caption.large.regular}",
+          "value": "{typesets.caption.large.regular}",
           "type": "typography"
         }
       },
       "caption1": {
         "regular": {
-          "value": "{metroType.caption.medium.regular}",
+          "value": "{typesets.caption.medium.regular}",
           "type": "typography"
         }
       },
       "caption2": {
         "regular": {
-          "value": "{metroType.caption.small.regular}",
+          "value": "{typesets.caption.small.regular}",
           "type": "typography"
         }
       }
@@ -2376,7 +2376,7 @@
       "display": {
         "small": {
           "extraBold": {
-            "value": "{metroType.display.large.extraBold}",
+            "value": "{typesets.display.large.extraBold}",
             "type": "typography"
           }
         }
@@ -2384,19 +2384,19 @@
       "headline": {
         "large": {
           "extraBold": {
-            "value": "{metroType.display.medium.extraBold}",
+            "value": "{typesets.display.medium.extraBold}",
             "type": "typography"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{metroType.display.small.extraBold}",
+            "value": "{typesets.display.small.extraBold}",
             "type": "typography"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{metroType.title.xlarge.extraBold}",
+            "value": "{typesets.title.xlarge.extraBold}",
             "type": "typography"
           }
         }
@@ -2404,7 +2404,7 @@
       "title": {
         "large": {
           "extraBold": {
-            "value": "{metroType.title.large.extraBold}",
+            "value": "{typesets.title.large.extraBold}",
             "type": "typography"
           }
         }
@@ -2412,19 +2412,19 @@
       "body": {
         "large": {
           "regular": {
-            "value": "{metroType.body.regular}",
+            "value": "{typesets.body.regular}",
             "type": "typography"
           }
         },
         "medium": {
           "regular": {
-            "value": "{metroType.caption.large.regular}",
+            "value": "{typesets.caption.large.regular}",
             "type": "typography"
           }
         },
         "small": {
           "regular": {
-            "value": "{metroType.caption.medium.regular}",
+            "value": "{typesets.caption.medium.regular}",
             "type": "typography"
           }
         }
@@ -2432,7 +2432,7 @@
       "label": {
         "small": {
           "regular": {
-            "value": "{metroType.caption.small.regular}",
+            "value": "{typesets.caption.small.regular}",
             "type": "typography"
           }
         }
