@@ -971,7 +971,7 @@
         "type": "fontFamilies"
       }
     },
-    "tmobileType": {
+    "typesets": {
       "mega": {
         "large": {
           "extraBold": {
@@ -1867,7 +1867,7 @@
         "type": "fontFamilies"
       }
     },
-    "metroType": {
+    "typesets": {
       "mega": {
         "large": {
           "extraBold": {
