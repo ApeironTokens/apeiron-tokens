@@ -4,116 +4,116 @@
       "100": {
         "value": "#ffebf2",
         "type": "color",
-        "description": "#ffebf2"
+        "description": "magenta.100"
       },
       "200": {
         "value": "#ffc1d8",
         "type": "color",
-        "description": "#ffc1d8"
+        "description": "magenta.200"
       },
       "300": {
         "value": "#ff94bf",
         "type": "color",
-        "description": "#ff94bf"
+        "description": "magenta.300"
       },
       "400": {
         "value": "#ff64a7",
         "type": "color",
-        "description": "#ff64a7"
+        "description": "magenta.400"
       },
       "500": {
         "value": "#f12e8e",
         "type": "color",
-        "description": "#f12e8e"
+        "description": "magenta.500"
       },
       "600": {
         "value": "#e20074",
         "type": "color",
-        "description": "#e20074"
+        "description": "magenta.600"
       },
       "700": {
         "value": "#a7005a",
         "type": "color",
-        "description": "a7005a"
+        "description": "magenta.700"
       },
       "800": {
         "value": "#770141",
         "type": "color",
-        "description": "#770141"
+        "description": "magenta.800"
       },
       "900": {
         "value": "#471029",
         "type": "color",
-        "description": "#471029"
+        "description": "magenta.900"
       },
       "1000": {
         "value": "#1d0c12",
         "type": "color",
-        "description": "#1d0c12"
+        "description": "magenta.1000"
       }
     },
     "purple": {
       "100": {
         "value": "#F6E6FF",
         "type": "color",
-        "description": "#F6E6FF"
+        "description": "purple.100"
       },
       "200": {
         "value": "#E4C6F7",
         "type": "color",
-        "description": "#E4C6F7"
+        "description": "purple.200"
       },
       "300": {
         "value": "#CC98E8",
         "type": "color",
-        "description": "#CC98E8"
+        "description": "purple.300"
       },
       "400": {
         "value": "#BC78E2",
         "type": "color",
-        "description": "#BC78E2"
+        "description": "purple.400"
       },
       "500": {
         "value": "#9646C3",
         "type": "color",
-        "description": "#9646C3"
+        "description": "purple.500"
       },
       "600": {
         "value": "#6E32A0",
         "type": "color",
-        "description": "#6E32A0"
+        "description": "purple.600"
       },
       "700": {
         "value": "#5B2A85",
         "type": "color",
-        "description": "#5B2A85"
+        "description": "purple.700"
       },
       "800": {
         "value": "#46196E",
         "type": "color",
-        "description": "#46196E"
+        "description": "purple.800"
       },
       "900": {
         "value": "#311647",
         "type": "color",
-        "description": "#311647"
+        "description": "purple.900"
       },
       "1000": {
         "value": "#231033",
         "type": "color",
-        "description": "#231033"
+        "description": "purple.1000"
       }
     },
     "gold": {
       "100": {
         "value": "#FBEAD9",
         "type": "color",
-        "description": "#FBEAD9"
+        "description": "gold.100"
       },
       "200": {
         "value": "#FAD2A8",
         "type": "color",
-        "description": "#FAD2A8"
+        "description": "gold.200"
       },
       "300": {
         "value": "#F2BA81",
@@ -420,52 +420,52 @@
       "4": {
         "value": "4px",
         "type": "spacing",
-        "description": "4px"
+        "description": "spacing.4"
       },
       "8": {
         "value": "8px",
         "type": "spacing",
-        "description": "8px"
+        "description": "spacing.8"
       },
       "16": {
         "value": "16px",
         "type": "spacing",
-        "description": "16px"
+        "description": "spacing.16"
       },
       "24": {
         "value": "24px",
         "type": "spacing",
-        "description": "24px"
+        "description": "spacing.24"
       },
       "32": {
         "value": "32px",
         "type": "spacing",
-        "description": "32px"
+        "description": "spacing.32"
       },
       "40": {
         "value": "40px",
         "type": "spacing",
-        "description": "40px"
+        "description": "spacing.40"
       },
       "48": {
         "value": "48px",
         "type": "spacing",
-        "description": "48px"
+        "description": "spacing.48"
       },
       "56": {
         "value": "56px",
         "type": "spacing",
-        "description": "56px"
+        "description": "spacing.56"
       },
       "80": {
         "value": "80px",
         "type": "spacing",
-        "description": "80px"
+        "description": "spacing.80"
       },
       "96": {
         "value": "96px",
         "type": "spacing",
-        "description": "96px"
+        "description": "spacing.96"
       }
     },
     "lineHeight": {
