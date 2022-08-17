@@ -4,17 +4,17 @@
       "100": {
         "value": "#ffebf2",
         "type": "color",
-        "description": "magenta.100"
+        "description": "$color.magenta.100"
       },
       "200": {
         "value": "#ffc1d8",
         "type": "color",
-        "description": "magenta.200"
+        "description": "$color.magenta.200"
       },
       "300": {
         "value": "#ff94bf",
         "type": "color",
-        "description": "magenta.300"
+        "description": "$color.magenta.300"
       },
       "400": {
         "value": "#ff64a7",
