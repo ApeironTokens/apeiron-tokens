@@ -19,644 +19,644 @@
       "400": {
         "value": "#ff64a7",
         "type": "color",
-        "description": "magenta.400"
+        "description": "$color.magenta.400"
       },
       "500": {
         "value": "#f12e8e",
         "type": "color",
-        "description": "magenta.500"
+        "description": "$color.magenta.500"
       },
       "600": {
         "value": "#e20074",
         "type": "color",
-        "description": "magenta.600"
+        "description": "$color.magenta.600"
       },
       "700": {
         "value": "#a7005a",
         "type": "color",
-        "description": "magenta.700"
+        "description": "$color.magenta.700"
       },
       "800": {
         "value": "#770141",
         "type": "color",
-        "description": "magenta.800"
+        "description": "$color.magenta.800"
       },
       "900": {
         "value": "#471029",
         "type": "color",
-        "description": "magenta.900"
+        "description": "$color.magenta.900"
       },
       "1000": {
         "value": "#1d0c12",
         "type": "color",
-        "description": "magenta.1000"
+        "description": "$color.magenta.1000"
       }
     },
     "purple": {
       "100": {
         "value": "#F6E6FF",
         "type": "color",
-        "description": "purple.100"
+        "description": "$color.purple.100"
       },
       "200": {
         "value": "#E4C6F7",
         "type": "color",
-        "description": "purple.200"
+        "description": "$color.purple.200"
       },
       "300": {
         "value": "#CC98E8",
         "type": "color",
-        "description": "purple.300"
+        "description": "$color.purple.300"
       },
       "400": {
         "value": "#BC78E2",
         "type": "color",
-        "description": "purple.400"
+        "description": "$color.purple.400"
       },
       "500": {
         "value": "#9646C3",
         "type": "color",
-        "description": "purple.500"
+        "description": "$color.purple.500"
       },
       "600": {
         "value": "#6E32A0",
         "type": "color",
-        "description": "purple.600"
+        "description": "$color.purple.600"
       },
       "700": {
         "value": "#5B2A85",
         "type": "color",
-        "description": "purple.700"
+        "description": "$color.purple.700"
       },
       "800": {
         "value": "#46196E",
         "type": "color",
-        "description": "purple.800"
+        "description": "$color.purple.800"
       },
       "900": {
         "value": "#311647",
         "type": "color",
-        "description": "purple.900"
+        "description": "$color.purple.900"
       },
       "1000": {
         "value": "#231033",
         "type": "color",
-        "description": "purple.1000"
+        "description": "$color.purple.1000"
       }
     },
     "gold": {
       "100": {
         "value": "#FBEAD9",
         "type": "color",
-        "description": "gold.100"
+        "description": "$color.gold.100"
       },
       "200": {
         "value": "#FAD2A8",
         "type": "color",
-        "description": "gold.200"
+        "description": "$color.gold.200"
       },
       "300": {
         "value": "#F2BA81",
         "type": "color",
-        "description": "gold.300"
+        "description": "$color.gold.300"
       },
       "400": {
         "value": "#F5A755",
         "type": "color",
-        "description": "gold.400"
+        "description": "$color.gold.400"
       },
       "500": {
         "value": "#FB9B35",
         "type": "color",
-        "description": "gold.500"
+        "description": "$color.gold.500"
       },
       "600": {
         "value": "#E37501",
         "type": "color",
-        "description": "gold.600"
+        "description": "$color.gold.600"
       },
       "700": {
         "value": "#D77311",
         "type": "color",
-        "description": "gold.700"
+        "description": "$color.gold.700"
       },
       "800": {
         "value": "#B45C00",
         "type": "color",
-        "description": "gold.800"
+        "description": "$color.gold.800"
       },
       "900": {
         "value": "#904D07",
         "type": "color",
-        "description": "gold.900"
+        "description": "$color.gold.900"
       },
       "1000": {
         "value": "#6F3A04",
         "type": "color",
-        "description": "gold.1000"
+        "description": "$color.gold.1000"
       }
     },
     "grayscale": {
       "100": {
         "value": "#ffffff",
         "type": "color",
-        "description": "grayscale.100"
+        "description": "$color.grayscale.100"
       },
       "200": {
         "value": "#f8f8f8",
         "type": "color",
-        "description": "grayscale.200"
+        "description": "$color.grayscale.200"
       },
       "300": {
         "value": "#f0f0f0",
         "type": "color",
-        "description": "grayscale.300"
+        "description": "$color.grayscale.300"
       },
       "400": {
         "value": "#e6e5e2",
         "type": "color",
-        "description": "grayscale.400"
+        "description": "$color.grayscale.400"
       },
       "500": {
         "value": "#cccccc",
         "type": "color",
-        "description": "grayscale.500"
+        "description": "$color.grayscale.500"
       },
       "600": {
         "value": "#b4b4b4",
         "type": "color",
-        "description": "grayscale.600"
+        "description": "$color.grayscale.600"
       },
       "700": {
         "value": "#9b9b9b",
         "type": "color",
-        "description": "grayscale.700"
+        "description": "$color.grayscale.700"
       },
       "800": {
         "value": "#6a6a6a",
         "type": "color",
-        "description": "grayscale.800"
+        "description": "$color.grayscale.800"
       },
       "900": {
         "value": "#262626",
         "type": "color",
-        "description": "grayscale.900"
+        "description": "$color.grayscale.900"
       },
       "1000": {
         "value": "#121212",
         "type": "color",
-        "description": "grayscale.1000"
+        "description": "$color.grayscale.1000"
       }
     },
     "positive": {
       "100": {
         "value": "#ecf8e9",
         "type": "color",
-        "description": "positive.100"
+        "description": "$color.positive.100"
       },
       "200": {
         "value": "#c2edbc",
         "type": "color",
-        "description": "positive.200"
+        "description": "$color.positive.200"
       },
       "300": {
         "value": "#95e28e",
         "type": "color",
-        "description": "positive.300"
+        "description": "$color.positive.300"
       },
       "400": {
         "value": "#64d362",
         "type": "color",
-        "description": "positive.400"
+        "description": "$color.positive.400"
       },
       "500": {
         "value": "#2dbf3b",
         "type": "color",
-        "description": "positive.500"
+        "description": "$color.positive.500"
       },
       "600": {
         "value": "#00a31d",
         "type": "color",
-        "description": "positive.600"
+        "description": "$color.positive.600"
       },
       "700": {
         "value": "#008110",
         "type": "color",
-        "description": "positive.700"
+        "description": "$color.positive.700"
       },
       "800": {
         "value": "#005c10",
         "type": "color",
-        "description": "positive.800"
+        "description": "$color.positive.800"
       },
       "900": {
         "value": "#103811",
         "type": "color",
-        "description": "positive.900"
+        "description": "$color.positive.900"
       },
       "1000": {
         "value": "#0c1709",
         "type": "color",
-        "description": "positive.1000"
+        "description": "$color.positive.1000"
       }
     },
     "caution": {
       "100": {
         "value": "#fffcee",
         "type": "color",
-        "description": "caution.100"
+        "description": "$color.caution.100"
       },
       "200": {
         "value": "#fff8c7",
         "type": "color",
-        "description": "caution.200"
+        "description": "$color.caution.200"
       },
       "300": {
         "value": "#fff49f",
         "type": "color",
-        "description": "caution.300"
+        "description": "$color.caution.300"
       },
       "400": {
         "value": "#fff07a",
         "type": "color",
-        "description": "caution.400"
+        "description": "$color.caution.400"
       },
       "500": {
         "value": "#ffe95d",
         "type": "color",
-        "description": "caution.500"
+        "description": "$color.caution.500"
       },
       "600": {
         "value": "#f3db4f",
         "type": "color",
-        "description": "caution.600"
+        "description": "$color.caution.600"
       },
       "700": {
         "value": "#cab642",
         "type": "color",
-        "description": "caution.700"
+        "description": "$color.caution.700"
       },
       "800": {
         "value": "#908232",
         "type": "color",
-        "description": "caution.800"
+        "description": "$color.caution.800"
       },
       "900": {
         "value": "#534b22",
         "type": "color",
-        "description": "caution.900"
+        "description": "$color.caution.900"
       },
       "1000": {
         "value": "#1e1b10",
         "type": "color",
-        "description": "caution.1000"
+        "description": "$color.caution.1000"
       }
     },
     "critical": {
       "100": {
         "value": "#ffebe4",
         "type": "color",
-        "description": "critical.100"
+        "description": "$color.critical.100"
       },
       "200": {
         "value": "#ffc2ac",
         "type": "color",
-        "description": "critical.200"
+        "description": "$color.critical.200"
       },
       "300": {
         "value": "#ff9675",
         "type": "color",
-        "description": "critical.300"
+        "description": "$color.critical.300"
       },
       "400": {
         "value": "#ff6844",
         "type": "color",
-        "description": "critical.400"
+        "description": "$color.critical.400"
       },
       "500": {
         "value": "#f7391c",
         "type": "color",
-        "description": "critical.500"
+        "description": "$color.critical.500"
       },
       "600": {
         "value": "#d60400",
         "type": "color",
-        "description": "critical.600"
+        "description": "$color.critical.600"
       },
       "700": {
         "value": "#ab0000",
         "type": "color",
-        "description": "critical.700"
+        "description": "$color.critical.700"
       },
       "800": {
         "value": "#7a0a00",
         "type": "color",
-        "description": "critical.800"
+        "description": "$color.critical.800"
       },
       "900": {
         "value": "#4a1202",
         "type": "color",
-        "description": "critical.900"
+        "description": "$color.critical.900"
       },
       "1000": {
         "value": "#1f0c02",
         "type": "color",
-        "description": "critical.1000"
+        "description": "$color.critical.1000"
       }
     },
     "info": {
       "100": {
         "value": "#eff6ff",
         "type": "color",
-        "description": "info.100"
+        "description": "$color.info.100"
       },
       "200": {
         "value": "#cde5ff",
         "type": "color",
-        "description": "info.200"
+        "description": "$color.info.200"
       },
       "300": {
         "value": "#a7d4ff",
         "type": "color",
-        "description": "info.300"
+        "description": "$color.info.300"
       },
       "400": {
         "value": "#7dc3ff",
         "type": "color",
-        "description": "info.400"
+        "description": "$color.info.400"
       },
       "500": {
         "value": "#4eaeff",
         "type": "color",
-        "description": "info.500"
+        "description": "$color.info.500"
       },
       "600": {
         "value": "#2193ec",
         "type": "color",
-        "description": "info.600"
+        "description": "$color.info.600"
       },
       "700": {
         "value": "#0c74bd",
         "type": "color",
-        "description": "info.700"
+        "description": "$color.info.700"
       },
       "800": {
         "value": "#175386",
         "type": "color",
-        "description": "info.800"
+        "description": "$color.info.800"
       },
       "900": {
         "value": "#19324e",
         "type": "color",
-        "description": "info.900"
+        "description": "$color.info.900"
       },
       "1000": {
         "value": "#0f151c",
         "type": "color",
-        "description": "info.1000"
+        "description": "$color.info.1000"
       }
     },
     "spacing": {
       "4": {
         "value": "4px",
         "type": "spacing",
-        "description": "spacing.4"
+        "description": "$spacing.4"
       },
       "8": {
         "value": "8px",
         "type": "spacing",
-        "description": "spacing.8"
+        "description": "$spacing.8"
       },
       "16": {
         "value": "16px",
         "type": "spacing",
-        "description": "spacing.16"
+        "description": "$spacing.16"
       },
       "24": {
         "value": "24px",
         "type": "spacing",
-        "description": "spacing.24"
+        "description": "$spacing.24"
       },
       "32": {
         "value": "32px",
         "type": "spacing",
-        "description": "spacing.32"
+        "description": "$spacing.32"
       },
       "40": {
         "value": "40px",
         "type": "spacing",
-        "description": "spacing.40"
+        "description": "$spacing.40"
       },
       "48": {
         "value": "48px",
         "type": "spacing",
-        "description": "spacing.48"
+        "description": "$spacing.48"
       },
       "56": {
         "value": "56px",
         "type": "spacing",
-        "description": "spacing.56"
+        "description": "$spacing.56"
       },
       "80": {
         "value": "80px",
         "type": "spacing",
-        "description": "spacing.80"
+        "description": "$spacing.80"
       },
       "96": {
         "value": "96px",
         "type": "spacing",
-        "description": "spacing.96"
+        "description": "$spacing.96"
       }
     },
-    "lineHeight": {
+    "lineHeights": {
       "16": {
         "value": "16",
         "type": "lineHeights",
-        "description": "lineHeight.16"
+        "description": "$lineHeights.16"
       },
       "24": {
         "value": "24",
         "type": "lineHeights",
-        "description": "lineHeight.24"
+        "description": "$lineHeights.24"
       },
       "32": {
         "value": "32",
         "type": "lineHeights",
-        "description": "lineHeight.32"
+        "description": "$lineHeights.32"
       },
       "40": {
         "value": "40",
         "type": "lineHeights",
-        "description": "lineHeight.40"
+        "description": "$lineHeights.40"
       },
       "48": {
         "value": "48",
         "type": "lineHeights",
-        "description": "lineHeight.48"
+        "description": "$lineHeights.48"
       },
       "56": {
         "value": "56",
         "type": "lineHeights",
-        "description": "lineHeight.56"
+        "description": "$lineHeights.56"
       },
       "64": {
         "value": "64",
         "type": "lineHeights",
-        "description": "lineHeight.64"
+        "description": "$lineHeights.64"
       }
     },
     "fontWeights": {
       "extraBold": {
         "value": "ExtraBold",
         "type": "fontWeights",
-        "description": "fontWeights.extraBold"
+        "description": "$fontWeights.extraBold"
       },
       "regular": {
         "value": "Regular",
         "type": "fontWeights",
-        "description": "fontWeights.regular"
+        "description": "$fontWeights.regular"
       }
     },
-    "fontSize": {
+    "fontSizes": {
       "11": {
         "value": "11px",
         "type": "fontSizes",
-        "description": "fontSize.11"
+        "description": "$fontSizes.11"
       },
       "12": {
         "value": "12px",
         "type": "fontSizes",
-        "description": "fontSize.12"
+        "description": "$fontSizes.12"
       },
       "14": {
         "value": "14px",
         "type": "fontSizes",
-        "description": "fontSize.14"
+        "description": "$fontSizes.14"
       },
       "16": {
         "value": "16px",
         "type": "fontSizes",
-        "description": "fontSize.16"
+        "description": "$fontSizes.16"
       },
       "18": {
         "value": "18px",
         "type": "fontSizes",
-        "description": "fontSize.18"
+        "description": "$fontSizes.18"
       },
       "20": {
         "value": "20px",
         "type": "fontSizes",
-        "description": "fontSize.20"
+        "description": "$fontSizes.20"
       },
       "22": {
         "value": "22px",
         "type": "fontSizes",
-        "description": "fontSize.22"
+        "description": "$fontSizes.22"
       },
       "25": {
         "value": "25px",
         "type": "fontSizes",
-        "description": "fontSize.25"
+        "description": "$fontSizes.25"
       },
       "28": {
         "value": "28px",
         "type": "fontSizes",
-        "description": "fontSize.28"
+        "description": "$fontSizes.28"
       },
       "32": {
         "value": "32px",
         "type": "fontSizes",
-        "description": "fontSize.32"
+        "description": "$fontSizes.32"
       },
       "36": {
         "value": "36px",
         "type": "fontSizes",
-        "description": "fontSize.36"
+        "description": "$fontSizes.36"
       },
       "41": {
         "value": "41px",
         "type": "fontSizes",
-        "description": "fontSize.41"
+        "description": "$fontSizes.41"
       },
       "46": {
         "value": "46px",
         "type": "fontSizes",
-        "description": "fontSize.46"
+        "description": "$fontSizes.46"
       },
       "51": {
         "value": "51px",
         "type": "fontSizes",
-        "description": "fontSize.51"
+        "description": "$fontSizes.51"
       },
       "58": {
         "value": "58px",
         "type": "fontSizes",
-        "description": "fontSize.58"
+        "description": "$fontSizes.58"
       }
     },
     "letterSpacing": {
       "default": {
         "value": "0",
         "type": "letterSpacing",
-        "description": "letterSpacing.default"
+        "description": "$letterSpacing.default"
       }
     },
     "paragraphSpacing": {
       "default": {
         "value": "0",
         "type": "paragraphSpacing",
-        "description": "paragraphSpacing.default"
+        "description": "$paragraphSpacing.default"
       }
     },
     "textCase": {
       "none": {
         "value": "none",
         "type": "textCase",
-        "description": "textCase.none"
+        "description": "$textCase.none"
       },
       "uppercase": {
         "value": "uppercase",
         "type": "textCase",
-        "description": "textCase.uppercase"
+        "description": "$textCase.uppercase"
       }
     },
     "textDecoration": {
       "none": {
         "value": "none",
         "type": "textDecoration",
-        "description": "textDecoration.none"
+        "description": "$textDecoration.none"
       }
     },
     "fontFamilies": {
       "TeleNeo": {
         "value": "TeleNeo",
         "type": "fontFamilies",
-        "description": "fontFamilies.TeleNeo"
+        "description": "$fontFamilies.TeleNeo"
       },
       "TTNorms": {
         "value": "TT Norms",
         "type": "fontFamilies",
-        "description": "fontFamilies.TTNorms"
+        "description": "$fontFamilies.TTNorms"
       },
       "SFPro": {
         "value": "SF Pro",
         "type": "fontFamilies",
-        "description": "fontFamilies.SFPro"
+        "description": "$fontFamilies.SFPro"
       },
       "Roboto": {
         "value": "Roboto",
         "type": "fontFamilies",
-        "description": "fontFamilies.Roboto"
+        "description": "$fontFamilies.Roboto"
       },
       "Helvetica": {
         "value": "Helvetica",
         "type": "fontFamilies",
-        "description": "fontFamilies.Helvetica"
+        "description": "$fontFamilies.Helvetica"
       },
       "Arial": {
         "value": "Arial",
         "type": "fontFamilies",
-        "description": "fontFamilies.Arial"
+        "description": "$fontFamilies.Arial"
       }
     }
   },
@@ -668,36 +668,36 @@
           "onLight": {
             "value": "{magenta.600}",
             "type": "color",
-            "description": "Brand Primary Default onLight"
+            "description": "$brand.primary.default.onLight"
           },
           "onDark": {
             "value": "{magenta.600}",
             "type": "color",
-            "description": "Brand Primary Default onDark"
+            "description": "$brand.primary.default.onDark"
           }
         },
         "hover": {
           "onLight": {
             "value": "{magenta.700}",
             "type": "color",
-            "description": "Brand Primary Hover onLight"
+            "description": "$brand.primary.hover.onLight"
           },
           "onDark": {
             "value": "{magenta.700}",
             "type": "color",
-            "description": "Brand Primary Hover onDark"
+            "description": "$brand.primary.hover.onDark"
           }
         },
         "active": {
           "onLight": {
             "value": "{magenta.800}",
             "type": "color",
-            "description": "Brand Primary Active onLight"
+            "description": "$brand.primary.active.onLight"
           },
           "onDark": {
             "value": "{magenta.800}",
             "type": "color",
-            "description": "Brand Primary Active onDark"
+            "description": "$brand.primary.active.onDark"
           }
         }
       },
@@ -706,36 +706,36 @@
           "onLight": {
             "value": "#000",
             "type": "color",
-            "description": "Brand Secondary Default onLight"
+            "description": "$brand.secondary.default.onLight"
           },
           "onDark": {
             "value": "#000",
             "type": "color",
-            "description": "Brand Secondary Default onDark"
+            "description": "$brand.secondary.default.onDark"
           }
         },
         "hover": {
           "onLight": {
             "value": "#000",
             "type": "color",
-            "description": "Brand Secondary Hover onLight"
+            "description": "$brand.secondary.hover.onLight"
           },
           "onDark": {
             "value": "#000",
             "type": "color",
-            "description": "Brand Secondary Hover onDark"
+            "description": "$brand.secondary.hover.onDark"
           }
         },
         "active": {
           "onLight": {
             "value": "#000",
             "type": "color",
-            "description": "Brand Secondary Active onLight"
+            "description": "$brand.secondary.active.onLight"
           },
           "onDark": {
             "value": "#000",
             "type": "color",
-            "description": "Brand Secondary Active onDark"
+            "description": "$brand.secondary.active.onDark"
           }
         }
       }
@@ -746,12 +746,12 @@
           "onLight": {
             "value": "{grayscale.100}",
             "type": "color",
-            "description": "Background Primary Default onLight"
+            "description": "$background.primary.default.onLight"
           },
           "onDark": {
             "value": "{grayscale.1000}",
             "type": "color",
-            "description": "Background Primary Default onDark"
+            "description": "$background.primary.default.onDark"
           }
         }
       },
@@ -760,12 +760,12 @@
           "onLight": {
             "value": "{grayscale.200}",
             "type": "color",
-            "description": "Background Secondary Default onLight"
+            "description": "$background.secondary.default.onLight"
           },
           "onDark": {
             "value": "{grayscale.900}",
             "type": "color",
-            "description": "Background Secondary Default onDark"
+            "description": "$background.secondary.default.onDark"
           }
         }
       },
@@ -774,12 +774,12 @@
           "onLight": {
             "value": "{grayscale.800}",
             "type": "color",
-            "description": "Background Disabled Default onLight"
+            "description": "$background.disabled.default.onLight"
           },
           "onDark": {
             "value": "{grayscale.700}",
             "type": "color",
-            "description": "Background Disabled Default onDark"
+            "description": "$background.disabled.default.onDark"
           }
         }
       },
@@ -787,48 +787,48 @@
         "onLight": {
           "value": "{critical.600}",
           "type": "color",
-          "description": "Background Critical onLight"
+          "description": "$background.critical.onLight"
         },
         "onDark": {
           "value": "{critical.500}",
           "type": "color",
-          "description": "Background Critical onDark"
+          "description": "$background.critical.onDark"
         }
       },
       "positive": {
         "onLight": {
           "value": "{positive.700}",
           "type": "color",
-          "description": "Background Positive onLight"
+          "description": "$background.positive.onLight"
         },
         "onDark": {
           "value": "{positive.500}",
           "type": "color",
-          "description": "Background Positive onDark"
+          "description": "$background.positive.onDark"
         }
       },
       "caution": {
         "onLight": {
           "value": "{caution.900}",
           "type": "color",
-          "description": "Background Caution onLight"
+          "description": "$background.caution.onLight"
         },
         "onDark": {
           "value": "{caution.700}",
           "type": "color",
-          "description": "Background Caution onDark"
+          "description": "$background.caution.onDark"
         }
       },
       "information": {
         "onLight": {
           "value": "{info.700}",
           "type": "color",
-          "description": "Background Information onLight"
+          "description": "$background.information.onLight"
         },
         "onDark": {
           "value": "{info.600}",
           "type": "color",
-          "description": "Background Information onDark"
+          "description": "$background.information.onDark"
         }
       }
     },
@@ -837,7 +837,7 @@
         "onLight": {
           "value": "{grayscale.900}",
           "type": "color",
-          "description": "Text Primary onLight"
+          "description": "$text.primary.onLight"
         },
         "onDark": {
           "value": "{grayscale.200}",
@@ -849,7 +849,7 @@
         "onLight": {
           "value": "{grayscale.800}",
           "type": "color",
-          "description": "Text Secondary onLight"
+          "description": "$text.secondary.onLight"
         },
         "onDark": {
           "value": "{grayscale.300}",
@@ -899,7 +899,7 @@
         "onLight": {
           "value": "{grayscale.800}",
           "type": "color",
-          "description": "Text Helper onLight"
+          "description": "$text.helper.onLight"
         },
         "onDark": {
           "value": "{grayscale.200}",
@@ -911,7 +911,7 @@
         "onLight": {
           "value": "{grayscale.800}",
           "type": "color",
-          "description": "Text Disabled onLight"
+          "description": "$text.disabled.onLight"
         },
         "onDark": {
           "value": "{grayscale.700}",
@@ -923,7 +923,7 @@
         "onLight": {
           "value": "{critical.600}",
           "type": "color",
-          "description": "Text Critical onLight"
+          "description": "$text.critical.onLight"
         },
         "onDark": {
           "value": "{critical.500}",
@@ -935,7 +935,7 @@
         "onLight": {
           "value": "{positive.700}",
           "type": "color",
-          "description": "Text Positive onLight"
+          "description": "$text.positive.onLight"
         },
         "onDark": {
           "value": "{positive.500}",
@@ -947,7 +947,7 @@
         "onLight": {
           "value": "{caution.900}",
           "type": "color",
-          "description": "Text Caution onLight"
+          "description": "$text.caution.onLight"
         },
         "onDark": {
           "value": "{caution.700}",
