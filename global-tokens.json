@@ -862,36 +862,36 @@
           "onLight": {
             "value": "{magenta.600}",
             "type": "color",
-            "description": "Text Interactive Default onLight"
+            "description": "$text.interactive.default.onLight"
           },
           "onDark": {
             "value": "{magenta.600}",
             "type": "color",
-            "description": "Text Interactive Default onDark"
+            "description": "$text.interactive.default.onDark"
           }
         },
         "hover": {
           "onLight": {
             "value": "{magenta.700}",
             "type": "color",
-            "description": "Text Interactive Hover onLight"
+            "description": "$text.interactive.hover.onLight"
           },
           "onDark": {
             "value": "{magenta.700}",
             "type": "color",
-            "description": "Text Interactive Hover onDark"
+            "description": "$text.interactive.hover.onDark"
           }
         },
         "active": {
           "onLight": {
             "value": "{magenta.800}",
             "type": "color",
-            "description": "Text Interactive Active onLight"
+            "description": "$text.interactive.active.onLight"
           },
           "onDark": {
             "value": "{magenta.800}",
             "type": "color",
-            "description": "Text Interactive Active onDark"
+            "description": "$text.interactive.active.onDark"
           }
         }
       },
@@ -904,7 +904,7 @@
         "onDark": {
           "value": "{grayscale.200}",
           "type": "color",
-          "description": "Text Helper onDark"
+          "description": "$text.helper.onDark"
         }
       },
       "disabled": {
@@ -916,7 +916,7 @@
         "onDark": {
           "value": "{grayscale.700}",
           "type": "color",
-          "description": "Text Disabled onDark"
+          "description": "$text.disabled.onDark"
         }
       },
       "critical": {
@@ -928,7 +928,7 @@
         "onDark": {
           "value": "{critical.500}",
           "type": "color",
-          "description": "Text Critical onDark"
+          "description": "$text.critical.onDark"
         }
       },
       "positive": {
@@ -940,7 +940,7 @@
         "onDark": {
           "value": "{positive.500}",
           "type": "color",
-          "description": "Text Positive onDark"
+          "description": "$text.positive.onDark"
         }
       },
       "caution": {
@@ -952,30 +952,32 @@
         "onDark": {
           "value": "{caution.700}",
           "type": "color",
-          "description": "Text Caution onDark"
+          "description": "$text.caution.onDark"
         }
       },
       "information": {
         "onLight": {
           "value": "{info.700}",
           "type": "color",
-          "description": "Text Information onLight"
+          "description": "$text.information.onLight"
         },
         "onDark": {
           "value": "{info.600}",
           "type": "color",
-          "description": "Text Information onDark"
+          "description": "$text.information.onDark"
         }
       }
     },
     "fontFamily": {
       "brand": {
         "value": "{fontFamilies.TeleNeo}",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "$fontFamily.brand"
       },
       "system": {
         "value": "{fontFamilies.Helvetica}",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "$fontFamily.system"
       }
     },
     "typesets": {
@@ -985,8 +987,8 @@
             "value": {
               "fontFamily": "{fontFamily.brand}",
               "fontWeight": "{fontWeights.extraBold}",
-              "lineHeight": "{lineHeight.64}",
-              "fontSize": "{fontSize.58}",
+              "lineHeight": "{lineHeights.64}",
+              "fontSize": "{fontSizes.58}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1000,8 +1002,8 @@
             "value": {
               "fontFamily": "{fontFamily.brand}",
               "fontWeight": "{fontWeights.extraBold}",
-              "lineHeight": "{lineHeight.56}",
-              "fontSize": "{fontSize.51}",
+              "lineHeight": "{lineHeights.56}",
+              "fontSize": "{fontSizes.51}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1015,8 +1017,8 @@
             "value": {
               "fontFamily": "{fontFamily.brand}",
               "fontWeight": "{fontWeights.extraBold}",
-              "lineHeight": "{lineHeight.56}",
-              "fontSize": "{fontSize.46}",
+              "lineHeight": "{lineHeights.56}",
+              "fontSize": "{fontSizes.46}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1032,8 +1034,8 @@
             "value": {
               "fontFamily": "{fontFamily.brand}",
               "fontWeight": "{fontWeights.extraBold}",
-              "lineHeight": "{lineHeight.48}",
-              "fontSize": "{fontSize.41}",
+              "lineHeight": "{lineHeights.48}",
+              "fontSize": "{fontSizes.41}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1047,8 +1049,8 @@
             "value": {
               "fontFamily": "{fontFamily.brand}",
               "fontWeight": "{fontWeights.extraBold}",
-              "lineHeight": "{lineHeight.40}",
-              "fontSize": "{fontSize.36}",
+              "lineHeight": "{lineHeights.40}",
+              "fontSize": "{fontSizes.36}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1062,8 +1064,8 @@
             "value": {
               "fontFamily": "{fontFamily.brand}",
               "fontWeight": "{fontWeights.extraBold}",
-              "lineHeight": "{lineHeight.40}",
-              "fontSize": "{fontSize.32}",
+              "lineHeight": "{lineHeights.40}",
+              "fontSize": "{fontSizes.32}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1077,8 +1079,8 @@
             "value": {
               "fontFamily": "{fontFamily.brand}",
               "fontWeight": "{fontWeights.extraBold}",
-              "lineHeight": "{lineHeight.32}",
-              "fontSize": "{fontSize.28}",
+              "lineHeight": "{lineHeights.32}",
+              "fontSize": "{fontSizes.28}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1094,8 +1096,8 @@
             "value": {
               "fontFamily": "{fontFamily.brand}",
               "fontWeight": "{fontWeights.extraBold}",
-              "lineHeight": "{lineHeight.32}",
-              "fontSize": "{fontSize.25}",
+              "lineHeight": "{lineHeights.32}",
+              "fontSize": "{fontSizes.25}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1109,8 +1111,8 @@
             "value": {
               "fontFamily": "{fontFamily.brand}",
               "fontWeight": "{fontWeights.extraBold}",
-              "lineHeight": "{lineHeight.24}",
-              "fontSize": "{fontSize.22}",
+              "lineHeight": "{lineHeights.24}",
+              "fontSize": "{fontSizes.22}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1124,8 +1126,8 @@
             "value": {
               "fontFamily": "{fontFamily.brand}",
               "fontWeight": "{fontWeights.extraBold}",
-              "lineHeight": "{lineHeight.24}",
-              "fontSize": "{fontSize.20}",
+              "lineHeight": "{lineHeights.24}",
+              "fontSize": "{fontSizes.20}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1139,8 +1141,8 @@
             "value": {
               "fontFamily": "{fontFamily.brand}",
               "fontWeight": "{fontWeights.extraBold}",
-              "lineHeight": "{lineHeight.24}",
-              "fontSize": "{fontSize.18}",
+              "lineHeight": "{lineHeights.24}",
+              "fontSize": "{fontSizes.18}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1155,8 +1157,8 @@
           "value": {
             "fontFamily": "{fontFamily.system}",
             "fontWeight": "{fontWeights.regular}",
-            "lineHeight": "{lineHeight.24}",
-            "fontSize": "{fontSize.16}",
+            "lineHeight": "{lineHeights.24}",
+            "fontSize": "{fontSizes.16}",
             "letterSpacing": "$letterSpacing.default",
             "paragraphSpacing": "$paragraphSpacing.default",
             "textCase": "$textCase.none",
@@ -1171,8 +1173,8 @@
             "value": {
               "fontFamily": "{fontFamily.system}",
               "fontWeight": "{fontWeights.regular}",
-              "lineHeight": "{lineHeight.16}",
-              "fontSize": "{fontSize.14}",
+              "lineHeight": "{lineHeights.16}",
+              "fontSize": "{fontSizes.14}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1186,8 +1188,8 @@
             "value": {
               "fontFamily": "{fontFamily.system}",
               "fontWeight": "{fontWeights.regular}",
-              "lineHeight": "{lineHeight.16}",
-              "fontSize": "{fontSize.12}",
+              "lineHeight": "{lineHeights.16}",
+              "fontSize": "{fontSizes.12}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1201,8 +1203,8 @@
             "value": {
               "fontFamily": "{fontFamily.system}",
               "fontWeight": "{fontWeights.regular}",
-              "lineHeight": "{lineHeight.16}",
-              "fontSize": "{fontSize.11}",
+              "lineHeight": "{lineHeights.16}",
+              "fontSize": "{fontSizes.11}",
               "letterSpacing": "$letterSpacing.default",
               "paragraphSpacing": "$paragraphSpacing.default",
               "textCase": "$textCase.none",
@@ -1733,24 +1735,24 @@
         "onLight": {
           "value": "{grayscale.900}",
           "type": "color",
-          "description": "Text Primary onLight"
+          "description": "$text.primary.onLight"
         },
         "onDark": {
           "value": "{grayscale.200}",
           "type": "color",
-          "description": "Text Primary onDark"
+          "description": "$text.primary.onDark"
         }
       },
       "secondary": {
         "onLight": {
           "value": "{grayscale.800}",
           "type": "color",
-          "description": "Text Secondary onLight"
+          "description": "$text.secondary.onLight"
         },
         "onDark": {
           "value": "{grayscale.300}",
           "type": "color",
-          "description": "Text Secondary onDark"
+          "description": "$text.secondary.onDark"
         }
       },
       "interactive": {
@@ -1758,36 +1760,36 @@
           "onLight": {
             "value": "{purple.600}",
             "type": "color",
-            "description": "Text Interactive Default onLight"
+            "description": "$text.interactive.default.onLight"
           },
           "onDark": {
             "value": "{purple.400}",
             "type": "color",
-            "description": "Text Interactive Default onDark"
+            "description": "$text.interactive.default.onDark"
           }
         },
         "hover": {
           "onLight": {
             "value": "{purple.700}",
             "type": "color",
-            "description": "Text Interactive Hover onLight"
+            "description": "$text.interactive.hover.onLight"
           },
           "onDark": {
             "value": "{purple.500}",
             "type": "color",
-            "description": "Text Interactive Hover onDark"
+            "description": "$text.interactive.hover.onDark"
           }
         },
         "active": {
           "onLight": {
             "value": "{purple.800}",
             "type": "color",
-            "description": "Text Interactive Active onLight"
+            "description": "$text.interactive.active.onLight"
           },
           "onDark": {
             "value": "{purple.600}",
             "type": "color",
-            "description": "Text Interactive Active onDark"
+            "description": "$text.interactive.active.onDark"
           }
         }
       },
@@ -1795,72 +1797,72 @@
         "onLight": {
           "value": "{grayscale.800}",
           "type": "color",
-          "description": "Text Helper onLight"
+          "description": "$text.helper.onLight"
         },
         "onDark": {
           "value": "{grayscale.200}",
           "type": "color",
-          "description": "Text Helper onDark"
+          "description": "$text.helper.onDark"
         }
       },
       "disabled": {
         "onLight": {
           "value": "{grayscale.800}",
           "type": "color",
-          "description": "Text Disabled onLight"
+          "description": "$text.disabled.onLight"
         },
         "onDark": {
           "value": "{grayscale.700}",
           "type": "color",
-          "description": "Text Disabled onDark"
+          "description": "$text.disabled.onDark"
         }
       },
       "critical": {
         "onLight": {
           "value": "{critical.600}",
           "type": "color",
-          "description": "Text Critical onLight"
+          "description": "$text.critical.onLight"
         },
         "onDark": {
           "value": "{critical.500}",
           "type": "color",
-          "description": "Text Critical onDark"
+          "description": "$text.critical.onDark"
         }
       },
       "positive": {
         "onLight": {
           "value": "{positive.700}",
           "type": "color",
-          "description": "Text Positive onLight"
+          "description": "$text.positive.onLight"
         },
         "onDark": {
           "value": "{positive.500}",
           "type": "color",
-          "description": "Text Positive onDark"
+          "description": "$text.positive.onDark"
         }
       },
       "caution": {
         "onLight": {
           "value": "{caution.900}",
           "type": "color",
-          "description": "Text Caution onLight"
+          "description": "$text.caution.onLight"
         },
         "onDark": {
           "value": "{caution.700}",
           "type": "color",
-          "description": "Text Caution onDark"
+          "description": "$text.caution.onDark"
         }
       },
       "information": {
         "onLight": {
           "value": "{info.700}",
           "type": "color",
-          "description": "Text Information onLight"
+          "description": "$text.information.onLight"
         },
         "onDark": {
           "value": "{info.600}",
           "type": "color",
-          "description": "Text Information onDark"
+          "description": "$text.information.onDark"
         }
       }
     },
