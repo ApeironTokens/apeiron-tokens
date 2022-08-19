@@ -1353,21 +1353,21 @@
       "mega": {
         "large": {
           "extraBold": {
-            "value": "{typesets.mega.small.extraBold}",
+            "value": "$typesets.mega.small.extraBold",
             "type": "typography",
             "description": "$typography.webMobile.mega.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.display.xlarge.extraBold}",
+            "value": "$typesets.display.xlarge.extraBold",
             "type": "typography",
             "description": "$typography.webMobile.mega.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.display.large.extraBold}",
+            "value": "$typesets.display.large.extraBold",
             "type": "typography",
             "description": "$typography.webMobile.mega.small.extraBold"
           }
@@ -1376,28 +1376,28 @@
       "display": {
         "xlarge": {
           "extraBold": {
-            "value": "{typesets.display.medium.extraBold}",
+            "value": "$typesets.display.medium.extraBold",
             "type": "typography",
             "description": "$typography.webMobile.display.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{typesets.display.small.extraBold}",
+            "value": "$typesets.display.small.extraBold",
             "type": "typography",
             "description": "$typography.webMobile.display.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.title.xlarge.extraBold}",
+            "value": "$typesets.title.xlarge.extraBold",
             "type": "typography",
             "description": "$typography.webMobile.display.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.title.large.extraBold}",
+            "value": "$typesets.title.large.extraBold",
             "type": "typography",
             "description": "$typography.webMobile.display.small.extraBold"
           }
@@ -1406,28 +1406,28 @@
       "title": {
         "xlarge": {
           "extraBold": {
-            "value": "{typesets.title.xlarge.extraBold}",
+            "value": "$typesets.title.xlarge.extraBold",
             "type": "typography",
             "description": "$typography.webMobile.title.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{typesets.title.large.extraBold}",
+            "value": "$typesets.title.large.extraBold",
             "type": "typography",
             "description": "$typography.webMobile.title.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.title.medium.extraBold}",
+            "value": "$typesets.title.medium.extraBold",
             "type": "typography",
             "description": "$typography.webMobile.title.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.title.small.extraBold}",
+            "value": "$typesets.title.small.extraBold",
             "type": "typography",
             "description": "$typography.webMobile.title.small.extraBold"
           }
@@ -1435,7 +1435,7 @@
       },
       "body": {
         "regular": {
-          "value": "{typesets.body.regular}",
+          "value": "$typesets.body.regular",
           "type": "typography",
           "description": "$typography.webMobile.body.regular"
         }
@@ -1443,21 +1443,21 @@
       "caption": {
         "large": {
           "regular": {
-            "value": "{typesets.caption.large.regular}",
+            "value": "$typesets.caption.large.regular",
             "type": "typography",
             "description": "$typography.webMobile.caption.large.regular"
           }
         },
         "medium": {
           "regular": {
-            "value": "{typesets.caption.medium.regular}",
+            "value": "$typesets.caption.medium.regular",
             "type": "typography",
             "description": "$typography.webMobile.caption.medium.regular"
           }
         },
         "small": {
           "regular": {
-            "value": "{typesets.caption.small.regular}",
+            "value": "$typesets.caption.small.regular",
             "type": "typography",
             "description": "$typography.webMobile.caption.small.regular"
           }
@@ -1469,63 +1469,63 @@
     "ios": {
       "largeTitle": {
         "extraBold": {
-          "value": "{typesets.display.large.extraBold}",
+          "value": "$typesets.display.large.extraBold",
           "type": "typography",
           "description": "$typography.ios.largeTitle.extraBold"
         }
       },
       "title1": {
         "extraBold": {
-          "value": "{typesets.display.small.extraBold}",
+          "value": "$typesets.display.small.extraBold",
           "type": "typography",
           "description": "$typography.ios.title1.extraBold"
         }
       },
       "title2": {
         "extraBold": {
-          "value": "{typesets.title.large.extraBold}",
+          "value": "$typesets.title.large.extraBold",
           "type": "typography",
           "description": "$typography.ios.title2.extraBold"
         }
       },
       "title3": {
         "extraBold": {
-          "value": "{typesets.title.medium.extraBold}",
+          "value": "$typesets.title.medium.extraBold",
           "type": "typography",
           "description": "$typography.ios.title3.extraBold"
         }
       },
       "headline": {
         "extraBold": {
-          "value": "{typesets.title.small.extraBold}",
+          "value": "$typesets.title.small.extraBold",
           "type": "typography",
           "description": "$typography.ios.headline.extraBold"
         }
       },
       "body": {
         "regular": {
-          "value": "{typesets.body.regular}",
+          "value": "$typesets.body.regular",
           "type": "typography",
           "description": "$typography.ios.body.regular"
         }
       },
       "subhead": {
         "regular": {
-          "value": "{typesets.caption.large.regular}",
+          "value": "$typesets.caption.large.regular",
           "type": "typography",
           "description": "$typography.ios.subhead.regular"
         }
       },
       "caption1": {
         "regular": {
-          "value": "{typesets.caption.medium.regular}",
+          "value": "$typesets.caption.medium.regular",
           "type": "typography",
           "description": "$typography.ios.caption1.regular"
         }
       },
       "caption2": {
         "regular": {
-          "value": "{typesets.caption.small.regular}",
+          "value": "$typesets.caption.small.regular",
           "type": "typography",
           "description": "$typography.ios.caption2.regular"
         }
@@ -1533,7 +1533,7 @@
     },
     "fontFamilies": {
       "system": {
-        "value": "{fontFamilies.SFPro}",
+        "value": "$fontFamilies.SFPro",
         "type": "fontFamilies",
         "description": "$fontFamilies.fontFamilies.system"
       }
@@ -1544,7 +1544,7 @@
       "display": {
         "small": {
           "extraBold": {
-            "value": "{typesets.display.large.extraBold}",
+            "value": "$typesets.display.large.extraBold",
             "type": "typography",
             "description": "$typography.android.display.small.extraBold"
           }
@@ -1553,21 +1553,21 @@
       "headline": {
         "large": {
           "extraBold": {
-            "value": "{typesets.display.medium.extraBold}",
+            "value": "$typesets.display.medium.extraBold",
             "type": "typography",
             "description": "$typography.android.headline.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.display.small.extraBold}",
+            "value": "$typesets.display.small.extraBold",
             "type": "typography",
             "description": "$typography.android.headline.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.title.xlarge.extraBold}",
+            "value": "$typesets.title.xlarge.extraBold",
             "type": "typography",
             "description": "$typography.android.headline.small.extraBold"
           }
@@ -1576,7 +1576,7 @@
       "title": {
         "large": {
           "extraBold": {
-            "value": "{typesets.title.large.extraBold}",
+            "value": "$typesets.title.large.extraBold",
             "type": "typography",
             "description": "$typography.android.title.large.extraBold"
           }
@@ -1585,21 +1585,21 @@
       "body": {
         "large": {
           "regular": {
-            "value": "{typesets.body.regular}",
+            "value": "$typesets.body.regular",
             "type": "typography",
             "description": "$typography.android.body.large.regular"
           }
         },
         "medium": {
           "regular": {
-            "value": "{typesets.caption.large.regular}",
+            "value": "$typesets.caption.large.regular",
             "type": "typography",
             "description": "$typography.android.body.medium.regular"
           }
         },
         "small": {
           "regular": {
-            "value": "{typesets.caption.medium.regular}",
+            "value": "$typesets.caption.medium.regular",
             "type": "typography",
             "description": "$typography.android.body.small.regular"
           }
@@ -1608,7 +1608,7 @@
       "label": {
         "small": {
           "regular": {
-            "value": "{typesets.caption.small.regular}",
+            "value": "$typesets.caption.small.regular",
             "type": "typography",
             "description": "$typography.android.label.small.regular"
           }
@@ -1617,7 +1617,7 @@
     },
     "fontFamilies": {
       "system": {
-        "value": "{fontFamilies.Roboto}",
+        "value": "$fontFamilies.Roboto",
         "type": "fontFamilies",
         "description": "$fontFamilies.fontFamilies.system"
       }
@@ -1629,36 +1629,36 @@
       "primary": {
         "default": {
           "onLight": {
-            "value": "{purple.600}",
+            "value": "$purple.600",
             "type": "color",
             "description": "$color.brand.primary.default.onLight"
           },
           "onDark": {
-            "value": "{purple.400}",
+            "value": "$purple.400",
             "type": "color",
             "description": "$color.brand.primary.default.onDark"
           }
         },
         "hover": {
           "onLight": {
-            "value": "{purple.700}",
+            "value": "$purple.700",
             "type": "color",
             "description": "$color.brand.primary.hover.onLight"
           },
           "onDark": {
-            "value": "{purple.500}",
+            "value": "$purple.500",
             "type": "color",
             "description": "$color.brand.primary.hover.onDark"
           }
         },
         "active": {
           "onLight": {
-            "value": "{purple.800}",
+            "value": "$purple.800",
             "type": "color",
             "description": "$color.brand.primary.active.onLight"
           },
           "onDark": {
-            "value": "{purple.600}",
+            "value": "$purple.600",
             "type": "color",
             "description": "$color.brand.primary.active.onDark"
           }
@@ -1667,36 +1667,36 @@
       "secondary": {
         "default": {
           "onLight": {
-            "value": "{gold.800}",
+            "value": "$gold.800",
             "type": "color",
             "description": "$color.brand.secondary.default.onLight"
           },
           "onDark": {
-            "value": "{gold.700}",
+            "value": "$gold.700",
             "type": "color",
             "description": "$color.brand.secondary.default.onDark"
           }
         },
         "hover": {
           "onLight": {
-            "value": "{gold.900}",
+            "value": "$gold.900",
             "type": "color",
             "description": "$color.brand.secondary.hover.onLight"
           },
           "onDark": {
-            "value": "{gold.800}",
+            "value": "$gold.800",
             "type": "color",
             "description": "$color.brand.secondary.hover.onDark"
           }
         },
         "active": {
           "onLight": {
-            "value": "{gold.1000}",
+            "value": "$gold.1000",
             "type": "color",
             "description": "$color.brand.secondary.active.onLight"
           },
           "onDark": {
-            "value": "{gold.900}",
+            "value": "$gold.900",
             "type": "color",
             "description": "$color.brand.secondary.active.onDark"
           }
@@ -1707,12 +1707,12 @@
       "primary": {
         "default": {
           "onLight": {
-            "value": "{grayscale.100}",
+            "value": "$grayscale.100",
             "type": "color",
             "description": "$color.background.primary.default.onLight"
           },
           "onDark": {
-            "value": "{grayscale.1000}",
+            "value": "$grayscale.1000",
             "type": "color",
             "description": "$color.background.primary.default.onDark"
           }
@@ -1721,12 +1721,12 @@
       "secondary": {
         "default": {
           "onLight": {
-            "value": "{grayscale.200}",
+            "value": "$grayscale.200",
             "type": "color",
             "description": "$color.background.secondary.default.onLight"
           },
           "onDark": {
-            "value": "{grayscale.900}",
+            "value": "$grayscale.900",
             "type": "color",
             "description": "$color.background.secondary.default.onDark"
           }
@@ -1735,12 +1735,12 @@
       "disabled": {
         "default": {
           "onLight": {
-            "value": "{grayscale.800}",
+            "value": "$grayscale.800",
             "type": "color",
             "description": "$color.background.disabled.default.onLight"
           },
           "onDark": {
-            "value": "{grayscale.700}",
+            "value": "$grayscale.700",
             "type": "color",
             "description": "$color.background.disabled.default.onDark"
           }
@@ -1748,48 +1748,48 @@
       },
       "critical": {
         "onLight": {
-          "value": "{critical.600}",
+          "value": "$critical.600",
           "type": "color",
           "description": "$color.background.critical.onLight"
         },
         "onDark": {
-          "value": "{critical.500}",
+          "value": "$critical.500",
           "type": "color",
           "description": "$color.background.critical.onDark"
         }
       },
       "positive": {
         "onLight": {
-          "value": "{positive.700}",
+          "value": "$positive.700",
           "type": "color",
           "description": "$color.background.positive.onLight"
         },
         "onDark": {
-          "value": "{positive.500}",
+          "value": "$positive.500",
           "type": "color",
           "description": "$color.background.positive.onDark"
         }
       },
       "caution": {
         "onLight": {
-          "value": "{caution.900}",
+          "value": "$caution.900",
           "type": "color",
           "description": "$color.background.caution.onLight"
         },
         "onDark": {
-          "value": "{caution.700}",
+          "value": "$caution.700",
           "type": "color",
           "description": "$color.background.caution.onDark"
         }
       },
       "information": {
         "onLight": {
-          "value": "{info.700}",
+          "value": "$info.700",
           "type": "color",
           "description": "$color.background.information.onLight"
         },
         "onDark": {
-          "value": "{info.600}",
+          "value": "$info.600",
           "type": "color",
           "description": "$color.background.information.onDark"
         }
@@ -1798,24 +1798,24 @@
     "text": {
       "primary": {
         "onLight": {
-          "value": "{grayscale.900}",
+          "value": "$grayscale.900",
           "type": "color",
           "description": "$color.text.primary.onLight"
         },
         "onDark": {
-          "value": "{grayscale.200}",
+          "value": "$grayscale.200",
           "type": "color",
           "description": "$color.text.primary.onDark"
         }
       },
       "secondary": {
         "onLight": {
-          "value": "{grayscale.800}",
+          "value": "$grayscale.800",
           "type": "color",
           "description": "$color.text.secondary.onLight"
         },
         "onDark": {
-          "value": "{grayscale.300}",
+          "value": "$grayscale.300",
           "type": "color",
           "description": "$color.text.secondary.onDark"
         }
@@ -1823,36 +1823,36 @@
       "interactive": {
         "default": {
           "onLight": {
-            "value": "{purple.600}",
+            "value": "$purple.600",
             "type": "color",
             "description": "$color.text.interactive.default.onLight"
           },
           "onDark": {
-            "value": "{purple.400}",
+            "value": "$purple.400",
             "type": "color",
             "description": "$color.text.interactive.default.onDark"
           }
         },
         "hover": {
           "onLight": {
-            "value": "{purple.700}",
+            "value": "$purple.700",
             "type": "color",
             "description": "$color.text.interactive.hover.onLight"
           },
           "onDark": {
-            "value": "{purple.500}",
+            "value": "$purple.500",
             "type": "color",
             "description": "$color.text.interactive.hover.onDark"
           }
         },
         "active": {
           "onLight": {
-            "value": "{purple.800}",
+            "value": "$purple.800",
             "type": "color",
             "description": "$color.text.interactive.active.onLight"
           },
           "onDark": {
-            "value": "{purple.600}",
+            "value": "$purple.600",
             "type": "color",
             "description": "$color.text.interactive.active.onDark"
           }
@@ -1860,72 +1860,72 @@
       },
       "helper": {
         "onLight": {
-          "value": "{grayscale.800}",
+          "value": "$grayscale.800",
           "type": "color",
           "description": "$color.text.helper.onLight"
         },
         "onDark": {
-          "value": "{grayscale.200}",
+          "value": "$grayscale.200",
           "type": "color",
           "description": "$color.text.helper.onDark"
         }
       },
       "disabled": {
         "onLight": {
-          "value": "{grayscale.800}",
+          "value": "$grayscale.800",
           "type": "color",
           "description": "$color.text.disabled.onLight"
         },
         "onDark": {
-          "value": "{grayscale.700}",
+          "value": "$grayscale.700",
           "type": "color",
           "description": "$color.text.disabled.onDark"
         }
       },
       "critical": {
         "onLight": {
-          "value": "{critical.600}",
+          "value": "$critical.600",
           "type": "color",
           "description": "$color.text.critical.onLight"
         },
         "onDark": {
-          "value": "{critical.500}",
+          "value": "$critical.500",
           "type": "color",
           "description": "$color.text.critical.onDark"
         }
       },
       "positive": {
         "onLight": {
-          "value": "{positive.700}",
+          "value": "$positive.700",
           "type": "color",
           "description": "$color.text.positive.onLight"
         },
         "onDark": {
-          "value": "{positive.500}",
+          "value": "$positive.500",
           "type": "color",
           "description": "$color.text.positive.onDark"
         }
       },
       "caution": {
         "onLight": {
-          "value": "{caution.900}",
+          "value": "$caution.900",
           "type": "color",
           "description": "$color.text.caution.onLight"
         },
         "onDark": {
-          "value": "{caution.700}",
+          "value": "$caution.700",
           "type": "color",
           "description": "$color.text.caution.onDark"
         }
       },
       "information": {
         "onLight": {
-          "value": "{info.700}",
+          "value": "$info.700",
           "type": "color",
           "description": "$color.text.information.onLight"
         },
         "onDark": {
-          "value": "{info.600}",
+          "value": "$info.600",
           "type": "color",
           "description": "$color.text.information.onDark"
         }
@@ -1933,12 +1933,12 @@
     },
     "fontFamilies": {
       "brand": {
-        "value": "{fontFamilies.TTNorms}",
+        "value": "$fontFamilies.TTNorms",
         "type": "fontFamilies",
         "description": "$fontFamilies.fontFamilies.brand"
       },
       "system": {
-        "value": "{fontFamilies.Helvetica}",
+        "value": "$fontFamilies.Helvetica",
         "type": "fontFamilies",
         "description": "$fontFamilies.fontFamilies.system"
       }
@@ -2199,98 +2199,113 @@
       "mega": {
         "large": {
           "extraBold": {
-            "value": "{typesets.mega.large.extraBold}",
-            "type": "typography"
+            "value": "$typesets.mega.large.extraBold",
+            "type": "typography",
+            "description": "$typography.webDesktop.mega.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.mega.medium.extraBold}",
-            "type": "typography"
+            "value": "$typesets.mega.medium.extraBold",
+            "type": "typography",
+            "description": "$typography.webDesktop.mega.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.mega.small.extraBold}",
-            "type": "typography"
+            "value": "$typesets.mega.small.extraBold",
+            "type": "typography",
+            "description": "$typography.webDesktop.mega.small.extraBold"
           }
         }
       },
       "display": {
         "xlarge": {
           "extraBold": {
-            "value": "{typesets.display.xlarge.extraBold}",
-            "type": "typography"
+            "value": "$typesets.display.xlarge.extraBold",
+            "type": "typography",
+            "description": "$typography.webDesktop.display.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{typesets.display.large.extraBold}",
-            "type": "typography"
+            "value": "$typesets.display.large.extraBold",
+            "type": "typography",
+            "description": "$typography.webDesktop.display.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.display.medium.extraBold}",
-            "type": "typography"
+            "value": "$typesets.display.medium.extraBold",
+            "type": "typography",
+            "description": "$typography.webDesktop.display.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.display.small.extraBold}",
-            "type": "typography"
+            "value": "$typesets.display.small.extraBold",
+            "type": "typography",
+            "description": "$typography.webDesktop.display.small.extraBold"
           }
         }
       },
       "title": {
         "xlarge": {
           "extraBold": {
-            "value": "{typesets.title.xlarge.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.xlarge.extraBold",
+            "type": "typography",
+            "description": "$typography.webDesktop.title.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{typesets.title.large.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.large.extraBold",
+            "type": "typography",
+            "description": "$typography.webDesktop.title.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.title.medium.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.medium.extraBold",
+            "type": "typography",
+            "description": "$typography.webDesktop.title.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.title.small.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.small.extraBold",
+            "type": "typography",
+            "description": "$typography.webDesktop.title.small.extraBold"
           }
         }
       },
       "body": {
         "regular": {
-          "value": "{typesets.body.regular}",
-          "type": "typography"
+          "value": "$typesets.body.regular",
+          "type": "typography",
+          "description": "$typography.webDesktop.body.regular"
         }
       },
       "caption": {
         "large": {
           "regular": {
-            "value": "{typesets.caption.large.regular}",
-            "type": "typography"
+            "value": "$typesets.caption.large.regular",
+            "type": "typography",
+            "description": "$typography.webDesktop.caption.large.regular"
           }
         },
         "medium": {
           "regular": {
-            "value": "{typesets.caption.medium.regular}",
-            "type": "typography"
+            "value": "$typesets.caption.medium.regular",
+            "type": "typography",
+            "description": "$typography.webDesktop.caption.medium.regular"
           }
         },
         "small": {
           "regular": {
-            "value": "{typesets.caption.small.regular}",
-            "type": "typography"
+            "value": "$typesets.caption.small.regular",
+            "type": "typography",
+            "description": "$typography.webDesktop.caption.small.regular"
           }
         }
       }
@@ -2301,98 +2316,113 @@
       "mega": {
         "large": {
           "extraBold": {
-            "value": "{typesets.mega.small.extraBold}",
-            "type": "typography"
+            "value": "$typesets.mega.small.extraBold",
+            "type": "typography",
+            "description": "$typography.webMobile.mega.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.display.xlarge.extraBold}",
-            "type": "typography"
+            "value": "$typesets.display.xlarge.extraBold",
+            "type": "typography",
+            "description": "$typography.webMobile.mega.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.display.large.extraBold}",
-            "type": "typography"
+            "value": "$typesets.display.large.extraBold",
+            "type": "typography",
+            "description": "$typography.webMobile.mega.small.extraBold"
           }
         }
       },
       "display": {
         "xlarge": {
           "extraBold": {
-            "value": "{typesets.display.medium.extraBold}",
-            "type": "typography"
+            "value": "$typesets.display.medium.extraBold",
+            "type": "typography",
+            "description": "$typography.webMobile.display.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{typesets.display.small.extraBold}",
-            "type": "typography"
+            "value": "$typesets.display.small.extraBold",
+            "type": "typography",
+            "description": "$typography.webMobile.display.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.title.xlarge.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.xlarge.extraBold",
+            "type": "typography",
+            "description": "$typography.webMobile.display.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.title.large.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.large.extraBold",
+            "type": "typography",
+            "description": "$typography.webMobile.display.small.extraBold"
           }
         }
       },
       "title": {
         "xlarge": {
           "extraBold": {
-            "value": "{typesets.title.xlarge.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.xlarge.extraBold",
+            "type": "typography",
+            "description": "$typography.webMobile.title.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{typesets.title.large.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.large.extraBold",
+            "type": "typography",
+            "description": "$typography.webMobile.title.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.title.medium.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.medium.extraBold",
+            "type": "typography",
+            "description": "$typography.webMobile.title.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.title.small.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.small.extraBold",
+            "type": "typography",
+            "description": "$typography.webMobile.title.small.extraBold"
           }
         }
       },
       "body": {
         "regular": {
-          "value": "{typesets.body.regular}",
-          "type": "typography"
+          "value": "$typesets.body.regular",
+          "type": "typography",
+          "description": "$typography.webMobile.body.regular"
         }
       },
       "caption": {
         "large": {
           "regular": {
-            "value": "{typesets.caption.large.regular}",
-            "type": "typography"
+            "value": "$typesets.caption.large.regular",
+            "type": "typography",
+            "description": "$typography.webMobile.caption.large.regular"
           }
         },
         "medium": {
           "regular": {
-            "value": "{typesets.caption.medium.regular}",
-            "type": "typography"
+            "value": "$typesets.caption.medium.regular",
+            "type": "typography",
+            "description": "$typography.webMobile.caption.medium.regular"
           }
         },
         "small": {
           "regular": {
-            "value": "{typesets.caption.small.regular}",
-            "type": "typography"
+            "value": "$typesets.caption.small.regular",
+            "type": "typography",
+            "description": "$typography.webMobile.caption.small.regular"
           }
         }
       }
@@ -2402,63 +2432,73 @@
     "ios": {
       "largeTitle": {
         "extraBold": {
-          "value": "{typesets.display.large.extraBold}",
-          "type": "typography"
+          "value": "$typesets.display.large.extraBold",
+          "type": "typography",
+          "description": "$typography.ios.largeTitle.extraBold"
         }
       },
       "title1": {
         "extraBold": {
-          "value": "{typesets.display.small.extraBold}",
-          "type": "typography"
+          "value": "$typesets.display.small.extraBold",
+          "type": "typography",
+          "description": "$typography.ios.title1.extraBold"
         }
       },
       "title2": {
         "extraBold": {
-          "value": "{typesets.title.large.extraBold}",
-          "type": "typography"
+          "value": "$typesets.title.large.extraBold",
+          "type": "typography",
+          "description": "$typography.ios.title2.extraBold"
         }
       },
       "title3": {
         "extraBold": {
-          "value": "{typesets.title.medium.extraBold}",
-          "type": "typography"
+          "value": "$typesets.title.medium.extraBold",
+          "type": "typography",
+          "description": "$typography.ios.title3.extraBold"
         }
       },
       "headline": {
         "extraBold": {
-          "value": "{typesets.title.small.extraBold}",
-          "type": "typography"
+          "value": "$typesets.title.small.extraBold",
+          "type": "typography",
+          "description": "$typography.ios.headline.extraBold"
         }
       },
       "body": {
         "regular": {
-          "value": "{typesets.body.regular}",
-          "type": "typography"
+          "value": "$typesets.body.regular",
+          "type": "typography",
+          "description": "$typography.ios.body.regular"
         }
       },
       "subhead": {
         "regular": {
-          "value": "{typesets.caption.large.regular}",
-          "type": "typography"
+          "value": "$typesets.caption.large.regular",
+          "type": "typography",
+          "description": "$typography.ios.subhead.regular"
         }
       },
       "caption1": {
         "regular": {
-          "value": "{typesets.caption.medium.regular}",
-          "type": "typography"
+          "value": "$typesets.caption.medium.regular",
+          "type": "typography",
+          "description": "$typography.ios.caption1.regular"
         }
       },
       "caption2": {
         "regular": {
-          "value": "{typesets.caption.small.regular}",
-          "type": "typography"
+          "value": "$typesets.caption.small.regular",
+          "type": "typography",
+          "description": "$typography.ios.caption2.regular"
         }
       }
     },
-    "fontFamily": {
+    "fontFamilies": {
       "system": {
-        "value": "{fontFamilies.SFPro}",
-        "type": "fontFamilies"
+        "value": "$fontFamilies.SFPro",
+        "type": "fontFamilies",
+        "description": "$fontFamilies.fontFamilies.system"
       }
     }
   },
@@ -2467,72 +2507,82 @@
       "display": {
         "small": {
           "extraBold": {
-            "value": "{typesets.display.large.extraBold}",
-            "type": "typography"
+            "value": "$typesets.display.large.extraBold",
+            "type": "typography",
+            "description": "$typography.android.display.small.extraBold"
           }
         }
       },
       "headline": {
         "large": {
           "extraBold": {
-            "value": "{typesets.display.medium.extraBold}",
-            "type": "typography"
+            "value": "$typesets.display.medium.extraBold",
+            "type": "typography",
+            "description": "$typography.android.headline.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.display.small.extraBold}",
-            "type": "typography"
+            "value": "$typesets.display.small.extraBold",
+            "type": "typography",
+            "description": "$typography.android.headline.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.title.xlarge.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.xlarge.extraBold",
+            "type": "typography",
+            "description": "$typography.android.headline.small.extraBold"
           }
         }
       },
       "title": {
         "large": {
           "extraBold": {
-            "value": "{typesets.title.large.extraBold}",
-            "type": "typography"
+            "value": "$typesets.title.large.extraBold",
+            "type": "typography",
+            "description": "$typography.android.title.large.extraBold"
           }
         }
       },
       "body": {
         "large": {
           "regular": {
-            "value": "{typesets.body.regular}",
-            "type": "typography"
+            "value": "$typesets.body.regular",
+            "type": "typography",
+            "description": "$typography.android.body.large.regular"
           }
         },
         "medium": {
           "regular": {
-            "value": "{typesets.caption.large.regular}",
-            "type": "typography"
+            "value": "$typesets.caption.large.regular",
+            "type": "typography",
+            "description": "$typography.android.body.medium.regular"
           }
         },
         "small": {
           "regular": {
-            "value": "{typesets.caption.medium.regular}",
-            "type": "typography"
+            "value": "$typesets.caption.medium.regular",
+            "type": "typography",
+            "description": "$typography.android.body.small.regular"
           }
         }
       },
       "label": {
         "small": {
           "regular": {
-            "value": "{typesets.caption.small.regular}",
-            "type": "typography"
+            "value": "$typesets.caption.small.regular",
+            "type": "typography",
+            "description": "$typography.android.label.small.regular"
           }
         }
       }
     },
-    "fontFamily": {
+    "fontFamilies": {
       "system": {
-        "value": "{fontFamilies.Roboto}",
-        "type": "fontFamilies"
+        "value": "$fontFamilies.Roboto",
+        "type": "fontFamilies",
+        "description": "$fontFamilies.fontFamilies.system"
       }
     }
   },
