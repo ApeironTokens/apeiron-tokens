@@ -1199,7 +1199,7 @@
         },
         "bold": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamilies.brand",
             "fontWeight": "$fontWeights.bold",
             "lineHeight": "$lineHeights.24",
             "fontSize": "$fontSizes.16",
@@ -2210,7 +2210,7 @@
         },
         "bold": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamilies.brand",
             "fontWeight": "$fontWeights.bold",
             "lineHeight": "$lineHeights.24",
             "fontSize": "$fontSizes.16",
