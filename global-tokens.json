@@ -753,6 +753,20 @@
             "type": "color",
             "description": "$color.background.primary.default.onDark"
           }
+        },
+        "hover": {
+          "onLight": {
+            "value": "$grayscale.200",
+            "type": "color",
+            "description": "$color.background.primary.hover.onLight"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "$grayscale.300",
+            "type": "color",
+            "description": "$color.background.primary.active.onLight"
+          }
         }
       },
       "secondary": {
@@ -1715,6 +1729,20 @@
             "value": "$grayscale.1000",
             "type": "color",
             "description": "$color.background.primary.default.onDark"
+          }
+        },
+        "hover": {
+          "onLight": {
+            "value": "$grayscale.200",
+            "type": "color",
+            "description": "$color.background.primary.hover.onLight"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "$grayscale.300",
+            "type": "color",
+            "description": "$color.background.primary.active.onLight"
           }
         }
       },
