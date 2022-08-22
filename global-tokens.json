@@ -420,243 +420,248 @@
       "4": {
         "value": "4px",
         "type": "spacing",
-        "description": "$spacing.spacing.4"
+        "description": "$spacing.4"
       },
       "8": {
         "value": "8px",
         "type": "spacing",
-        "description": "$spacing.spacing.8"
+        "description": "$spacing.8"
       },
       "16": {
         "value": "16px",
         "type": "spacing",
-        "description": "$spacing.spacing.16"
+        "description": "$spacing.16"
       },
       "24": {
         "value": "24px",
         "type": "spacing",
-        "description": "$spacing.spacing.24"
+        "description": "$spacing.24"
       },
       "32": {
         "value": "32px",
         "type": "spacing",
-        "description": "$spacing.spacing.32"
+        "description": "$spacing.32"
       },
       "40": {
         "value": "40px",
         "type": "spacing",
-        "description": "$spacing.spacing.40"
+        "description": "$spacing.40"
       },
       "48": {
         "value": "48px",
         "type": "spacing",
-        "description": "$spacing.spacing.48"
+        "description": "$spacing.48"
       },
       "56": {
         "value": "56px",
         "type": "spacing",
-        "description": "$spacing.spacing.56"
+        "description": "$spacing.56"
       },
       "80": {
         "value": "80px",
         "type": "spacing",
-        "description": "$spacing.spacing.80"
+        "description": "$spacing.80"
       },
       "96": {
         "value": "96px",
         "type": "spacing",
-        "description": "$spacing.spacing.96"
+        "description": "$spacing.96"
       }
     },
     "lineHeights": {
       "16": {
         "value": "16",
         "type": "lineHeights",
-        "description": "$lineHeights.lineHeights.16"
+        "description": "$lineHeights.16"
       },
       "24": {
         "value": "24",
         "type": "lineHeights",
-        "description": "$lineHeights.lineHeights.24"
+        "description": "$lineHeights.24"
       },
       "32": {
         "value": "32",
         "type": "lineHeights",
-        "description": "$lineHeights.lineHeights.32"
+        "description": "$lineHeights.32"
       },
       "40": {
         "value": "40",
         "type": "lineHeights",
-        "description": "$lineHeights.lineHeights.40"
+        "description": "$lineHeights.40"
       },
       "48": {
         "value": "48",
         "type": "lineHeights",
-        "description": "$lineHeights.lineHeights.48"
+        "description": "$lineHeights.48"
       },
       "56": {
         "value": "56",
         "type": "lineHeights",
-        "description": "$lineHeights.lineHeights.56"
+        "description": "$lineHeights.56"
       },
       "64": {
         "value": "64",
         "type": "lineHeights",
-        "description": "$lineHeights.lineHeights.64"
+        "description": "$lineHeights.64"
       }
     },
     "fontWeights": {
       "extraBold": {
         "value": "ExtraBold",
         "type": "fontWeights",
-        "description": "$fontWeights.fontWeights.extraBold"
+        "description": "$fontWeights.extraBold"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights",
+        "description": "$fontWeights.bold"
       },
       "regular": {
         "value": "Regular",
         "type": "fontWeights",
-        "description": "$fontWeights.fontWeights.regular"
+        "description": "$fontWeights.regular"
       }
     },
     "fontSizes": {
       "11": {
         "value": "11px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.11"
+        "description": "$fontSizes.11"
       },
       "12": {
         "value": "12px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.12"
+        "description": "$fontSizes.12"
       },
       "14": {
         "value": "14px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.14"
+        "description": "$fontSizes.14"
       },
       "16": {
         "value": "16px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.16"
+        "description": "$fontSizes.16"
       },
       "18": {
         "value": "18px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.18"
+        "description": "$fontSizes.18"
       },
       "20": {
         "value": "20px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.20"
+        "description": "$fontSizes.20"
       },
       "22": {
         "value": "22px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.22"
+        "description": "$fontSizes.22"
       },
       "25": {
         "value": "25px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.25"
+        "description": "$fontSizes.25"
       },
       "28": {
         "value": "28px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.28"
+        "description": "$fontSizes.28"
       },
       "32": {
         "value": "32px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.32"
+        "description": "$fontSizes.32"
       },
       "36": {
         "value": "36px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.36"
+        "description": "$fontSizes.36"
       },
       "41": {
         "value": "41px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.41"
+        "description": "$fontSizes.41"
       },
       "46": {
         "value": "46px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.46"
+        "description": "$fontSizes.46"
       },
       "51": {
         "value": "51px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.51"
+        "description": "$fontSizes.51"
       },
       "58": {
         "value": "58px",
         "type": "fontSizes",
-        "description": "$fontSizes.fontSizes.58"
+        "description": "$fontSizes.58"
       }
     },
     "letterSpacing": {
       "default": {
         "value": "0",
         "type": "letterSpacing",
-        "description": "$letterSpacing.letterSpacing.default"
+        "description": "$letterSpacing.default"
       }
     },
     "paragraphSpacing": {
       "default": {
         "value": "0",
         "type": "paragraphSpacing",
-        "description": "$paragraphSpacing.paragraphSpacing.default"
+        "description": "$paragraphSpacing.default"
       }
     },
     "textCase": {
       "none": {
         "value": "none",
         "type": "textCase",
-        "description": "$textCase.textCase.none"
+        "description": "$textCase.none"
       },
       "uppercase": {
         "value": "uppercase",
         "type": "textCase",
-        "description": "$textCase.textCase.uppercase"
+        "description": "$textCase.uppercase"
       }
     },
     "textDecoration": {
       "none": {
         "value": "none",
         "type": "textDecoration",
-        "description": "$textDecoration.textDecoration.none"
+        "description": "$textDecoration.none"
       }
     },
     "fontFamilies": {
       "TeleNeo": {
         "value": "TeleNeo",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.TeleNeo"
+        "description": "$fontFamilies.TeleNeo"
       },
       "TTNorms": {
         "value": "TT Norms",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.TTNorms"
+        "description": "$fontFamilies.TTNorms"
       },
       "SFPro": {
         "value": "SF Pro",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.SFPro"
+        "description": "$fontFamilies.SFPro"
       },
       "Roboto": {
         "value": "Roboto",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.Roboto"
+        "description": "$fontFamilies.Roboto"
       },
       "Helvetica": {
         "value": "Helvetica",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.Helvetica"
+        "description": "$fontFamilies.Helvetica"
       },
       "Arial": {
         "value": "Arial",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.Arial"
+        "description": "$fontFamilies.Arial"
       }
     }
   },
@@ -986,12 +991,12 @@
       "brand": {
         "value": "$fontFamilies.TeleNeo",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.brand"
+        "description": "$fontFamilies.brand"
       },
       "system": {
         "value": "$fontFamilies.Helvetica",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.system"
+        "description": "$fontFamilies.system"
       }
     },
     "typesets": {
@@ -1009,7 +1014,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.mega.large.extraBold"
+            "description": "$typesets.mega.large.extraBold"
           }
         },
         "medium": {
@@ -1025,7 +1030,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.mega.medium.extraBold"
+            "description": "$typesets.mega.medium.extraBold"
           }
         },
         "small": {
@@ -1041,7 +1046,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.mega.small.extraBold"
+            "description": "$typesets.mega.small.extraBold"
           }
         }
       },
@@ -1059,7 +1064,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.display.xlarge.extraBold"
+            "description": "$typesets.display.xlarge.extraBold"
           }
         },
         "large": {
@@ -1075,7 +1080,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.display.large.extraBold"
+            "description": "$typesets.display.large.extraBold"
           }
         },
         "medium": {
@@ -1091,7 +1096,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.display.medium.extraBold"
+            "description": "$typesets.display.medium.extraBold"
           }
         },
         "small": {
@@ -1107,7 +1112,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.display.small.extraBold"
+            "description": "$typesets.display.small.extraBold"
           }
         }
       },
@@ -1125,7 +1130,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.title.xlarge.extraBold"
+            "description": "$typesets.title.xlarge.extraBold"
           }
         },
         "large": {
@@ -1141,7 +1146,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.title.large.extraBold"
+            "description": "$typesets.title.large.extraBold"
           }
         },
         "medium": {
@@ -1157,7 +1162,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.title.medium.extraBold"
+            "description": "$typesets.title.medium.extraBold"
           }
         },
         "small": {
@@ -1173,7 +1178,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.title.small.extraBold"
+            "description": "$typesets.title.small.extraBold"
           }
         }
       },
@@ -1190,7 +1195,21 @@
             "textDecoration": "$textDecoration.none"
           },
           "type": "typography",
-          "description": "$typography.typesets.body.regular"
+          "description": "$typesets.body.regular"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.system",
+            "fontWeight": "$fontWeights.bold",
+            "lineHeight": "$lineHeights.24",
+            "fontSize": "$fontSizes.16",
+            "letterSpacing": "$letterSpacing.default",
+            "paragraphSpacing": "$paragraphSpacing.default",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography",
+          "description": "$typesets.body.bold"
         }
       },
       "caption": {
@@ -1207,7 +1226,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.caption.large.regular"
+            "description": "$typesets.caption.large.regular"
           }
         },
         "medium": {
@@ -1223,7 +1242,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.caption.medium.regular"
+            "description": "$typesets.caption.medium.regular"
           }
         },
         "small": {
@@ -1239,7 +1258,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.caption.small.regular"
+            "description": "$typesets.caption.small.regular"
           }
         }
       }
@@ -1252,21 +1271,21 @@
           "extraBold": {
             "value": "$typesets.mega.large.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.mega.large.extraBold"
+            "description": "$webDesktop.mega.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.mega.medium.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.mega.medium.extraBold"
+            "description": "$webDesktop.mega.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.mega.small.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.mega.small.extraBold"
+            "description": "$webDesktop.mega.small.extraBold"
           }
         }
       },
@@ -1275,28 +1294,28 @@
           "extraBold": {
             "value": "$typesets.display.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.display.xlarge.extraBold"
+            "description": "$webDesktop.display.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
             "value": "$typesets.display.large.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.display.large.extraBold"
+            "description": "$webDesktop.display.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.display.medium.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.display.medium.extraBold"
+            "description": "$webDesktop.display.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.display.small.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.display.small.extraBold"
+            "description": "$webDesktop.display.small.extraBold"
           }
         }
       },
@@ -1305,28 +1324,28 @@
           "extraBold": {
             "value": "$typesets.title.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.title.xlarge.extraBold"
+            "description": "$webDesktop.title.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
             "value": "$typesets.title.large.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.title.large.extraBold"
+            "description": "$webDesktop.title.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.title.medium.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.title.medium.extraBold"
+            "description": "$webDesktop.title.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.title.small.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.title.small.extraBold"
+            "description": "$webDesktop.title.small.extraBold"
           }
         }
       },
@@ -1334,7 +1353,12 @@
         "regular": {
           "value": "$typesets.body.regular",
           "type": "typography",
-          "description": "$typography.webDesktop.body.regular"
+          "description": "$webDesktop.body.regular"
+        },
+        "bold": {
+          "value": "$typesets.body.bold",
+          "type": "typography",
+          "description": "$webDesktop.body.bold"
         }
       },
       "caption": {
@@ -1342,21 +1366,21 @@
           "regular": {
             "value": "$typesets.caption.large.regular",
             "type": "typography",
-            "description": "$typography.webDesktop.caption.large.regular"
+            "description": "$webDesktop.caption.large.regular"
           }
         },
         "medium": {
           "regular": {
             "value": "$typesets.caption.medium.regular",
             "type": "typography",
-            "description": "$typography.webDesktop.caption.medium.regular"
+            "description": "$webDesktop.caption.medium.regular"
           }
         },
         "small": {
           "regular": {
             "value": "$typesets.caption.small.regular",
             "type": "typography",
-            "description": "$typography.webDesktop.caption.small.regular"
+            "description": "$webDesktop.caption.small.regular"
           }
         }
       }
@@ -1369,21 +1393,21 @@
           "extraBold": {
             "value": "$typesets.mega.small.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.mega.large.extraBold"
+            "description": "$webMobile.mega.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.display.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.mega.medium.extraBold"
+            "description": "$webMobile.mega.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.display.large.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.mega.small.extraBold"
+            "description": "$webMobile.mega.small.extraBold"
           }
         }
       },
@@ -1392,28 +1416,28 @@
           "extraBold": {
             "value": "$typesets.display.medium.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.display.xlarge.extraBold"
+            "description": "$webMobile.display.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
             "value": "$typesets.display.small.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.display.large.extraBold"
+            "description": "$webMobile.display.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.title.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.display.medium.extraBold"
+            "description": "$webMobile.display.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.title.large.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.display.small.extraBold"
+            "description": "$webMobile.display.small.extraBold"
           }
         }
       },
@@ -1422,28 +1446,28 @@
           "extraBold": {
             "value": "$typesets.title.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.title.xlarge.extraBold"
+            "description": "$webMobile.title.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
             "value": "$typesets.title.large.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.title.large.extraBold"
+            "description": "$webMobile.title.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.title.medium.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.title.medium.extraBold"
+            "description": "$webMobile.title.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.title.small.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.title.small.extraBold"
+            "description": "$webMobile.title.small.extraBold"
           }
         }
       },
@@ -1451,7 +1475,12 @@
         "regular": {
           "value": "$typesets.body.regular",
           "type": "typography",
-          "description": "$typography.webMobile.body.regular"
+          "description": "$webMobile.body.regular"
+        },
+        "bold": {
+          "value": "$typesets.body.bold",
+          "type": "typography",
+          "description": "$webMobile.body.bold"
         }
       },
       "caption": {
@@ -1459,21 +1488,21 @@
           "regular": {
             "value": "$typesets.caption.large.regular",
             "type": "typography",
-            "description": "$typography.webMobile.caption.large.regular"
+            "description": "$webMobile.caption.large.regular"
           }
         },
         "medium": {
           "regular": {
             "value": "$typesets.caption.medium.regular",
             "type": "typography",
-            "description": "$typography.webMobile.caption.medium.regular"
+            "description": "$webMobile.caption.medium.regular"
           }
         },
         "small": {
           "regular": {
             "value": "$typesets.caption.small.regular",
             "type": "typography",
-            "description": "$typography.webMobile.caption.small.regular"
+            "description": "$webMobile.caption.small.regular"
           }
         }
       }
@@ -1485,63 +1514,68 @@
         "extraBold": {
           "value": "$typesets.display.large.extraBold",
           "type": "typography",
-          "description": "$typography.ios.largeTitle.extraBold"
+          "description": "$ios.largeTitle.extraBold"
         }
       },
       "title1": {
         "extraBold": {
           "value": "$typesets.display.small.extraBold",
           "type": "typography",
-          "description": "$typography.ios.title1.extraBold"
+          "description": "$ios.title1.extraBold"
         }
       },
       "title2": {
         "extraBold": {
           "value": "$typesets.title.large.extraBold",
           "type": "typography",
-          "description": "$typography.ios.title2.extraBold"
+          "description": "$ios.title2.extraBold"
         }
       },
       "title3": {
         "extraBold": {
           "value": "$typesets.title.medium.extraBold",
           "type": "typography",
-          "description": "$typography.ios.title3.extraBold"
+          "description": "$ios.title3.extraBold"
         }
       },
       "headline": {
         "extraBold": {
           "value": "$typesets.title.small.extraBold",
           "type": "typography",
-          "description": "$typography.ios.headline.extraBold"
+          "description": "$ios.headline.extraBold"
         }
       },
       "body": {
         "regular": {
           "value": "$typesets.body.regular",
           "type": "typography",
-          "description": "$typography.ios.body.regular"
+          "description": "$ios.body.regular"
+        },
+        "bold": {
+          "value": "$typesets.body.bold",
+          "type": "typography",
+          "description": "$ios.body.bold"
         }
       },
       "subhead": {
         "regular": {
           "value": "$typesets.caption.large.regular",
           "type": "typography",
-          "description": "$typography.ios.subhead.regular"
+          "description": "$ios.subhead.regular"
         }
       },
       "caption1": {
         "regular": {
           "value": "$typesets.caption.medium.regular",
           "type": "typography",
-          "description": "$typography.ios.caption1.regular"
+          "description": "$ios.caption1.regular"
         }
       },
       "caption2": {
         "regular": {
           "value": "$typesets.caption.small.regular",
           "type": "typography",
-          "description": "$typography.ios.caption2.regular"
+          "description": "$ios.caption2.regular"
         }
       }
     },
@@ -1549,7 +1583,7 @@
       "system": {
         "value": "$fontFamilies.SFPro",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.system"
+        "description": "$fontFamilies.system"
       }
     }
   },
@@ -1560,7 +1594,7 @@
           "extraBold": {
             "value": "$typesets.display.large.extraBold",
             "type": "typography",
-            "description": "$typography.android.display.small.extraBold"
+            "description": "$android.display.small.extraBold"
           }
         }
       },
@@ -1569,21 +1603,21 @@
           "extraBold": {
             "value": "$typesets.display.medium.extraBold",
             "type": "typography",
-            "description": "$typography.android.headline.large.extraBold"
+            "description": "$android.headline.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.display.small.extraBold",
             "type": "typography",
-            "description": "$typography.android.headline.medium.extraBold"
+            "description": "$android.headline.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.title.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.android.headline.small.extraBold"
+            "description": "$android.headline.small.extraBold"
           }
         }
       },
@@ -1592,7 +1626,7 @@
           "extraBold": {
             "value": "$typesets.title.large.extraBold",
             "type": "typography",
-            "description": "$typography.android.title.large.extraBold"
+            "description": "$android.title.large.extraBold"
           }
         }
       },
@@ -1601,21 +1635,26 @@
           "regular": {
             "value": "$typesets.body.regular",
             "type": "typography",
-            "description": "$typography.android.body.large.regular"
+            "description": "$android.body.large.regular"
+          },
+          "bold": {
+            "value": "$typesets.body.bold",
+            "type": "typography",
+            "description": "$android.body.large.bold"
           }
         },
         "medium": {
           "regular": {
             "value": "$typesets.caption.large.regular",
             "type": "typography",
-            "description": "$typography.android.body.medium.regular"
+            "description": "$android.body.medium.regular"
           }
         },
         "small": {
           "regular": {
             "value": "$typesets.caption.medium.regular",
             "type": "typography",
-            "description": "$typography.android.body.small.regular"
+            "description": "$android.body.small.regular"
           }
         }
       },
@@ -1624,7 +1663,7 @@
           "regular": {
             "value": "$typesets.caption.small.regular",
             "type": "typography",
-            "description": "$typography.android.label.small.regular"
+            "description": "$android.label.small.regular"
           }
         }
       }
@@ -1633,7 +1672,7 @@
       "system": {
         "value": "$fontFamilies.Roboto",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.system"
+        "description": "$fontFamilies.system"
       }
     }
   },
@@ -1963,12 +2002,12 @@
       "brand": {
         "value": "$fontFamilies.TTNorms",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.brand"
+        "description": "$fontFamilies.brand"
       },
       "system": {
         "value": "$fontFamilies.Helvetica",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.system"
+        "description": "$fontFamilies.system"
       }
     },
     "typesets": {
@@ -1986,7 +2025,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.mega.large.extraBold"
+            "description": "$typesets.mega.large.extraBold"
           }
         },
         "medium": {
@@ -2002,7 +2041,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.mega.medium.extraBold"
+            "description": "$typesets.mega.medium.extraBold"
           }
         },
         "small": {
@@ -2018,7 +2057,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.mega.small.extraBold"
+            "description": "$typesets.mega.small.extraBold"
           }
         }
       },
@@ -2036,7 +2075,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.display.xlarge.extraBold"
+            "description": "$typesets.display.xlarge.extraBold"
           }
         },
         "large": {
@@ -2052,7 +2091,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.display.large.extraBold"
+            "description": "$typesets.display.large.extraBold"
           }
         },
         "medium": {
@@ -2068,7 +2107,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.display.medium.extraBold"
+            "description": "$typesets.display.medium.extraBold"
           }
         },
         "small": {
@@ -2084,7 +2123,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.display.small.extraBold"
+            "description": "$typesets.display.small.extraBold"
           }
         }
       },
@@ -2102,7 +2141,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.title.xlarge.extraBold"
+            "description": "$typesets.title.xlarge.extraBold"
           }
         },
         "large": {
@@ -2118,7 +2157,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.title.large.extraBold"
+            "description": "$typesets.title.large.extraBold"
           }
         },
         "medium": {
@@ -2134,7 +2173,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.title.medium.extraBold"
+            "description": "$typesets.title.medium.extraBold"
           }
         },
         "small": {
@@ -2150,7 +2189,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.title.small.extraBold"
+            "description": "$typesets.title.small.extraBold"
           }
         }
       },
@@ -2167,7 +2206,21 @@
             "textDecoration": "$textDecoration.none"
           },
           "type": "typography",
-          "description": "$typography.typesets.body.regular"
+          "description": "$typesets.body.regular"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.system",
+            "fontWeight": "$fontWeights.bold",
+            "lineHeight": "$lineHeights.24",
+            "fontSize": "$fontSizes.16",
+            "letterSpacing": "$letterSpacing.default",
+            "paragraphSpacing": "$paragraphSpacing.default",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography",
+          "description": "$typesets.body.bold"
         }
       },
       "caption": {
@@ -2184,7 +2237,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.caption.large.regular"
+            "description": "$typesets.caption.large.regular"
           }
         },
         "medium": {
@@ -2200,7 +2253,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.caption.medium.regular"
+            "description": "$typesets.caption.medium.regular"
           }
         },
         "small": {
@@ -2216,7 +2269,7 @@
               "textDecoration": "$textDecoration.none"
             },
             "type": "typography",
-            "description": "$typography.typesets.caption.small.regular"
+            "description": "$typesets.caption.small.regular"
           }
         }
       }
@@ -2229,21 +2282,21 @@
           "extraBold": {
             "value": "$typesets.mega.large.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.mega.large.extraBold"
+            "description": "$webDesktop.mega.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.mega.medium.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.mega.medium.extraBold"
+            "description": "$webDesktop.mega.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.mega.small.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.mega.small.extraBold"
+            "description": "$webDesktop.mega.small.extraBold"
           }
         }
       },
@@ -2252,28 +2305,28 @@
           "extraBold": {
             "value": "$typesets.display.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.display.xlarge.extraBold"
+            "description": "$webDesktop.display.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
             "value": "$typesets.display.large.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.display.large.extraBold"
+            "description": "$webDesktop.display.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.display.medium.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.display.medium.extraBold"
+            "description": "$webDesktop.display.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.display.small.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.display.small.extraBold"
+            "description": "$webDesktop.display.small.extraBold"
           }
         }
       },
@@ -2282,28 +2335,28 @@
           "extraBold": {
             "value": "$typesets.title.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.title.xlarge.extraBold"
+            "description": "$webDesktop.title.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
             "value": "$typesets.title.large.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.title.large.extraBold"
+            "description": "$webDesktop.title.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.title.medium.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.title.medium.extraBold"
+            "description": "$webDesktop.title.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.title.small.extraBold",
             "type": "typography",
-            "description": "$typography.webDesktop.title.small.extraBold"
+            "description": "$webDesktop.title.small.extraBold"
           }
         }
       },
@@ -2311,7 +2364,12 @@
         "regular": {
           "value": "$typesets.body.regular",
           "type": "typography",
-          "description": "$typography.webDesktop.body.regular"
+          "description": "$webDesktop.body.regular"
+        },
+        "bold": {
+          "value": "$typesets.body.bold",
+          "type": "typography",
+          "description": "$webDesktop.body.bold"
         }
       },
       "caption": {
@@ -2319,21 +2377,21 @@
           "regular": {
             "value": "$typesets.caption.large.regular",
             "type": "typography",
-            "description": "$typography.webDesktop.caption.large.regular"
+            "description": "$webDesktop.caption.large.regular"
           }
         },
         "medium": {
           "regular": {
             "value": "$typesets.caption.medium.regular",
             "type": "typography",
-            "description": "$typography.webDesktop.caption.medium.regular"
+            "description": "$webDesktop.caption.medium.regular"
           }
         },
         "small": {
           "regular": {
             "value": "$typesets.caption.small.regular",
             "type": "typography",
-            "description": "$typography.webDesktop.caption.small.regular"
+            "description": "$webDesktop.caption.small.regular"
           }
         }
       }
@@ -2346,21 +2404,21 @@
           "extraBold": {
             "value": "$typesets.mega.small.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.mega.large.extraBold"
+            "description": "$webMobile.mega.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.display.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.mega.medium.extraBold"
+            "description": "$webMobile.mega.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.display.large.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.mega.small.extraBold"
+            "description": "$webMobile.mega.small.extraBold"
           }
         }
       },
@@ -2369,28 +2427,28 @@
           "extraBold": {
             "value": "$typesets.display.medium.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.display.xlarge.extraBold"
+            "description": "$webMobile.display.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
             "value": "$typesets.display.small.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.display.large.extraBold"
+            "description": "$webMobile.display.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.title.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.display.medium.extraBold"
+            "description": "$webMobile.display.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.title.large.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.display.small.extraBold"
+            "description": "$webMobile.display.small.extraBold"
           }
         }
       },
@@ -2399,28 +2457,28 @@
           "extraBold": {
             "value": "$typesets.title.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.title.xlarge.extraBold"
+            "description": "$webMobile.title.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
             "value": "$typesets.title.large.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.title.large.extraBold"
+            "description": "$webMobile.title.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.title.medium.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.title.medium.extraBold"
+            "description": "$webMobile.title.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.title.small.extraBold",
             "type": "typography",
-            "description": "$typography.webMobile.title.small.extraBold"
+            "description": "$webMobile.title.small.extraBold"
           }
         }
       },
@@ -2428,7 +2486,12 @@
         "regular": {
           "value": "$typesets.body.regular",
           "type": "typography",
-          "description": "$typography.webMobile.body.regular"
+          "description": "$webMobile.body.regular"
+        },
+        "bold": {
+          "value": "$typesets.body.bold",
+          "type": "typography",
+          "description": "$webMobile.body.bold"
         }
       },
       "caption": {
@@ -2436,21 +2499,21 @@
           "regular": {
             "value": "$typesets.caption.large.regular",
             "type": "typography",
-            "description": "$typography.webMobile.caption.large.regular"
+            "description": "$webMobile.caption.large.regular"
           }
         },
         "medium": {
           "regular": {
             "value": "$typesets.caption.medium.regular",
             "type": "typography",
-            "description": "$typography.webMobile.caption.medium.regular"
+            "description": "$webMobile.caption.medium.regular"
           }
         },
         "small": {
           "regular": {
             "value": "$typesets.caption.small.regular",
             "type": "typography",
-            "description": "$typography.webMobile.caption.small.regular"
+            "description": "$webMobile.caption.small.regular"
           }
         }
       }
@@ -2462,63 +2525,68 @@
         "extraBold": {
           "value": "$typesets.display.large.extraBold",
           "type": "typography",
-          "description": "$typography.ios.largeTitle.extraBold"
+          "description": "$ios.largeTitle.extraBold"
         }
       },
       "title1": {
         "extraBold": {
           "value": "$typesets.display.small.extraBold",
           "type": "typography",
-          "description": "$typography.ios.title1.extraBold"
+          "description": "$ios.title1.extraBold"
         }
       },
       "title2": {
         "extraBold": {
           "value": "$typesets.title.large.extraBold",
           "type": "typography",
-          "description": "$typography.ios.title2.extraBold"
+          "description": "$ios.title2.extraBold"
         }
       },
       "title3": {
         "extraBold": {
           "value": "$typesets.title.medium.extraBold",
           "type": "typography",
-          "description": "$typography.ios.title3.extraBold"
+          "description": "$ios.title3.extraBold"
         }
       },
       "headline": {
         "extraBold": {
           "value": "$typesets.title.small.extraBold",
           "type": "typography",
-          "description": "$typography.ios.headline.extraBold"
+          "description": "$ios.headline.extraBold"
         }
       },
       "body": {
         "regular": {
           "value": "$typesets.body.regular",
           "type": "typography",
-          "description": "$typography.ios.body.regular"
+          "description": "$ios.body.regular"
+        },
+        "bold": {
+          "value": "$typesets.body.bold",
+          "type": "typography",
+          "description": "$ios.body.bold"
         }
       },
       "subhead": {
         "regular": {
           "value": "$typesets.caption.large.regular",
           "type": "typography",
-          "description": "$typography.ios.subhead.regular"
+          "description": "$ios.subhead.regular"
         }
       },
       "caption1": {
         "regular": {
           "value": "$typesets.caption.medium.regular",
           "type": "typography",
-          "description": "$typography.ios.caption1.regular"
+          "description": "$ios.caption1.regular"
         }
       },
       "caption2": {
         "regular": {
           "value": "$typesets.caption.small.regular",
           "type": "typography",
-          "description": "$typography.ios.caption2.regular"
+          "description": "$ios.caption2.regular"
         }
       }
     },
@@ -2526,7 +2594,7 @@
       "system": {
         "value": "$fontFamilies.SFPro",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.system"
+        "description": "$fontFamilies.system"
       }
     }
   },
@@ -2537,7 +2605,7 @@
           "extraBold": {
             "value": "$typesets.display.large.extraBold",
             "type": "typography",
-            "description": "$typography.android.display.small.extraBold"
+            "description": "$android.display.small.extraBold"
           }
         }
       },
@@ -2546,21 +2614,21 @@
           "extraBold": {
             "value": "$typesets.display.medium.extraBold",
             "type": "typography",
-            "description": "$typography.android.headline.large.extraBold"
+            "description": "$android.headline.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
             "value": "$typesets.display.small.extraBold",
             "type": "typography",
-            "description": "$typography.android.headline.medium.extraBold"
+            "description": "$android.headline.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
             "value": "$typesets.title.xlarge.extraBold",
             "type": "typography",
-            "description": "$typography.android.headline.small.extraBold"
+            "description": "$android.headline.small.extraBold"
           }
         }
       },
@@ -2569,7 +2637,7 @@
           "extraBold": {
             "value": "$typesets.title.large.extraBold",
             "type": "typography",
-            "description": "$typography.android.title.large.extraBold"
+            "description": "$android.title.large.extraBold"
           }
         }
       },
@@ -2578,21 +2646,26 @@
           "regular": {
             "value": "$typesets.body.regular",
             "type": "typography",
-            "description": "$typography.android.body.large.regular"
+            "description": "$android.body.large.regular"
+          },
+          "bold": {
+            "value": "$typesets.body.bold",
+            "type": "typography",
+            "description": "$android.body.large.bold"
           }
         },
         "medium": {
           "regular": {
             "value": "$typesets.caption.large.regular",
             "type": "typography",
-            "description": "$typography.android.body.medium.regular"
+            "description": "$android.body.medium.regular"
           }
         },
         "small": {
           "regular": {
             "value": "$typesets.caption.medium.regular",
             "type": "typography",
-            "description": "$typography.android.body.small.regular"
+            "description": "$android.body.small.regular"
           }
         }
       },
@@ -2601,7 +2674,7 @@
           "regular": {
             "value": "$typesets.caption.small.regular",
             "type": "typography",
-            "description": "$typography.android.label.small.regular"
+            "description": "$android.label.small.regular"
           }
         }
       }
@@ -2610,7 +2683,7 @@
       "system": {
         "value": "$fontFamilies.Roboto",
         "type": "fontFamilies",
-        "description": "$fontFamilies.fontFamilies.system"
+        "description": "$fontFamilies.system"
       }
     }
   },
