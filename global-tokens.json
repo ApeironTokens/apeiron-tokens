@@ -1196,7 +1196,9 @@
           },
           "type": "typography",
           "description": "typesets.body.regular"
-        },
+        }
+      },
+      "subtitle": {
         "bold": {
           "value": {
             "fontFamily": "{fontFamilies.brand}",
@@ -1209,7 +1211,7 @@
             "textDecoration": "{textDecoration.none}"
           },
           "type": "typography",
-          "description": "typesets.body.bold"
+          "description": "typesets.subtitle.bold"
         }
       },
       "caption": {
@@ -1354,11 +1356,13 @@
           "value": "{typesets.body.regular}",
           "type": "typography",
           "description": "webDesktop.body.regular"
-        },
+        }
+      },
+      "subtitle": {
         "bold": {
-          "value": "{typesets.body.bold}",
+          "value": "{typesets.subtitle.bold}",
           "type": "typography",
-          "description": "webDesktop.body.bold"
+          "description": "webDesktop.subtitle.bold"
         }
       },
       "caption": {
@@ -1476,11 +1480,13 @@
           "value": "{typesets.body.regular}",
           "type": "typography",
           "description": "webMobile.body.regular"
-        },
+        }
+      },
+      "subtitle": {
         "bold": {
-          "value": "{typesets.body.bold}",
+          "value": "{typesets.subtitle.bold}",
           "type": "typography",
-          "description": "webMobile.body.bold"
+          "description": "webMobile.subtitle.bold"
         }
       },
       "caption": {
@@ -1550,11 +1556,13 @@
           "value": "{typesets.body.regular}",
           "type": "typography",
           "description": "ios.body.regular"
-        },
+        }
+      },
+      "subtitle": {
         "bold": {
-          "value": "{typesets.body.bold}",
+          "value": "{typesets.subtitle.bold}",
           "type": "typography",
-          "description": "ios.body.bold"
+          "description": "ios.subtitle.bold"
         }
       },
       "subhead": {
@@ -1636,11 +1644,6 @@
             "value": "{typesets.body.regular}",
             "type": "typography",
             "description": "android.body.large.regular"
-          },
-          "bold": {
-            "value": "{typesets.body.bold}",
-            "type": "typography",
-            "description": "android.body.large.bold"
           }
         },
         "medium": {
@@ -1655,6 +1658,15 @@
             "value": "{typesets.caption.medium.regular}",
             "type": "typography",
             "description": "android.body.small.regular"
+          }
+        }
+      },
+      "subtitle": {
+        "large": {
+          "bold": {
+            "value": "{typesets.subtitle.bold}",
+            "type": "typography",
+            "description": "android.subtitle.large.bold"
           }
         }
       },
@@ -2071,7 +2083,7 @@
               "fontSize": "{fontSizes.41}",
               "letterSpacing": "{letterSpacing.default}",
               "paragraphSpacing": "{paragraphSpacing.default}",
-              "textCase": "{textCase.none",
+              "textCase": "{textCase.none}",
               "textDecoration": "{textDecoration.none}"
             },
             "type": "typography",
@@ -2207,7 +2219,9 @@
           },
           "type": "typography",
           "description": "typesets.body.regular"
-        },
+        }
+      },
+      "subtitle": {
         "bold": {
           "value": {
             "fontFamily": "{fontFamilies.brand}",
@@ -2220,7 +2234,7 @@
             "textDecoration": "{textDecoration.none}"
           },
           "type": "typography",
-          "description": "typesets.body.bold"
+          "description": "typesets.subtitle.bold"
         }
       },
       "caption": {
@@ -2365,11 +2379,13 @@
           "value": "{typesets.body.regular}",
           "type": "typography",
           "description": "webDesktop.body.regular"
-        },
+        }
+      },
+      "subtitle": {
         "bold": {
-          "value": "{typesets.body.bold}",
+          "value": "{typesets.subtitle.bold}",
           "type": "typography",
-          "description": "webDesktop.body.bold"
+          "description": "webDesktop.subtitle.bold"
         }
       },
       "caption": {
@@ -2487,11 +2503,13 @@
           "value": "{typesets.body.regular}",
           "type": "typography",
           "description": "webMobile.body.regular"
-        },
+        }
+      },
+      "subtitle": {
         "bold": {
-          "value": "{typesets.body.bold}",
+          "value": "{typesets.subtitle.bold}",
           "type": "typography",
-          "description": "webMobile.body.bold"
+          "description": "webMobile.subtitle.bold"
         }
       },
       "caption": {
@@ -2561,11 +2579,13 @@
           "value": "{typesets.body.regular}",
           "type": "typography",
           "description": "ios.body.regular"
-        },
+        }
+      },
+      "subtitle": {
         "bold": {
-          "value": "{typesets.body.bold}",
+          "value": "{typesets.subtitle.bold}",
           "type": "typography",
-          "description": "ios.body.bold"
+          "description": "ios.subtitle.bold"
         }
       },
       "subhead": {
@@ -2647,11 +2667,6 @@
             "value": "{typesets.body.regular}",
             "type": "typography",
             "description": "android.body.large.regular"
-          },
-          "bold": {
-            "value": "{typesets.body.bold}",
-            "type": "typography",
-            "description": "android.body.large.bold"
           }
         },
         "medium": {
@@ -2666,6 +2681,15 @@
             "value": "{typesets.caption.medium.regular}",
             "type": "typography",
             "description": "android.body.small.regular"
+          }
+        }
+      },
+      "subtitle": {
+        "large": {
+          "bold": {
+            "value": "{typesets.subtitle.bold}",
+            "type": "typography",
+            "description": "android.subtitle.large.bold"
           }
         }
       },
