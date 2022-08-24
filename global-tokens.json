@@ -1631,71 +1631,79 @@
             "type": "typography",
             "description": "typesets.display.medium.extraBold}"
           }
-        }
-      },
-      "headline": {
-        "medium": {
-          "extraBold": {
-            "value": "{typesets.display.small.extraBold}",
-            "type": "typography",
-            "description": "android.headline.medium.extraBold"
-          }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.title.xlarge.extraBold}",
+            "value": "{typesets.display.small.extraBold}",
             "type": "typography",
-            "description": "android.headline.small.extraBold"
+            "description": "typesets.display.small.extraBold"
           }
         }
       },
       "title": {
+        "xlarge": {
+          "extraBold": {
+            "value": "{typesets.title.xlarge.extraBold}",
+            "type": "typography",
+            "description": "typesets.title.xlarge.extraBold"
+          }
+        },
         "large": {
           "extraBold": {
             "value": "{typesets.title.large.extraBold}",
             "type": "typography",
-            "description": "android.title.large.extraBold"
+            "description": "typesets.title.large.extraBold"
+          }
+        },
+        "medium": {
+          "extraBold": {
+            "value": "{typesets.title.medium.extraBold}",
+            "type": "typography",
+            "description": "typesets.title.medium.extraBold"
+          }
+        },
+        "small": {
+          "extraBold": {
+            "value": "{typesets.title.small.extraBold}",
+            "type": "typography",
+            "description": "typesets.title.small.extraBold"
           }
         }
       },
       "body": {
+        "regular": {
+          "value": "{typesets.body.regular}",
+          "type": "typography",
+          "description": "typesets.body.regular"
+        }
+      },
+      "subtitle": {
+        "bold": {
+          "value": "{typesets.subtitle.bold}",
+          "type": "typography",
+          "description": "typesets.subtitle.bold"
+        }
+      },
+      "caption": {
         "large": {
           "regular": {
-            "value": "{typesets.body.regular}",
+            "value": "{typesets.caption.large.regular}",
             "type": "typography",
-            "description": "android.body.large.regular"
+            "description": "typesets.caption.large.regular"
           }
         },
         "medium": {
           "regular": {
-            "value": "{typesets.caption.large.regular}",
+            "value": "{typesets.caption.medium.regular}",
             "type": "typography",
-            "description": "android.body.medium.regular"
+            "description": "typesets.caption.medium.regular"
           }
         },
         "small": {
           "regular": {
-            "value": "{typesets.caption.medium.regular}",
-            "type": "typography",
-            "description": "android.body.small.regular"
-          }
-        }
-      },
-      "subtitle": {
-        "large": {
-          "bold": {
-            "value": "{typesets.subtitle.bold}",
-            "type": "typography",
-            "description": "android.subtitle.large.bold"
-          }
-        }
-      },
-      "label": {
-        "small": {
-          "regular": {
             "value": "{typesets.caption.small.regular}",
             "type": "typography",
-            "description": "android.label.small.regular"
+            "description": "typesets.caption.small.regular"
           }
         }
       }
