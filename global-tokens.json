@@ -1516,74 +1516,94 @@
   },
   "tmobile.ios": {
     "ios": {
-      "largeTitle": {
-        "extraBold": {
-          "value": "{typesets.display.large.extraBold}",
-          "type": "typography",
-          "description": "ios.largeTitle.extraBold"
+      "display": {
+        "large": {
+          "extraBold": {
+            "value": "{typesets.display.large.extraBold}",
+            "type": "typography",
+            "description": "typesets.display.large.extraBold"
+          }
+        },
+        "medium": {
+          "extraBold": {
+            "value": "{typesets.display.medium.extraBold}",
+            "type": "typography",
+            "description": "typesets.display.medium.extraBold"
+          }
+        },
+        "small": {
+          "extraBold": {
+            "value": "{typesets.display.small.extraBold}",
+            "type": "typography",
+            "description": "typesets.display.small.extraBold"
+          }
         }
       },
-      "title1": {
-        "extraBold": {
-          "value": "{typesets.display.small.extraBold}",
-          "type": "typography",
-          "description": "ios.title1.extraBold"
-        }
-      },
-      "title2": {
-        "extraBold": {
-          "value": "{typesets.title.large.extraBold}",
-          "type": "typography",
-          "description": "ios.title2.extraBold"
-        }
-      },
-      "title3": {
-        "extraBold": {
-          "value": "{typesets.title.medium.extraBold}",
-          "type": "typography",
-          "description": "ios.title3.extraBold"
-        }
-      },
-      "headline": {
-        "extraBold": {
-          "value": "{typesets.title.small.extraBold}",
-          "type": "typography",
-          "description": "ios.headline.extraBold"
+      "title": {
+        "xlarge": {
+          "extraBold": {
+            "value": "{typesets.title.xlarge.extraBold}",
+            "type": "typography",
+            "description": "typesets.title.xlarge.extraBold"
+          }
+        },
+        "large": {
+          "extraBold": {
+            "value": "{typesets.title.large.extraBold}",
+            "type": "typography",
+            "description": "typesets.title.large.extraBold"
+          }
+        },
+        "medium": {
+          "extraBold": {
+            "value": "{typesets.title.medium.extraBold}",
+            "type": "typography",
+            "description": "typesets.title.medium.extraBold"
+          }
+        },
+        "small": {
+          "extraBold": {
+            "value": "{typesets.title.small.extraBold}",
+            "type": "typography",
+            "description": "typesets.title.small.extraBold"
+          }
         }
       },
       "body": {
         "regular": {
           "value": "{typesets.body.regular}",
           "type": "typography",
-          "description": "ios.body.regular"
+          "description": "typesets.body.regular"
         }
       },
       "subtitle": {
         "bold": {
           "value": "{typesets.subtitle.bold}",
           "type": "typography",
-          "description": "ios.subtitle.bold"
+          "description": "typesets.subtitle.bold"
         }
       },
-      "subhead": {
-        "regular": {
-          "value": "{typesets.caption.large.regular}",
-          "type": "typography",
-          "description": "ios.subhead.regular"
-        }
-      },
-      "caption1": {
-        "regular": {
-          "value": "{typesets.caption.medium.regular}",
-          "type": "typography",
-          "description": "ios.caption1.regular"
-        }
-      },
-      "caption2": {
-        "regular": {
-          "value": "{typesets.caption.small.regular}",
-          "type": "typography",
-          "description": "ios.caption2.regular"
+      "caption": {
+        "large": {
+          "regular": {
+            "value": "{typesets.caption.large.regular}",
+            "type": "typography",
+            "description": "typesets.caption.large.regular"
+          }
+        },
+        "medium": {
+          "regular": {
+            "value": "{typesets.caption.medium.regular}",
+            "type": "typography",
+            "description": "typesets.caption.medium.regular"
+          }
+        },
+        "small": {
+          "regular": {
+            "value": "{typesets.caption.small.regular}",
+            "type": "typography",
+            "description": "typesets.caption.small.regular"
+          }
         }
       }
     },
@@ -1598,22 +1618,22 @@
   "tmobile.android": {
     "android": {
       "display": {
-        "small": {
+        "large": {
           "extraBold": {
             "value": "{typesets.display.large.extraBold}",
             "type": "typography",
-            "description": "android.display.small.extraBold"
+            "description": "typesets.display.large.extraBold"
+          }
+        },
+        "medium": {
+          "extraBold": {
+            "value": "{typesets.display.medium.extraBold}",
+            "type": "typography",
+            "description": "typesets.display.medium.extraBold}"
           }
         }
       },
       "headline": {
-        "large": {
-          "extraBold": {
-            "value": "{typesets.display.medium.extraBold}",
-            "type": "typography",
-            "description": "android.headline.large.extraBold"
-          }
-        },
         "medium": {
           "extraBold": {
             "value": "{typesets.display.small.extraBold}",
