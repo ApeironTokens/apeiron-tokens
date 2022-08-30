@@ -896,6 +896,18 @@
             "description": "color.border.primary.hover.onDark"
           }
         },
+        "filled": {
+          "onLight": {
+            "value": "{grayscale.800}",
+            "type": "color",
+            "description": "color.border.primary.filled.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.700}",
+            "type": "color",
+            "description": "color.border.primary.filled.onDark"
+          }
+        },
         "focused": {
           "onLight": {
             "value": "{grayscale.900}",
