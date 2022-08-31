@@ -896,30 +896,6 @@
             "description": "color.border.primary.hover.onDark"
           }
         },
-        "filled": {
-          "onLight": {
-            "value": "{grayscale.800}",
-            "type": "color",
-            "description": "color.border.primary.filled.onLight"
-          },
-          "onDark": {
-            "value": "{grayscale.700}",
-            "type": "color",
-            "description": "color.border.primary.filled.onDark"
-          }
-        },
-        "focused": {
-          "onLight": {
-            "value": "{grayscale.900}",
-            "type": "color",
-            "description": "color.border.primary.focused.onLight"
-          },
-          "onDark": {
-            "value": "{grayscale.300}",
-            "type": "color",
-            "description": "color.border.primary.focused.onDark"
-          }
-        },
         "active": {
           "onLight": {
             "value": "{grayscale.900}",
@@ -927,7 +903,7 @@
             "description": "color.border.primary.active.onLight"
           },
           "onDark": {
-            "value": "{grayscale.300}",
+            "value": "{grayscale.200}",
             "type": "color",
             "description": "color.border.primary.active.onDark"
           }
