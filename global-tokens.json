@@ -2093,6 +2093,144 @@
         }
       }
     },
+    "border": {
+      "primary": {
+        "default": {
+          "onLight": {
+            "value": "{grayscale.800}",
+            "type": "color",
+            "description": "color.border.primary.default.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.700}",
+            "type": "color",
+            "description": "color.border.primary.default.onDark"
+          }
+        },
+        "hover": {
+          "onLight": {
+            "value": "{grayscale.900}",
+            "type": "color",
+            "description": "color.border.primary.hover.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.200}",
+            "type": "color",
+            "description": "color.border.primary.hover.onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "{grayscale.900}",
+            "type": "color",
+            "description": "color.border.primary.active.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.200}",
+            "type": "color",
+            "description": "color.border.primary.active.onDark"
+          }
+        },
+        "disabled": {
+          "onLight": {
+            "value": "{grayscale.800}",
+            "type": "color",
+            "description": "color.border.primary.disabled.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.700}",
+            "type": "color",
+            "description": "color.border.primary.disabled.onDark"
+          }
+        }
+      },
+      "brand": {
+        "default": {
+          "onLight": {
+            "value": "{purple.600}",
+            "type": "color",
+            "description": "color.border.brand.default.onLight"
+          },
+          "onDark": {
+            "value": "{purple.400}",
+            "type": "color",
+            "description": "color.border.brand.default.onDark"
+          }
+        },
+        "hover": {
+          "onLight": {
+            "value": "{purple.700}",
+            "type": "color",
+            "description": "color.border.brand.hover.onLight"
+          },
+          "onDark": {
+            "value": "{purple.500}",
+            "type": "color",
+            "description": "color.border.brand.hover.onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "{purple.800}",
+            "type": "color",
+            "description": "color.border.brand.active.onLight"
+          },
+          "onDark": {
+            "value": "{purple.600}",
+            "type": "color",
+            "description": "color.border.brand.active.onDark"
+          }
+        }
+      },
+      "critical": {
+        "onLight": {
+          "value": "{critical.600}",
+          "type": "color",
+          "description": "color.border.critical.onLight"
+        },
+        "onDark": {
+          "value": "{critical.500}",
+          "type": "color",
+          "description": "color.border.critical.onDark"
+        }
+      },
+      "positive": {
+        "onLight": {
+          "value": "{positive.700}",
+          "type": "color",
+          "description": "color.border.positive.onLight"
+        },
+        "onDark": {
+          "value": "{positive.500}",
+          "type": "color",
+          "description": "color.border.positive.onDark"
+        }
+      },
+      "caution": {
+        "onLight": {
+          "value": "{caution.900}",
+          "type": "color",
+          "description": "color.border.caution.onLight"
+        },
+        "onDark": {
+          "value": "{caution.700}",
+          "type": "color",
+          "description": "color.border.caution.onDark"
+        }
+      },
+      "information": {
+        "onLight": {
+          "value": "{info.700}",
+          "type": "color",
+          "description": "color.border.information.onLight"
+        },
+        "onDark": {
+          "value": "{info.600}",
+          "type": "color",
+          "description": "color.border.information.onDark"
+        }
+      }
+    },
     "text": {
       "primary": {
         "onLight": {
