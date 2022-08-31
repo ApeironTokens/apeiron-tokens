@@ -945,6 +945,44 @@
           }
         }
       },
+      "brand": {
+        "default": {
+          "onLight": {
+            "value": "{magenta.600}",
+            "type": "color",
+            "description": "color.border.brand.default.onLight"
+          },
+          "onDark": {
+            "value": "{magenta.600}",
+            "type": "color",
+            "description": "color.border.brand.default.onDark"
+          }
+        },
+        "hover": {
+          "onLight": {
+            "value": "{magenta.700}",
+            "type": "color",
+            "description": "color.border.brand.hover.onLight"
+          },
+          "onDark": {
+            "value": "{magenta.700}",
+            "type": "color",
+            "description": "color.border.brand.hover.onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "{magenta.800}",
+            "type": "color",
+            "description": "color.border.brand.active.onLight"
+          },
+          "onDark": {
+            "value": "{magenta.800}",
+            "type": "color",
+            "description": "color.border.brand.active.onDark"
+          }
+        }
+      },
       "critical": {
         "onLight": {
           "value": "{critical.600}",
