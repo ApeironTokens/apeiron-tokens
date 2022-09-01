@@ -1476,21 +1476,21 @@
       "mega": {
         "large": {
           "extraBold": {
-            "value": "{typesets.mega.large}",
+            "value": "{typesets.mega.large.extraBold}",
             "type": "typography",
             "description": "typesets.mega.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.mega.medium}",
+            "value": "{typesets.mega.medium.extraBold}",
             "type": "typography",
             "description": "typesets.mega.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.mega.small}",
+            "value": "{typesets.mega.small.extraBold}",
             "type": "typography",
             "description": "typesets.mega.small.extraBold"
           }
@@ -1499,28 +1499,28 @@
       "display": {
         "xlarge": {
           "extraBold": {
-            "value": "{typesets.display.xlarge}",
+            "value": "{typesets.display.xlarge.extraBold}",
             "type": "typography",
             "description": "typesets.display.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{typesets.display.large}",
+            "value": "{typesets.display.large.extraBold}",
             "type": "typography",
             "description": "typesets.display.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.display.medium}",
+            "value": "{typesets.display.medium.extraBold}",
             "type": "typography",
             "description": "typesets.display.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.display.small}",
+            "value": "{typesets.display.small.extraBold}",
             "type": "typography",
             "description": "typesets.display.small.extraBold"
           }
@@ -1529,28 +1529,28 @@
       "title": {
         "xlarge": {
           "extraBold": {
-            "value": "{typesets.title.xlarge}",
+            "value": "{typesets.title.xlarge.extraBold}",
             "type": "typography",
             "description": "typesets.title.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{typesets.title.large}",
+            "value": "{typesets.title.large.extraBold}",
             "type": "typography",
             "description": "typesets.title.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.title.medium}",
+            "value": "{typesets.title.medium.extraBold}",
             "type": "typography",
             "description": "typesets.title.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.title.small}",
+            "value": "{typesets.title.small.extraBold}",
             "type": "typography",
             "description": "typesets.title.small.extraBold"
           }
@@ -1569,10 +1569,19 @@
         }
       },
       "subtitle": {
-        "bold": {
-          "value": "{typesets.subtitle.small.bold}",
-          "type": "typography",
-          "description": "typesets.subtitle.bold"
+        "large": {
+          "bold": {
+            "value": "{typesets.subtitle.large.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.large.bold"
+          }
+        },
+        "small": {
+          "bold": {
+            "value": "{typesets.subtitle.small.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.small.bold"
+          }
         }
       },
       "caption": {
