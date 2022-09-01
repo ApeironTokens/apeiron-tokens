@@ -1034,6 +1034,20 @@
         }
       },
       "interactive": {
+        "primary": {
+          "default": {
+            "onLight": {
+              "value": "{grayscale.900}",
+              "type": "color",
+              "description": "color.text.interactive.primary.default.onLight"
+            },
+            "onDark": {
+              "value": "{grayscale.200}",
+              "type": "color",
+              "description": "color.text.interactive.primary.default.onDark"
+            }
+          }
+        },
         "default": {
           "onLight": {
             "value": "{magenta.600}",
