@@ -1707,10 +1707,19 @@
         }
       },
       "subtitle": {
-        "bold": {
-          "value": "{typesets.subtitle.small.bold}",
-          "type": "typography",
-          "description": "typesets.subtitle.bold"
+        "large": {
+          "bold": {
+            "value": "{typesets.subtitle.large.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.large.bold"
+          }
+        },
+        "small": {
+          "bold": {
+            "value": "{typesets.subtitle.small.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.small.bold"
+          }
         }
       },
       "caption": {
@@ -1806,10 +1815,19 @@
         }
       },
       "subtitle": {
-        "bold": {
-          "value": "{typesets.subtitle.small.bold}",
-          "type": "typography",
-          "description": "typesets.subtitle.bold"
+        "large": {
+          "bold": {
+            "value": "{typesets.subtitle.large.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.large.bold"
+          }
+        },
+        "small": {
+          "bold": {
+            "value": "{typesets.subtitle.small.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.small.bold"
+          }
         }
       },
       "caption": {
@@ -1912,10 +1930,19 @@
         }
       },
       "subtitle": {
-        "bold": {
-          "value": "{typesets.subtitle.small.bold}",
-          "type": "typography",
-          "description": "typesets.subtitle.bold"
+        "large": {
+          "bold": {
+            "value": "{typesets.subtitle.large.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.large.bold"
+          }
+        },
+        "small": {
+          "bold": {
+            "value": "{typesets.subtitle.small.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.small.bold"
+          }
         }
       },
       "caption": {
@@ -2652,19 +2679,37 @@
         }
       },
       "subtitle": {
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.brand}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.24}",
-            "fontSize": "{fontSizes.16}",
-            "letterSpacing": "{letterSpacing.default}",
-            "paragraphSpacing": "{paragraphSpacing.default}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography",
-          "description": "typesets.subtitle.bold"
+        "large": {
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamilies.brand}",
+              "fontWeight": "{fontWeights.bold}",
+              "lineHeight": "{lineHeights.24}",
+              "fontSize": "{fontSizes.18}",
+              "letterSpacing": "{letterSpacing.default}",
+              "paragraphSpacing": "{paragraphSpacing.default}",
+              "textCase": "{textCase.none}",
+              "textDecoration": "{textDecoration.none}"
+            },
+            "type": "typography",
+            "description": "typesets.subtitle.large.bold"
+          }
+        },
+        "small": {
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamilies.brand}",
+              "fontWeight": "{fontWeights.bold}",
+              "lineHeight": "{lineHeights.24}",
+              "fontSize": "{fontSizes.16}",
+              "letterSpacing": "{letterSpacing.default}",
+              "paragraphSpacing": "{paragraphSpacing.default}",
+              "textCase": "{textCase.none}",
+              "textDecoration": "{textDecoration.none}"
+            },
+            "type": "typography",
+            "description": "typesets.subtitle.small.bold"
+          }
         }
       },
       "caption": {
@@ -2817,10 +2862,19 @@
         }
       },
       "subtitle": {
-        "bold": {
-          "value": "{typesets.subtitle.small.bold}",
-          "type": "typography",
-          "description": "typesets.subtitle.bold"
+        "large": {
+          "bold": {
+            "value": "{typesets.subtitle.large.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.large.bold"
+          }
+        },
+        "small": {
+          "bold": {
+            "value": "{typesets.subtitle.small.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.small.bold"
+          }
         }
       },
       "caption": {
@@ -2946,10 +3000,19 @@
         }
       },
       "subtitle": {
-        "bold": {
-          "value": "{typesets.subtitle.small.bold}",
-          "type": "typography",
-          "description": "typesets.subtitle.bold"
+        "large": {
+          "bold": {
+            "value": "{typesets.subtitle.large.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.large.bold"
+          }
+        },
+        "small": {
+          "bold": {
+            "value": "{typesets.subtitle.small.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.small.bold"
+          }
         }
       },
       "caption": {
@@ -3045,10 +3108,19 @@
         }
       },
       "subtitle": {
-        "bold": {
-          "value": "{typesets.subtitle.small.bold}",
-          "type": "typography",
-          "description": "typesets.subtitle.bold"
+        "large": {
+          "bold": {
+            "value": "{typesets.subtitle.large.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.large.bold"
+          }
+        },
+        "small": {
+          "bold": {
+            "value": "{typesets.subtitle.small.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.small.bold"
+          }
         }
       },
       "caption": {
@@ -3151,10 +3223,19 @@
         }
       },
       "subtitle": {
-        "bold": {
-          "value": "{typesets.subtitle.small.bold}",
-          "type": "typography",
-          "description": "typesets.subtitle.bold"
+        "large": {
+          "bold": {
+            "value": "{typesets.subtitle.large.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.large.bold"
+          }
+        },
+        "small": {
+          "bold": {
+            "value": "{typesets.subtitle.small.bold}",
+            "type": "typography",
+            "description": "typesets.subtitle.small.bold"
+          }
         }
       },
       "caption": {
