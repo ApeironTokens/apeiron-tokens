@@ -1041,7 +1041,7 @@
             "description": "color.text.interactive.default.onLight"
           },
           "onDark": {
-            "value": "{magenta.600}",
+            "value": "{magenta.500}",
             "type": "color",
             "description": "color.text.interactive.default.onDark"
           }
