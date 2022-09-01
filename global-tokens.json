@@ -1048,40 +1048,42 @@
             }
           }
         },
-        "default": {
-          "onLight": {
-            "value": "{magenta.600}",
-            "type": "color",
-            "description": "color.text.interactive.default.onLight"
+        "secondary": {
+          "default": {
+            "onLight": {
+              "value": "{magenta.600}",
+              "type": "color",
+              "description": "color.text.interactive.secondary.default.onLight"
+            },
+            "onDark": {
+              "value": "{magenta.500}",
+              "type": "color",
+              "description": "color.text.interactive.secondary.default.onDark"
+            }
           },
-          "onDark": {
-            "value": "{magenta.500}",
-            "type": "color",
-            "description": "color.text.interactive.default.onDark"
-          }
-        },
-        "hover": {
-          "onLight": {
-            "value": "{magenta.700}",
-            "type": "color",
-            "description": "color.text.interactive.hover.onLight"
+          "hover": {
+            "onLight": {
+              "value": "{magenta.700}",
+              "type": "color",
+              "description": "color.text.interactive.secondary.hover.onLight"
+            },
+            "onDark": {
+              "value": "{magenta.700}",
+              "type": "color",
+              "description": "color.text.interactive.secondary.hover.onDark"
+            }
           },
-          "onDark": {
-            "value": "{magenta.700}",
-            "type": "color",
-            "description": "color.text.interactive.hover.onDark"
-          }
-        },
-        "active": {
-          "onLight": {
-            "value": "{magenta.800}",
-            "type": "color",
-            "description": "color.text.interactive.active.onLight"
-          },
-          "onDark": {
-            "value": "{magenta.800}",
-            "type": "color",
-            "description": "color.text.interactive.active.onDark"
+          "active": {
+            "onLight": {
+              "value": "{magenta.800}",
+              "type": "color",
+              "description": "color.text.interactive.secondary.active.onLight"
+            },
+            "onDark": {
+              "value": "{magenta.800}",
+              "type": "color",
+              "description": "color.text.interactive.secondary.active.onDark"
+            }
           }
         }
       },
