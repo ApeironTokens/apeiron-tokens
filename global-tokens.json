@@ -1386,19 +1386,37 @@
         }
       },
       "subtitle": {
-        "bold": {
-          "value": {
-            "fontFamily": "{fontFamilies.brand}",
-            "fontWeight": "{fontWeights.bold}",
-            "lineHeight": "{lineHeights.24}",
-            "fontSize": "{fontSizes.16}",
-            "letterSpacing": "{letterSpacing.default}",
-            "paragraphSpacing": "{paragraphSpacing.default}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
-          "type": "typography",
-          "description": "typesets.subtitle.bold"
+        "large": {
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamilies.brand}",
+              "fontWeight": "{fontWeights.bold}",
+              "lineHeight": "{lineHeights.24}",
+              "fontSize": "{fontSizes.18}",
+              "letterSpacing": "{letterSpacing.default}",
+              "paragraphSpacing": "{paragraphSpacing.default}",
+              "textCase": "{textCase.none}",
+              "textDecoration": "{textDecoration.none}"
+            },
+            "type": "typography",
+            "description": "typesets.subtitle.large.bold"
+          }
+        },
+        "small": {
+          "bold": {
+            "value": {
+              "fontFamily": "{fontFamilies.brand}",
+              "fontWeight": "{fontWeights.bold}",
+              "lineHeight": "{lineHeights.24}",
+              "fontSize": "{fontSizes.16}",
+              "letterSpacing": "{letterSpacing.default}",
+              "paragraphSpacing": "{paragraphSpacing.default}",
+              "textCase": "{textCase.none}",
+              "textDecoration": "{textDecoration.none}"
+            },
+            "type": "typography",
+            "description": "typesets.subtitle.small.bold"
+          }
         }
       },
       "caption": {
@@ -1458,21 +1476,21 @@
       "mega": {
         "large": {
           "extraBold": {
-            "value": "{typesets.mega.large.extraBold}",
+            "value": "{typesets.mega.large}",
             "type": "typography",
             "description": "typesets.mega.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.mega.medium.extraBold}",
+            "value": "{typesets.mega.medium}",
             "type": "typography",
             "description": "typesets.mega.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.mega.small.extraBold}",
+            "value": "{typesets.mega.small}",
             "type": "typography",
             "description": "typesets.mega.small.extraBold"
           }
@@ -1481,28 +1499,28 @@
       "display": {
         "xlarge": {
           "extraBold": {
-            "value": "{typesets.display.xlarge.extraBold}",
+            "value": "{typesets.display.xlarge}",
             "type": "typography",
             "description": "typesets.display.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{typesets.display.large.extraBold}",
+            "value": "{typesets.display.large}",
             "type": "typography",
             "description": "typesets.display.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.display.medium.extraBold}",
+            "value": "{typesets.display.medium}",
             "type": "typography",
             "description": "typesets.display.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.display.small.extraBold}",
+            "value": "{typesets.display.small}",
             "type": "typography",
             "description": "typesets.display.small.extraBold"
           }
@@ -1511,28 +1529,28 @@
       "title": {
         "xlarge": {
           "extraBold": {
-            "value": "{typesets.title.xlarge.extraBold}",
+            "value": "{typesets.title.xlarge}",
             "type": "typography",
             "description": "typesets.title.xlarge.extraBold"
           }
         },
         "large": {
           "extraBold": {
-            "value": "{typesets.title.large.extraBold}",
+            "value": "{typesets.title.large}",
             "type": "typography",
             "description": "typesets.title.large.extraBold"
           }
         },
         "medium": {
           "extraBold": {
-            "value": "{typesets.title.medium.extraBold}",
+            "value": "{typesets.title.medium}",
             "type": "typography",
             "description": "typesets.title.medium.extraBold"
           }
         },
         "small": {
           "extraBold": {
-            "value": "{typesets.title.small.extraBold}",
+            "value": "{typesets.title.small}",
             "type": "typography",
             "description": "typesets.title.small.extraBold"
           }
@@ -1552,7 +1570,7 @@
       },
       "subtitle": {
         "bold": {
-          "value": "{typesets.subtitle.bold}",
+          "value": "{typesets.subtitle.small.bold}",
           "type": "typography",
           "description": "typesets.subtitle.bold"
         }
@@ -1681,7 +1699,7 @@
       },
       "subtitle": {
         "bold": {
-          "value": "{typesets.subtitle.bold}",
+          "value": "{typesets.subtitle.small.bold}",
           "type": "typography",
           "description": "typesets.subtitle.bold"
         }
@@ -1780,7 +1798,7 @@
       },
       "subtitle": {
         "bold": {
-          "value": "{typesets.subtitle.bold}",
+          "value": "{typesets.subtitle.small.bold}",
           "type": "typography",
           "description": "typesets.subtitle.bold"
         }
@@ -1886,7 +1904,7 @@
       },
       "subtitle": {
         "bold": {
-          "value": "{typesets.subtitle.bold}",
+          "value": "{typesets.subtitle.small.bold}",
           "type": "typography",
           "description": "typesets.subtitle.bold"
         }
@@ -2791,7 +2809,7 @@
       },
       "subtitle": {
         "bold": {
-          "value": "{typesets.subtitle.bold}",
+          "value": "{typesets.subtitle.small.bold}",
           "type": "typography",
           "description": "typesets.subtitle.bold"
         }
@@ -2920,7 +2938,7 @@
       },
       "subtitle": {
         "bold": {
-          "value": "{typesets.subtitle.bold}",
+          "value": "{typesets.subtitle.small.bold}",
           "type": "typography",
           "description": "typesets.subtitle.bold"
         }
@@ -3019,7 +3037,7 @@
       },
       "subtitle": {
         "bold": {
-          "value": "{typesets.subtitle.bold}",
+          "value": "{typesets.subtitle.small.bold}",
           "type": "typography",
           "description": "typesets.subtitle.bold"
         }
@@ -3125,7 +3143,7 @@
       },
       "subtitle": {
         "bold": {
-          "value": "{typesets.subtitle.bold}",
+          "value": "{typesets.subtitle.small.bold}",
           "type": "typography",
           "description": "typesets.subtitle.bold"
         }
