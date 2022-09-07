@@ -1468,6 +1468,13 @@
             "description": "typesets.caption.small.regular"
           }
         }
+      },
+      "button": {
+        "medium": {
+          "value": "{typesets.subtitle.large.bold}",
+          "type": "typography",
+          "description": "typesets.button.medium"
+        }
       }
     }
   },
@@ -1605,6 +1612,13 @@
             "type": "typography",
             "description": "typesets.caption.small.regular"
           }
+        }
+      },
+      "button": {
+        "medium": {
+          "value": "{typesets.button.medium}",
+          "type": "typography",
+          "description": "typesets.button.medium"
         }
       }
     }
@@ -1744,6 +1758,13 @@
             "description": "typesets.caption.small.regular"
           }
         }
+      },
+      "button": {
+        "medium": {
+          "value": "{typesets.button.medium}",
+          "type": "typography",
+          "description": "typesets.button.medium"
+        }
       }
     }
   },
@@ -1851,6 +1872,13 @@
             "type": "typography",
             "description": "typesets.caption.small.regular"
           }
+        }
+      },
+      "button": {
+        "medium": {
+          "value": "{typesets.button.medium}",
+          "type": "typography",
+          "description": "typesets.button.medium"
         }
       }
     },
@@ -1966,6 +1994,13 @@
             "type": "typography",
             "description": "typesets.caption.small.regular"
           }
+        }
+      },
+      "button": {
+        "medium": {
+          "value": "{typesets.button.medium}",
+          "type": "typography",
+          "description": "typesets.button.medium"
         }
       }
     },
@@ -2761,6 +2796,13 @@
             "description": "typesets.caption.small.regular"
           }
         }
+      },
+      "button": {
+        "medium": {
+          "value": "{typesets.subtitle.small.bold}",
+          "type": "typography",
+          "description": "typesets.button.medium"
+        }
       }
     }
   },
@@ -2898,6 +2940,13 @@
             "type": "typography",
             "description": "typesets.caption.small.regular"
           }
+        }
+      },
+      "button": {
+        "medium": {
+          "value": "{typesets.button.medium}",
+          "type": "typography",
+          "description": "typesets.button.medium"
         }
       }
     }
@@ -3037,6 +3086,13 @@
             "description": "typesets.caption.small.regular"
           }
         }
+      },
+      "button": {
+        "medium": {
+          "value": "{typesets.button.medium}",
+          "type": "typography",
+          "description": "typesets.button.medium"
+        }
       }
     }
   },
@@ -3144,6 +3200,13 @@
             "type": "typography",
             "description": "typesets.caption.small.regular"
           }
+        }
+      },
+      "button": {
+        "medium": {
+          "value": "{typesets.button.medium}",
+          "type": "typography",
+          "description": "typesets.button.medium"
         }
       }
     },
@@ -3259,6 +3322,13 @@
             "type": "typography",
             "description": "typesets.caption.small.regular"
           }
+        }
+      },
+      "button": {
+        "medium": {
+          "value": "{typesets.button.medium}",
+          "type": "typography",
+          "description": "typesets.button.medium"
         }
       }
     },
