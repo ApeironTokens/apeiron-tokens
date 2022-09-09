@@ -1167,7 +1167,7 @@
         "description": "fontFamilies.brand"
       },
       "system": {
-        "value": "{fontFamilies.Helvetica}",
+        "value": "{fontFamilies.Arial}",
         "type": "fontFamilies",
         "description": "fontFamilies.system"
       }
@@ -2495,7 +2495,7 @@
         "description": "fontFamilies.brand"
       },
       "system": {
-        "value": "{fontFamilies.Helvetica}",
+        "value": "{fontFamilies.Arial}",
         "type": "fontFamilies",
         "description": "fontFamilies.system"
       }
