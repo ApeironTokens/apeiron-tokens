@@ -959,6 +959,18 @@
           }
         }
       },
+      "contrast": {
+        "onLight": {
+          "value": "{grayscale.1000}",
+          "type": "color",
+          "description": "color.border.contrast.onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.100}",
+          "type": "color",
+          "description": "color.border.contrast.onDark"
+        }
+      },
       "critical": {
         "onLight": {
           "value": "{critical.600}",
@@ -1109,6 +1121,18 @@
           "value": "{grayscale.700}",
           "type": "color",
           "description": "color.text.disabled.onDark"
+        }
+      },
+      "contrast": {
+        "onLight": {
+          "value": "{grayscale.1000}",
+          "type": "color",
+          "description": "color.text.contrast.onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.100}",
+          "type": "color",
+          "description": "color.text.contrast.onDark"
         }
       },
       "critical": {
@@ -2287,6 +2311,18 @@
           }
         }
       },
+      "contrast": {
+        "onLight": {
+          "value": "{grayscale.1000}",
+          "type": "color",
+          "description": "color.border.contrast.onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.100}",
+          "type": "color",
+          "description": "color.border.contrast.onDark"
+        }
+      },
       "critical": {
         "onLight": {
           "value": "{critical.600}",
@@ -2437,6 +2473,18 @@
           "value": "{grayscale.700}",
           "type": "color",
           "description": "color.text.disabled.onDark"
+        }
+      },
+      "contrast": {
+        "onLight": {
+          "value": "{grayscale.1000}",
+          "type": "color",
+          "description": "color.text.contrast.onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.100}",
+          "type": "color",
+          "description": "color.text.contrast.onDark"
         }
       },
       "critical": {
