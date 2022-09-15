@@ -2057,7 +2057,7 @@
             "description": "color.brand.primary.default.onLight"
           },
           "onDark": {
-            "value": "{purple.400}",
+            "value": "{purple.500}",
             "type": "color",
             "description": "color.brand.primary.default.onDark"
           }
@@ -2069,7 +2069,7 @@
             "description": "color.brand.primary.hover.onLight"
           },
           "onDark": {
-            "value": "{purple.500}",
+            "value": "{purple.400}",
             "type": "color",
             "description": "color.brand.primary.hover.onDark"
           }
