@@ -783,6 +783,11 @@
             "value": "{grayscale.200}",
             "type": "color",
             "description": "color.background.primary.hover.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.900}",
+            "type": "color",
+            "description": "color.background.primary.hover.onDark"
           }
         },
         "active": {
@@ -790,6 +795,11 @@
             "value": "{grayscale.300}",
             "type": "color",
             "description": "color.background.primary.active.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.1000}",
+            "type": "color",
+            "description": "color.background.primary.active.onDark"
           }
         }
       },
@@ -2135,6 +2145,11 @@
             "value": "{grayscale.200}",
             "type": "color",
             "description": "color.background.primary.hover.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.900}",
+            "type": "color",
+            "description": "color.background.primary.hover.onDark"
           }
         },
         "active": {
@@ -2142,6 +2157,11 @@
             "value": "{grayscale.300}",
             "type": "color",
             "description": "color.background.primary.active.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.1000}",
+            "type": "color",
+            "description": "color.background.primary.active.onDark"
           }
         }
       },
