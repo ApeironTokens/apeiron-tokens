@@ -1503,7 +1503,8 @@
               "letterSpacing": "{letterSpacing.default}",
               "paragraphSpacing": "{paragraphSpacing.default}",
               "textCase": "{textCase.none}",
-              "textDecoration": "{textDecoration.none}"
+              "textDecoration": "{textDecoration.none}",
+              "textStyle": "textStyle.caption2"
             },
             "type": "typography",
             "description": "typesets.caption.small.regular"
