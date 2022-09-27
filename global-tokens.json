@@ -815,6 +815,30 @@
             "type": "color",
             "description": "color.background.secondary.default.onDark"
           }
+        },
+        "hover": {
+          "onLight": {
+            "value": "{grayscale.100}",
+            "type": "color",
+            "description": "color.background.secondary.hover.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.100}",
+            "type": "color",
+            "description": "color.background.secondary.hover.onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "{grayscale.100}",
+            "type": "color",
+            "description": "color.background.secondary.active.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.100}",
+            "type": "color",
+            "description": "color.background.secondary.active.onDark"
+          }
         }
       },
       "disabled": {
@@ -2201,6 +2225,30 @@
             "value": "{grayscale.900}",
             "type": "color",
             "description": "color.background.secondary.default.onDark"
+          }
+        },
+        "hover": {
+          "onLight": {
+            "value": "{grayscale.100}",
+            "type": "color",
+            "description": "color.background.secondary.hover.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.100}",
+            "type": "color",
+            "description": "color.background.secondary.hover.onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "{grayscale.100}",
+            "type": "color",
+            "description": "color.background.secondary.active.onLight"
+          },
+          "onDark": {
+            "value": "{grayscale.100}",
+            "type": "color",
+            "description": "color.background.secondary.active.onDark"
           }
         }
       },
