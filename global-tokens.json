@@ -1276,43 +1276,43 @@
               "description": "color.text.interactive.primary.default.onDark"
             }
           }
+        }
+      },
+      "brand": {
+        "default": {
+          "onLight": {
+            "value": "{magenta.600}",
+            "type": "color",
+            "description": "color.text.brand.default.onLight"
+          },
+          "onDark": {
+            "value": "{magenta.500}",
+            "type": "color",
+            "description": "color.text.brand.default.onDark"
+          }
         },
-        "secondary": {
-          "default": {
-            "onLight": {
-              "value": "{magenta.600}",
-              "type": "color",
-              "description": "color.text.interactive.secondary.default.onLight"
-            },
-            "onDark": {
-              "value": "{magenta.500}",
-              "type": "color",
-              "description": "color.text.interactive.secondary.default.onDark"
-            }
+        "hover": {
+          "onLight": {
+            "value": "{magenta.700}",
+            "type": "color",
+            "description": "text.brand.hover.onLight"
           },
-          "hover": {
-            "onLight": {
-              "value": "{magenta.700}",
-              "type": "color",
-              "description": "color.text.interactive.secondary.hover.onLight"
-            },
-            "onDark": {
-              "value": "{magenta.700}",
-              "type": "color",
-              "description": "color.text.interactive.secondary.hover.onDark"
-            }
+          "onDark": {
+            "value": "{magenta.700}",
+            "type": "color",
+            "description": "color.text.brand.hover.onDark"
+          }
+        },
+        "active": {
+          "onLight": {
+            "value": "{magenta.800}",
+            "type": "color",
+            "description": "color.text.brand.active.onLight"
           },
-          "active": {
-            "onLight": {
-              "value": "{magenta.800}",
-              "type": "color",
-              "description": "color.text.interactive.secondary.active.onLight"
-            },
-            "onDark": {
-              "value": "{magenta.800}",
-              "type": "color",
-              "description": "color.text.interactive.secondary.active.onDark"
-            }
+          "onDark": {
+            "value": "{magenta.800}",
+            "type": "color",
+            "description": "color.text.brand.active.onDark"
           }
         }
       },
