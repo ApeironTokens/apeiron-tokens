@@ -1026,15 +1026,15 @@
       },
       "brand": {
         "default": {
-          "onDark": {
-            "value": "{magenta.600}",
-            "type": "color",
-            "description": "color.background.brand.default.onDark"
-          },
           "onLight": {
             "value": "{magenta.600}",
             "type": "color",
             "description": "color.background.brand.default.onLight"
+          },
+          "onDark": {
+            "value": "{magenta.600}",
+            "type": "color",
+            "description": "color.background.brand.default.onDark"
           }
         },
         "hover": {
