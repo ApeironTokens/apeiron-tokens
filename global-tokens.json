@@ -2794,7 +2794,7 @@
             "description": "color.border.brand.default.onLight"
           },
           "onDark": {
-            "value": "{purple.400}",
+            "value": "{purple.500}",
             "type": "color",
             "description": "color.border.brand.default.onDark"
           }
