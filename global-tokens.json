@@ -206,6 +206,11 @@
         "value": "#121212",
         "type": "color",
         "description": "color.grayscale.1000"
+      },
+      "1100": {
+        "value": "#000000",
+        "type": "color",
+        "description": "color.grayscale.1100"
       }
     },
     "positive": {
