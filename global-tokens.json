@@ -1902,6 +1902,77 @@
           "description": "shadow.xLarge.onDark"
         }
       }
+    },
+    "spacing": {
+      "100": {
+        "value": "{spacing.4}",
+        "type": "spacing",
+        "description": "spacing.100"
+      },
+      "200": {
+        "value": "{spacing.8}",
+        "type": "spacing",
+        "description": "spacing.200"
+      },
+      "300": {
+        "value": "{spacing.16}",
+        "type": "spacing",
+        "description": "spacing.300"
+      },
+      "400": {
+        "value": "{spacing.24}",
+        "type": "spacing",
+        "description": "spacing.400"
+      },
+      "500": {
+        "value": "{spacing.32}",
+        "type": "spacing",
+        "description": "spacing.500"
+      },
+      "600": {
+        "value": "{spacing.40}",
+        "type": "spacing",
+        "description": "spacing.600"
+      },
+      "700": {
+        "value": "{spacing.48}",
+        "type": "spacing",
+        "description": "spacing.700"
+      },
+      "800": {
+        "value": "{spacing.56}",
+        "type": "spacing",
+        "description": "spacing.800"
+      },
+      "900": {
+        "value": "{spacing.80}",
+        "type": "spacing",
+        "description": "spacing.900"
+      },
+      "1000": {
+        "value": "{spacing.96}",
+        "type": "spacing",
+        "description": "spacing.1000"
+      }
+    },
+    "borderRadius": {
+      "small": {
+        "value": "{borderRadius.8}",
+        "type": "borderRadius",
+        "description": "borderRadius.small"
+      }
+    },
+    "borderWidth": {
+      "thin": {
+        "value": "{borderWidth.1}",
+        "type": "borderWidth",
+        "description": "borderWidth.thin"
+      },
+      "regular": {
+        "value": "{borderWidth.2}",
+        "type": "borderWidth",
+        "description": "borderWidth.regular"
+      }
     }
   },
   "tmobile.webDesktop": {
@@ -3583,6 +3654,77 @@
           "type": "boxShadow",
           "description": "shadow.xLarge.onDark"
         }
+      }
+    },
+    "spacing": {
+      "100": {
+        "value": "{spacing.4}",
+        "type": "spacing",
+        "description": "spacing.100"
+      },
+      "200": {
+        "value": "{spacing.8}",
+        "type": "spacing",
+        "description": "spacing.200"
+      },
+      "300": {
+        "value": "{spacing.16}",
+        "type": "spacing",
+        "description": "spacing.300"
+      },
+      "400": {
+        "value": "{spacing.24}",
+        "type": "spacing",
+        "description": "spacing.400"
+      },
+      "500": {
+        "value": "{spacing.32}",
+        "type": "spacing",
+        "description": "spacing.500"
+      },
+      "600": {
+        "value": "{spacing.40}",
+        "type": "spacing",
+        "description": "spacing.600"
+      },
+      "700": {
+        "value": "{spacing.48}",
+        "type": "spacing",
+        "description": "spacing.700"
+      },
+      "800": {
+        "value": "{spacing.56}",
+        "type": "spacing",
+        "description": "spacing.800"
+      },
+      "900": {
+        "value": "{spacing.80}",
+        "type": "spacing",
+        "description": "spacing.900"
+      },
+      "1000": {
+        "value": "{spacing.96}",
+        "type": "spacing",
+        "description": "spacing.1000"
+      }
+    },
+    "borderRadius": {
+      "small": {
+        "value": "{borderRadius.8}",
+        "type": "borderRadius",
+        "description": "borderRadius.small"
+      }
+    },
+    "borderWidth": {
+      "thin": {
+        "value": "{borderWidth.1}",
+        "type": "borderWidth",
+        "description": "borderWidth.thin"
+      },
+      "regular": {
+        "value": "{borderWidth.2}",
+        "type": "borderWidth",
+        "description": "borderWidth.regular"
       }
     }
   },
