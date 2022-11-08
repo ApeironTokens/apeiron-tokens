@@ -997,24 +997,24 @@
         },
         "hover": {
           "onLight": {
-            "value": "{grayscale.100}",
+            "value": "{grayscale.300}",
             "type": "color",
             "description": "color.background.secondary.hover.onLight"
           },
           "onDark": {
-            "value": "{grayscale.100}",
+            "value": "{grayscale.800}",
             "type": "color",
             "description": "color.background.secondary.hover.onDark"
           }
         },
         "active": {
           "onLight": {
-            "value": "{grayscale.100}",
+            "value": "{grayscale.400}",
             "type": "color",
             "description": "color.background.secondary.active.onLight"
           },
           "onDark": {
-            "value": "{grayscale.100}",
+            "value": "{grayscale.700}",
             "type": "color",
             "description": "color.background.secondary.active.onDark"
           }
