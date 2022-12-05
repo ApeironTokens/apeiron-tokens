@@ -1072,6 +1072,18 @@
           }
         }
       },
+      "onDisabled": {
+        "onLight": {
+          "value": "{grayscale.400}",
+          "type": "color",
+          "description": "color.background.onDisabled.onLight"
+        },
+        "onDark": {
+          "value": "{grayscale.900}",
+          "type": "color",
+          "description": "color.background.onDisabled.onDark"
+        }
+      },
       "critical": {
         "onLight": {
           "value": "{critical.600}",
@@ -1158,18 +1170,6 @@
             "type": "color",
             "description": "color.background.bold.default.onDark"
           }
-        }
-      },
-      "onDisabled": {
-        "onLight": {
-          "value": "{grayscale.400}",
-          "type": "color",
-          "description": "color.background.onDisabled.onLight"
-        },
-        "onDark": {
-          "value": "{grayscale.900}",
-          "type": "color",
-          "description": "color.background.onDisabled.onDark"
         }
       },
       "black": {
