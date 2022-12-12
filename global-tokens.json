@@ -2901,7 +2901,7 @@
       "medium": {
         "default": {
           "onLight": {
-            "value": "{grayscale.700}",
+            "value": "{grayscale.800}",
             "type": "color",
             "description": "color.background.medium.default.onLight"
           },
@@ -2915,7 +2915,7 @@
       "bold": {
         "default": {
           "onLight": {
-            "value": "{grayscale.800}",
+            "value": "{grayscale.900}",
             "type": "color",
             "description": "color.background.bold.default.onLight"
           },
